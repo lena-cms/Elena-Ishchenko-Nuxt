@@ -21,7 +21,9 @@
         <router-link to="/cv" class="header-container-link1 Navbar-Link">
           {{ link1 }}
         </router-link>
-        <span class="Navbar-Link">{{ link3 }}</span>
+        <router-link to="/contact" class="header-container-link2 Navbar-Link">
+          {{ link3 }}
+        </router-link>
       </div>
       <div data-role="BurgerMenu" class="header-container-burger-menu">
         <svg viewBox="0 0 1024 1024" class="header-container-icon">
@@ -161,6 +163,9 @@ export default {
 }
 .header-container-link1 {
   margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.header-container-link2 {
   text-decoration: none;
 }
 .header-container-burger-menu {

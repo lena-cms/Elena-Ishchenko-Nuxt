@@ -4,11 +4,11 @@
       rootClassName="header-container-root-class-name"
     ></header-container>
     <div class="cv-container1">
-      <cv-grid rootClassName="cv-grid-root-class-name7" cv_title="Ongoing">
+      <cv-grid cv_title="Ongoing" rootClassName="cv-grid-root-class-name7">
         <span class="cv-text">
           <span>
             Archive of repressions against cultural workers in Russia
-            <span v-html="raw8u5a"></span>
+            <span v-html="rawpplt"></span>
           </span>
           <span class="cv-text002">Research with FFIA grant</span>
         </span>
@@ -20,7 +20,7 @@
         <p class="cv-text003">
           <span>
             Empires Will Die
-            <span v-html="raw6pxx"></span>
+            <span v-html="rawe0my"></span>
           </span>
           <span class="cv-text005">Telegram Channel</span>
         </p>
@@ -34,7 +34,7 @@
           <span class="cv-text008">Lecturer &amp; Co-organiser</span>
         </p>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name3" cv_title="Recent">
+      <cv-grid cv_title="Recent" rootClassName="cv-grid-root-class-name3">
         <span class="cv-text009">
           <a
             href="https://gak-bremen.de/en/events/23v_elena-ishchenko_en/"
@@ -46,7 +46,7 @@
           </a>
           <span>  </span>
           <span class="cv-text011">Lecture in GAK Bremen, Germany</span>
-          <span><span v-html="rawdi4n"></span></span>
+          <span><span v-html="rawq2on"></span></span>
         </span>
       </cv-grid>
       <cv-grid rootClassName="cv-grid-root-class-name5">
@@ -66,59 +66,59 @@
         </span>
       </cv-grid>
       <cv-grid
-        rootClassName="cv-grid-root-class-name6"
         cv_title="Education"
         cv_years="2014"
+        rootClassName="cv-grid-root-class-name6"
       >
         <span class="cv-text016">
           Moscow State University, MA Journalism
-          <span v-html="raw7iwi"></span>
+          <span v-html="rawmx47"></span>
         </span>
       </cv-grid>
       <cv-grid
-        rootClassName="cv-grid-root-class-name8"
         cv_title="Residencies"
         cv_years="2019"
+        rootClassName="cv-grid-root-class-name8"
       >
         <span class="cv-text017">Residency Unlimited New York, USA</span>
       </cv-grid>
       <cv-grid
-        rootClassName="cv-grid-root-class-name28"
         cv_title="Positions"
         cv_years="2017–2022"
+        rootClassName="cv-grid-root-class-name28"
       >
         <span class="cv-text018">
           <span>
             Program Curator at Typography Center for Contemporary Art
-            <span v-html="rawrl54"></span>
+            <span v-html="rawbyfr"></span>
           </span>
           <span class="cv-text020">Krasnodar, Russia</span>
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name25" cv_years="2019–2022">
+      <cv-grid cv_years="2019–2022" rootClassName="cv-grid-root-class-name25">
         <span class="cv-text021">
           <span>
             Lecturer at Krasnodar State Institute of Culture
-            <span v-html="rawgyvm"></span>
+            <span v-html="raws3j3"></span>
           </span>
           <span class="cv-text023">Krasnodar, Russia</span>
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name9" cv_years="2015–2017">
+      <cv-grid cv_years="2015–2017" rootClassName="cv-grid-root-class-name9">
         <span class="cv-text024">
           <span>
             Research fellow at Garage Museum of Contemporary Art
-            <span v-html="rawi17b"></span>
+            <span v-html="rawdmvc"></span>
           </span>
           <span class="cv-text026">Moscow, Russia</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name10" cv_years="2012–2019">
+      <cv-grid cv_years="2012–2019" rootClassName="cv-grid-root-class-name10">
         <span class="cv-text028">
           <span>
             Editor and Contributor at
-            <span v-html="rawxc7j"></span>
+            <span v-html="rawwe18"></span>
           </span>
           <a
             href="http://aroundart.org/"
@@ -131,9 +131,9 @@
         </span>
       </cv-grid>
       <cv-grid
-        rootClassName="cv-grid-root-class-name11"
         cv_title="Selected exhibitions and other projects"
         cv_years="2022"
+        rootClassName="cv-grid-root-class-name11"
       >
         <span class="cv-text030">
           <span>Emergency Stipend Fund by Goethe Institut / Curator</span>
@@ -145,17 +145,17 @@
             class="cv-link03"
           >
             Discourse Lab at Urvakan Festival
-            <span v-html="raw117r"></span>
+            <span v-html="rawl7wv"></span>
           </a>
           <span>
             / Tutor
-            <span v-html="rawbwif"></span>
+            <span v-html="raw3z1e"></span>
           </span>
           <span class="cv-text034">Yerevan, Armenia</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name12" cv_years="2021">
+      <cv-grid cv_years="2021" rootClassName="cv-grid-root-class-name12">
         <span class="cv-text036">
           <a
             href="http://typography-online.ru/2021/02/17/unaimed-session-with-league-of-tenders-eng/"
@@ -177,7 +177,7 @@
           </a>
           <span>
             / Fellow — Research project by CEC Artslink
-            <span v-html="rawg822"></span>
+            <span v-html="rawf6lu"></span>
           </span>
           <span class="cv-text040">New York, USA</span>
           <br />
@@ -191,13 +191,13 @@
           </a>
           <span>
             / Curator
-            <span v-html="rawoxkw"></span>
+            <span v-html="rawugo7"></span>
           </span>
           <span class="cv-text043">Typography CCA, Krasnodar, Russia</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name13" cv_years="2020">
+      <cv-grid cv_years="2020" rootClassName="cv-grid-root-class-name13">
         <span class="cv-text045">
           <a
             href="http://typography-online.ru/2020/12/01/league_4_protocol_rus/"
@@ -220,7 +220,7 @@
           </a>
           <span>
             / Curator 
-            <span v-html="rawmo7n"></span>
+            <span v-html="rawwofn"></span>
           </span>
           <span class="cv-text050">Typography CCA, </span>
           <span class="cv-text051">Krasnodar</span>
@@ -236,13 +236,13 @@
           </a>
           <span>
             / Curator 
-            <span v-html="rawmdos"></span>
+            <span v-html="rawjh2w"></span>
           </span>
           <span class="cv-text055">Typography CCA, Krasnodar, Russia</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name4" cv_years="2019">
+      <cv-grid cv_years="2019" rootClassName="cv-grid-root-class-name4">
         <span class="cv-text057">
           <a
             href="http://typography-online.ru/2019/08/14/curatorial-courses-eng/"
@@ -268,13 +268,13 @@
           <br />
           <span>
             Elena Kolesnikova. Odnushka / Curator
-            <span v-html="rawyvvq"></span>
+            <span v-html="rawu9mc"></span>
           </span>
           <span class="cv-text065">Novo-Molokovo, Moscow</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name14" cv_years="2018">
+      <cv-grid cv_years="2018" rootClassName="cv-grid-root-class-name14">
         <span class="cv-text067">
           <a
             href="http://typography-online.ru/2018/10/29/zhmievsky_realism/"
@@ -297,7 +297,7 @@
           </a>
           <span>
             / Curator
-            <span v-html="rawc5q6"></span>
+            <span v-html="raw1t54"></span>
           </span>
           <span class="cv-text072">Typography CCA, Krasnodar, Russia</span>
           <br />
@@ -319,11 +319,11 @@
             class="cv-link15"
           >
             Working Group — Identity Department
-            <span v-html="rawwcoo"></span>
+            <span v-html="rawjdq9"></span>
           </a>
           <span>
             / Curator
-            <span v-html="rawk7e5"></span>
+            <span v-html="rawoiaf"></span>
           </span>
           <span class="cv-text078">Typography CCA, Krasnodar, Russia</span>
           <br />
@@ -337,7 +337,7 @@
           </a>
           <span>
             / Curator 
-            <span v-html="rawessy"></span>
+            <span v-html="raw00wh"></span>
           </span>
           <span class="cv-text081">
             Zarya Center for Contemporary Art, Vladivostok, Russia
@@ -345,7 +345,7 @@
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name15" cv_years="2017">
+      <cv-grid cv_years="2017" rootClassName="cv-grid-root-class-name15">
         <span class="cv-text083">
           <a
             href="http://aroundart.org/2017/11/17/between_fatigue_photo/"
@@ -357,7 +357,7 @@
           </a>
           <span>
             / Curator
-            <span v-html="rawmj91"></span>
+            <span v-html="raw71hz"></span>
           </span>
           <span class="cv-text085">
             Parallel program of 4th Ural Industrial Biennial of Contemporary Art
@@ -367,12 +367,12 @@
         </span>
       </cv-grid>
       <cv-grid
-        rootClassName="cv-grid-root-class-name16"
-        cv_years="2023"
         cv_title="Selected lectures, courses, workshops and expertise"
+        cv_years="2023"
+        rootClassName="cv-grid-root-class-name16"
       >
         <span class="cv-text087">
-          <span><span v-html="rawmemc"></span></span>
+          <span><span v-html="rawlk4t"></span></span>
           <a
             href="https://gak-bremen.de/en/events/23v_elena-ishchenko_en/"
             target="_blank"
@@ -383,15 +383,15 @@
           </a>
           <span>
              lecture 
-            <span v-html="raw3u3n"></span>
+            <span v-html="raw7u9g"></span>
           </span>
           <span class="cv-text090">GAK Bremen, Germany</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name24" cv_years="2022, 2023">
+      <cv-grid cv_years="2022, 2023" rootClassName="cv-grid-root-class-name24">
         <span class="cv-text092">
-          <span><span v-html="rawsark"></span></span>
+          <span><span v-html="rawmn1p"></span></span>
           <a
             href="https://bangbangeducation.ru/course/curating "
             target="_blank"
@@ -404,18 +404,18 @@
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name21" cv_years="2022">
+      <cv-grid cv_years="2022" rootClassName="cv-grid-root-class-name21">
         <span class="cv-text096">
           <span>
             Decolonistion of Russian Federation for Russian speaking NGO workers
             and volunteers in Germany, organised by BVRE e.V.
-            <span v-html="rawisyv"></span>
+            <span v-html="raw8yuh"></span>
           </span>
           <span class="cv-text098">Eitorf, Germany</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name" cv_years="2022">
+      <cv-grid cv_years="2022" rootClassName="cv-grid-root-class-name">
         <span class="cv-text100">
           <span>
             Approaching sustainable curating — course for Basics of curating
@@ -424,22 +424,22 @@
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name1" cv_years="2021">
+      <cv-grid cv_years="2021" rootClassName="cv-grid-root-class-name1">
         <span class="cv-text103">
           <span>
             Institutional critic today — course for Sound Art department at Higher
             School of Economics
-            <span v-html="rawcxju"></span>
+            <span v-html="raw86ta"></span>
           </span>
           <span class="cv-text105">Moscow, Russia</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name17" cv_years="2021, 2017">
+      <cv-grid cv_years="2021, 2017" rootClassName="cv-grid-root-class-name17">
         <span class="cv-text107">
           <span>
             Member of Advisory Board of
-            <span v-html="raw57k3"></span>
+            <span v-html="raww4m6"></span>
           </span>
           <a
             href="http://ensembles.org/ensembles/vac"
@@ -456,7 +456,7 @@
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name18" cv_years="2021">
+      <cv-grid cv_years="2021" rootClassName="cv-grid-root-class-name18">
         <span class="cv-text111">
           <a
             href="https://www.cet-ka.net/"
@@ -468,14 +468,14 @@
           </a>
           <span>
             Project Meeting 
-            <span v-html="raw7le6"></span>
+            <span v-html="rawso6y"></span>
           </span>
           <span class="cv-text113">Yerevan, Armenia</span>
-          <span><span v-html="rawiyx0"></span></span>
+          <span><span v-html="raw4ha1"></span></span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name19" cv_years="2020">
+      <cv-grid cv_years="2020" rootClassName="cv-grid-root-class-name19">
         <span class="cv-text116">
           <a
             href="https://cc19.org/proekty/persisting-presence-unsustainable-development/"
@@ -487,7 +487,7 @@
           </a>
           <span>
             Сonference at 48-hours Novosibirsk festival
-            <span v-html="rawjc9j"></span>
+            <span v-html="rawq1m5"></span>
           </span>
           <span class="cv-text118">CK19, Novosibirsk, Russia</span>
           <br class="cv-text119" />
@@ -501,31 +501,31 @@
           </a>
           <span>
             , workshop —
-            <span v-html="raw3y0j"></span>
+            <span v-html="rawxuei"></span>
           </span>
           <span class="cv-text121">Zheleznogorsk, Russia</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name20" cv_years="2019">
+      <cv-grid cv_years="2019" rootClassName="cv-grid-root-class-name20">
         <span class="cv-text123">
           <span class="cv-text124">
             Elena Ishchenko in conversation with Amanda Parme
           </span>
           <span>
             r: the talk on self-organised communities
-            <span v-html="rawzib7"></span>
+            <span v-html="rawn3gu"></span>
           </span>
           <span class="cv-text126">Residency Unlimited, New Yor</span>
           <span>
             k,
-            <span v-html="raw6628"></span>
+            <span v-html="raw5tp4"></span>
           </span>
           <span class="cv-text128">USA</span>
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name22" cv_years="2018">
+      <cv-grid cv_years="2018" rootClassName="cv-grid-root-class-name22">
         <span class="cv-text130">
           <a
             href="https://prohelvetia.ru/en/event/october-18-november-25-ekaterinburg-working-archive-show/"
@@ -537,7 +537,7 @@
           </a>
           <span>
             Educator
-            <span v-html="rawbuod"></span>
+            <span v-html="rawn4cg"></span>
           </span>
           <span class="cv-text132">
             Urals Branch of National Center for Contemporary Art, Ekaterinburg,
@@ -546,7 +546,7 @@
           <br />
         </span>
       </cv-grid>
-      <cv-grid rootClassName="cv-grid-root-class-name23" cv_years="2018">
+      <cv-grid cv_years="2018" rootClassName="cv-grid-root-class-name23">
         <span class="cv-text134">
           <span>Self-organising Communities, lecture  </span>
           <span class="cv-text136">
@@ -592,39 +592,39 @@ export default {
   },
   data() {
     return {
-      raw8u5a: ' ',
-      raw6pxx: ' ',
-      rawdi4n: ' ',
-      raw7iwi: ' ',
-      rawrl54: ' ',
-      rawgyvm: ' ',
-      rawi17b: ' ',
-      rawxc7j: ' ',
-      raw117r: ' ',
-      rawbwif: ' ',
-      rawg822: ' ',
-      rawoxkw: ' ',
-      rawmo7n: ' ',
-      rawmdos: ' ',
-      rawyvvq: ' ',
-      rawc5q6: ' ',
-      rawwcoo: ' ',
-      rawk7e5: ' ',
-      rawessy: ' ',
-      rawmj91: ' ',
-      rawmemc: ' ',
-      raw3u3n: ' ',
-      rawsark: ' ',
-      rawisyv: ' ',
-      rawcxju: ' ',
-      raw57k3: ' ',
-      raw7le6: ' ',
-      rawiyx0: ' ',
-      rawjc9j: ' ',
-      raw3y0j: ' ',
-      rawzib7: ' ',
-      raw6628: ' ',
-      rawbuod: ' ',
+      rawpplt: ' ',
+      rawe0my: ' ',
+      rawq2on: ' ',
+      rawmx47: ' ',
+      rawbyfr: ' ',
+      raws3j3: ' ',
+      rawdmvc: ' ',
+      rawwe18: ' ',
+      rawl7wv: ' ',
+      raw3z1e: ' ',
+      rawf6lu: ' ',
+      rawugo7: ' ',
+      rawwofn: ' ',
+      rawjh2w: ' ',
+      rawu9mc: ' ',
+      raw1t54: ' ',
+      rawjdq9: ' ',
+      rawoiaf: ' ',
+      raw00wh: ' ',
+      raw71hz: ' ',
+      rawlk4t: ' ',
+      raw7u9g: ' ',
+      rawmn1p: ' ',
+      raw8yuh: ' ',
+      raw86ta: ' ',
+      raww4m6: ' ',
+      rawso6y: ' ',
+      raw4ha1: ' ',
+      rawq1m5: ' ',
+      rawxuei: ' ',
+      rawn3gu: ' ',
+      raw5tp4: ' ',
+      rawn4cg: ' ',
     }
   },
   metaInfo: {
@@ -654,6 +654,7 @@ export default {
   height: auto;
   display: flex;
   padding: var(--dl-space-space-tripleunit);
+  max-width: var(--dl-size-size-maxcontent);
   align-self: center;
   align-items: flex-start;
   flex-direction: column;

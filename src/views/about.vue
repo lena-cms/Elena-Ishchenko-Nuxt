@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="raw7roj"></span>
+            <span v-html="raw99l2"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawme6n"></span>
+            <span v-html="rawqokw"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="raws731"></span>
+            <span v-html="raww7az"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="rawkvil"></span>
+            <span v-html="rawuzjv"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawgri9"></span></span>
-          <span><span v-html="rawjgot"></span></span>
+          <span><span v-html="raw0me4"></span></span>
+          <span><span v-html="raw3by8"></span></span>
         </span>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      raw7roj: ' ',
-      rawme6n: ' ',
-      raws731: ' ',
-      rawkvil: ' ',
-      rawgri9: ' ',
-      rawjgot: ' ',
+      raw99l2: ' ',
+      rawqokw: ' ',
+      raww7az: ' ',
+      rawuzjv: ' ',
+      raw0me4: ' ',
+      raw3by8: ' ',
     }
   },
   metaInfo: {
@@ -181,7 +181,7 @@ export default {
   display: flex;
   padding: var(--dl-space-space-tripleunit);
   position: relative;
-  max-width: 1400px;
+  max-width: var(--dl-size-size-maxcontent);
   transition: 0.3s;
   justify-content: space-between;
 }

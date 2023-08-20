@@ -3,6 +3,7 @@
     <header-container
       rootClassName="header-container-root-class-name2"
     ></header-container>
+    <div class="contact-container1"></div>
     <footer-container
       rootClassName="footer-container-root-class-name2"
     ></footer-container>
@@ -38,6 +39,16 @@ export default {
   overflow: auto;
   min-height: 100vh;
   align-items: center;
+  flex-direction: column;
+}
+.contact-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  min-height: 70vh;
+  align-items: flex-start;
   flex-direction: column;
 }
 </style>
