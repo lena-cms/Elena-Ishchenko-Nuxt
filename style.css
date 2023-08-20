@@ -106,7 +106,7 @@
   text-decoration: none;
 }
 .Card-Heading {
-  font-size: 24px;
+  font-size: 18px;
   font-style: normal;
   font-family: Overpass;
   font-weight: 700;
@@ -123,7 +123,7 @@
   text-decoration: none;
 }
 .Navbar-Link {
-  font-size: 24px;
+  font-size: 18px;
   font-family: Overpass;
   font-weight: 700;
   line-height: 1.55;
@@ -131,8 +131,8 @@
   text-decoration: none;
 }
 .Section-Heading {
-  font-size: 48px;
-  font-family: Overpass;
+  font-size: 35px;
+  font-family: Tahoma;
   font-weight: 900;
   line-height: 1.22;
   text-transform: none;
