@@ -23,6 +23,8 @@ concurrency:
 jobs:
   # Single deploy job since we're just deploying
   sync:
+    environment:
+      name: sync
     runs-on: ubuntu-latest
     steps:
     - name: Checkout files
@@ -32,4 +34,4 @@ jobs:
           ^.*
         TARGET_REPOS: |
           lena-cms/lena-cms.github.io
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
