@@ -239,6 +239,7 @@
 }
 @media(max-width: 1200px) {
   .home-banner {
+    align-items: flex-start;
     padding-right: 24px;
   }
   .home-link {
