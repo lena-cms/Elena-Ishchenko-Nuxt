@@ -188,6 +188,69 @@
   text-align: right;
   flex-shrink: 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cv-grid-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: var(--dl-space-space-halfunit);
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.cv-grid-container1 {
+  gap: var(--dl-space-space-tripleunit);
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.cv-grid-text {
+  width: 220px;
+  align-self: flex-start;
+  font-style: normal;
+  min-height: 1rem;
+  flex-shrink: 0;
+  font-weight: 700;
+}
+.cv-grid-text1 {
+  width: 150px;
+  align-self: flex-start;
+  min-height: 1rem;
+  text-align: right;
+  flex-shrink: 0;
+}
 .cv-grid-custom-slot {
   display: contents;
 }
@@ -198,6 +261,7 @@
 .cv-grid-text002 {
   font-style: italic;
 }
+
 
 
 
@@ -298,6 +362,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -342,6 +407,7 @@
 .cv-grid-text008 {
   font-style: italic;
 }
+
 
 
 
@@ -444,6 +510,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -490,6 +557,7 @@
 .cv-grid-text015 {
   font-style: italic;
 }
+
 
 
 
@@ -586,6 +654,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -626,6 +695,7 @@
 .cv-grid-text017 {
   width: 100%;
 }
+
 
 
 
@@ -725,6 +795,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -768,6 +839,7 @@
 .cv-grid-text023 {
   font-style: italic;
 }
+
 
 
 
@@ -867,6 +939,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -910,6 +983,7 @@
 .cv-grid-link02 {
   text-decoration: underline;
 }
+
 
 
 
@@ -1013,6 +1087,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1069,6 +1144,7 @@
 .cv-grid-text043 {
   font-style: italic;
 }
+
 
 
 
@@ -1191,6 +1267,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1247,6 +1324,7 @@
 .cv-grid-text065 {
   font-style: italic;
 }
+
 
 
 
@@ -1374,6 +1452,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1421,6 +1500,7 @@
 .cv-grid-text085 {
   font-style: italic;
 }
+
 
 
 
@@ -1524,6 +1604,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1565,6 +1646,7 @@
   width: 100%;
   line-height: 1.8;
 }
+
 
 
 
@@ -1665,6 +1747,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1737,6 +1820,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1781,6 +1865,7 @@
 .cv-grid-link19 {
   text-decoration: underline;
 }
+
 
 
 
@@ -1884,6 +1969,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -1931,6 +2017,7 @@
 .cv-grid-text115 {
   font-style: italic;
 }
+
 
 
 
@@ -2037,6 +2124,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -2109,6 +2197,7 @@
 
 
 
+
 .cv-grid-container {
   width: 100%;
   height: auto;
@@ -2153,6 +2242,7 @@
 .cv-grid-text130 {
   font-style: italic;
 }
+
 
 
 
