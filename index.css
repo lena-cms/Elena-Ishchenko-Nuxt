@@ -4,9 +4,8 @@
   display: flex;
   z-index: 100;
   position: sticky;
-  box-shadow: 5px 5px 10px 0px #d4d4d4;
   align-items: center;
-  margin-bottom: var(--dl-space-space-tripleunit);
+  margin-bottom: var(--dl-space-space-unit);
   flex-direction: column;
   justify-content: center;
   background-color: var(--dl-color-gray-white);
@@ -15,13 +14,16 @@
   width: 100%;
   height: auto;
   display: flex;
+  padding: var(--dl-space-space-doubleunit);
   max-width: var(--dl-size-size-maxcontent);
   align-self: center;
   align-items: flex-start;
   padding-top: var(--dl-space-space-tripleunit);
   border-color: var(--dl-color-gray-black);
   border-style: solid;
+  border-width: 0px;
   padding-left: var(--dl-space-space-tripleunit);
+  border-radius: var(--dl-radius-radius-radius2);
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tripleunit);
@@ -160,6 +162,14 @@
   justify-content: center;
   background-color: var(--dl-color-gray-white);
 }
+.footer-container-section-separator {
+  width: 100%;
+  height: 1px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-900);
+}
 .footer-container-footer {
   width: 100%;
   display: flex;
@@ -227,39 +237,28 @@
 .home-text {
   margin-right: 48px;
 }
-.home-container2 {
-  flex: 0 0 auto;
-  width: 200px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 100px;
-  display: flex;
-  align-self: flex-start;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.home-section-separator {
-  width: 100%;
-  height: 1px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  background-color: var(--dl-color-gray-900);
-}
-.home-section-separator1 {
-  width: 100%;
-  height: 1px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  background-color: var(--dl-color-gray-900);
-}
-.home-section-separator2 {
-  width: 100%;
-  height: 1px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  background-color: var(--dl-color-gray-900);
+@media(max-width: 1200px) {
+  .home-banner {
+    padding-right: 24px;
+  }
+  .home-link {
+    text-decoration: underline;
+  }
+  .home-link1 {
+    text-decoration: underline;
+  }
+  .home-link2 {
+    text-decoration: underline;
+  }
+  .home-link3 {
+    text-decoration: underline;
+  }
+  .home-text31 {
+    align-self: flex-start;
+  }
+  .home-text32 {
+    align-self: flex-start;
+  }
 }
 @media(max-width: 991px) {
   .home-banner {
