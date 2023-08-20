@@ -5,6 +5,7 @@ import Meta from 'vue-meta'
 import CV from './views/cv'
 import Project1 from './views/project-1'
 import About from './views/about'
+import Contact from './views/contact'
 import './style.css'
 
 Vue.use(Router)
@@ -26,6 +27,11 @@ export default new Router({
       name: 'About',
       path: '/',
       component: About,
+    },
+    {
+      name: 'Contact',
+      path: '/contact',
+      component: Contact,
     },
   ],
 })

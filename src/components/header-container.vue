@@ -6,8 +6,10 @@
   >
     <div class="header-container-navbar">
       <div class="header-container-container">
-        <span class="header-container-heading Card-Heading">{{ Heading }}</span>
-        <span>
+        <router-link to="/" class="header-container-heading Card-Heading">
+          {{ Heading }}
+        </router-link>
+        <span class="header-container-text">
           <span>Curator, researcher, activist</span>
           <br />
         </span>
@@ -19,7 +21,6 @@
         <router-link to="/cv" class="header-container-link1 Navbar-Link">
           {{ link1 }}
         </router-link>
-        <span class="header-container-link2 Navbar-Link">{{ link2 }}</span>
         <span class="Navbar-Link">{{ link3 }}</span>
       </div>
       <div data-role="BurgerMenu" class="header-container-burger-menu">
@@ -43,9 +44,9 @@
           </div>
         </div>
         <div class="header-container-links-container1">
-          <span class="header-container-link4 Navbar-Link">{{ link4 }}</span>
-          <span class="header-container-link5 Navbar-Link">{{ link5 }}</span>
-          <span class="header-container-link6 Navbar-Link">{{ link6 }}</span>
+          <span class="header-container-link3 Navbar-Link">{{ link4 }}</span>
+          <span class="header-container-link4 Navbar-Link">{{ link5 }}</span>
+          <span class="header-container-link5 Navbar-Link">{{ link6 }}</span>
           <span class="Navbar-Link">{{ link7 }}</span>
         </div>
         <div class="header-container-container2"></div>
@@ -145,6 +146,7 @@ export default {
 }
 .header-container-heading {
   transition: 0.3s;
+  text-decoration: none;
 }
 
 .header-container-links-container {
@@ -160,9 +162,6 @@ export default {
 .header-container-link1 {
   margin-right: var(--dl-space-space-tripleunit);
   text-decoration: none;
-}
-.header-container-link2 {
-  margin-right: var(--dl-space-space-tripleunit);
 }
 .header-container-burger-menu {
   display: none;
@@ -209,13 +208,13 @@ export default {
   align-items: flex-start;
   flex-direction: column;
 }
+.header-container-link3 {
+  margin-bottom: var(--dl-space-space-unit);
+}
 .header-container-link4 {
   margin-bottom: var(--dl-space-space-unit);
 }
 .header-container-link5 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.header-container-link6 {
   margin-bottom: var(--dl-space-space-unit);
 }
 .header-container-container2 {
@@ -228,9 +227,14 @@ export default {
 }
 
 
+
 @media(max-width: 991px) {
   .header-container-heading {
-    text-align: center;
+    align-self: flex-start;
+    text-align: left;
+  }
+  .header-container-text {
+    text-align: left;
   }
   .header-container-heading1 {
     text-align: center;
