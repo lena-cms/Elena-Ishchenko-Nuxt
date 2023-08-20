@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="raw9m7a"></span>
+            <span v-html="rawuujb"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawtffh"></span>
+            <span v-html="rawl79i"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawhkk8"></span>
+            <span v-html="rawh3dt"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="raw26zb"></span>
+            <span v-html="raw5wxc"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="raw2drx"></span></span>
-          <span><span v-html="rawbubp"></span></span>
+          <span><span v-html="raw0mzl"></span></span>
+          <span><span v-html="rawajd7"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      raw9m7a: ' ',
-      rawtffh: ' ',
-      rawhkk8: ' ',
-      raw26zb: ' ',
-      raw2drx: ' ',
-      rawbubp: ' ',
+      rawuujb: ' ',
+      rawl79i: ' ',
+      rawh3dt: ' ',
+      raw5wxc: ' ',
+      raw0mzl: ' ',
+      rawajd7: ' ',
     }
   },
   head: {
@@ -223,6 +223,7 @@ export default {
     flex-direction: column-reverse;
   }
   .about-container1 {
+    width: 100%;
     margin-right: 0px;
   }
 }

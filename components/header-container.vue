@@ -46,12 +46,16 @@
           </div>
         </div>
         <div class="header-container-links-container1">
-          <span class="header-container-link3 Navbar-Link">{{ link4 }}</span>
-          <span class="header-container-link4 Navbar-Link">{{ link5 }}</span>
-          <span class="header-container-link5 Navbar-Link">{{ link6 }}</span>
-          <span class="Navbar-Link">{{ link7 }}</span>
+          <nuxt-link to="/" class="header-container-link3 Navbar-Link">
+            {{ link4 }}
+          </nuxt-link>
+          <nuxt-link to="/cv" class="header-container-link4 Navbar-Link">
+            {{ link5 }}
+          </nuxt-link>
+          <nuxt-link to="/contact" class="header-container-link5 Navbar-Link">
+            {{ link7 }}
+          </nuxt-link>
         </div>
-        <div class="header-container-container2"></div>
       </div>
     </div>
   </div>
@@ -67,7 +71,7 @@ export default {
     },
     link5: {
       type: String,
-      default: 'Experience',
+      default: 'CV',
     },
     link3: {
       type: String,
@@ -214,20 +218,14 @@ export default {
 }
 .header-container-link3 {
   margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .header-container-link4 {
   margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .header-container-link5 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.header-container-container2 {
-  flex: 0 0 auto;
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 100px;
-  display: flex;
-  align-items: flex-start;
+  text-decoration: none;
 }
 
 
@@ -254,10 +252,16 @@ export default {
   .header-container-icon {
     fill: var(--dl-color-gray-white);
   }
+  .header-container-mobile-menu {
+    display: none;
+  }
 }
 @media(max-width: 479px) {
   .header-container-burger-menu {
     margin-left: var(--dl-space-space-doubleunit);
+  }
+  .header-container-mobile-menu {
+    display: flex;
   }
 }
 </style>
