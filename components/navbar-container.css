@@ -117,6 +117,7 @@
   align-items: flex-start;
 }
 
+
 @media(max-width: 991px) {
   .navbar-container-heading {
     text-align: center;
