@@ -1,6 +1,7 @@
 # project
 package-lock.json
 dist/
+.nuxt/
 
 # node
 node_modules/
