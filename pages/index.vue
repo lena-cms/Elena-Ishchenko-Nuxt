@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="raw1vht"></span>
+            <span v-html="rawuo2y"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawllnl"></span>
+            <span v-html="rawo6ya"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawecru"></span>
+            <span v-html="rawmpuf"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="rawmpgz"></span>
+            <span v-html="rawpvpb"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawdc6z"></span></span>
-          <span><span v-html="rawd4cy"></span></span>
+          <span><span v-html="rawwhkm"></span></span>
+          <span><span v-html="rawrlba"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      raw1vht: ' ',
-      rawllnl: ' ',
-      rawecru: ' ',
-      rawmpgz: ' ',
-      rawdc6z: ' ',
-      rawd4cy: ' ',
+      rawuo2y: ' ',
+      rawo6ya: ' ',
+      rawmpuf: ' ',
+      rawpvpb: ' ',
+      rawwhkm: ' ',
+      rawrlba: ' ',
     }
   },
   head: {
