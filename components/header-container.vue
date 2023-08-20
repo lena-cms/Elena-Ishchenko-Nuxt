@@ -83,7 +83,7 @@ export default {
     },
     Heading1: {
       type: String,
-      default: 'Logo',
+      default: 'Elena Ishchenko',
     },
     rootClassName: String,
     Heading: {
@@ -212,6 +212,7 @@ export default {
   height: 24px;
 }
 .header-container-links-container1 {
+  gap: 2rem;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
@@ -254,6 +255,15 @@ export default {
   }
   .header-container-mobile-menu {
     display: none;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .header-container-links-container1 {
+    height: 100%;
+    align-self: center;
+    margin-top: 0px;
+    align-items: center;
+    justify-content: center;
   }
 }
 @media(max-width: 479px) {
