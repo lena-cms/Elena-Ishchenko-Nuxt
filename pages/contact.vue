@@ -51,11 +51,11 @@ export default {
     FooterContainer,
   },
   head: {
-    title: 'Contact - lena-cms',
+    title: 'Contact - Elena Ishchenko',
     meta: [
       {
         property: 'og:title',
-        content: 'Contact - lena-cms',
+        content: 'Contact - Elena Ishchenko',
       },
     ],
   },

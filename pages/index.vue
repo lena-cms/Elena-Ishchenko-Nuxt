@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="rawuujb"></span>
+            <span v-html="rawnqjd"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawl79i"></span>
+            <span v-html="rawwjj9"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawh3dt"></span>
+            <span v-html="rawcs2x"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="raw5wxc"></span>
+            <span v-html="rawxd8y"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="raw0mzl"></span></span>
-          <span><span v-html="rawajd7"></span></span>
+          <span><span v-html="raw3b2z"></span></span>
+          <span><span v-html="raw70sc"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,20 +146,20 @@ export default {
   },
   data() {
     return {
-      rawuujb: ' ',
-      rawl79i: ' ',
-      rawh3dt: ' ',
-      raw5wxc: ' ',
-      raw0mzl: ' ',
-      rawajd7: ' ',
+      rawnqjd: ' ',
+      rawwjj9: ' ',
+      rawcs2x: ' ',
+      rawxd8y: ' ',
+      raw3b2z: ' ',
+      raw70sc: ' ',
     }
   },
   head: {
-    title: 'lena-cms',
+    title: 'Elena Ishchenko',
     meta: [
       {
         property: 'og:title',
-        content: 'lena-cms',
+        content: 'Elena Ishchenko',
       },
     ],
   },

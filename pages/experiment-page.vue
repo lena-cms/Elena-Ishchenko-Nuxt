@@ -32,11 +32,11 @@
 export default {
   name: 'ExperimentPage',
   head: {
-    title: 'experiment-page - lena-cms',
+    title: 'experiment-page - Elena Ishchenko',
     meta: [
       {
         property: 'og:title',
-        content: 'experiment-page - lena-cms',
+        content: 'experiment-page - Elena Ishchenko',
       },
     ],
   },

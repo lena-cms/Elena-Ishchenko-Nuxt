@@ -2,8 +2,10 @@
   <div class="cv-grid-container" v-bind:class="rootClassName">
     <div class="cv-grid-container1">
       <p class="cv-grid-text">{{ cv_title }}</p>
-      <p class="cv-grid-text1">{{ cv_years }}</p>
-      <slot></slot>
+      <div class="cv-grid-container2">
+        <p class="cv-grid-text1">{{ cv_years }}</p>
+        <slot></slot>
+      </div>
     </div>
   </div>
 </template>
@@ -43,9 +45,16 @@ export default {
   width: 220px;
   align-self: flex-start;
   font-style: normal;
-  min-height: 1rem;
   flex-shrink: 0;
   font-weight: 700;
+}
+.cv-grid-container2 {
+  gap: var(--dl-space-space-tripleunit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 .cv-grid-text1 {
   width: 150px;
@@ -90,5 +99,10 @@ export default {
 
 .cv-grid-root-class-name28 {
   margin-top: var(--dl-space-space-fourunits);
+}
+@media(max-width: 991px) {
+  .cv-grid-container1 {
+    flex-direction: column;
+  }
 }
 </style>

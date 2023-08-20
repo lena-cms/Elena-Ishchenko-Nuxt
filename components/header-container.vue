@@ -261,7 +261,7 @@ export default {
     margin-left: var(--dl-space-space-doubleunit);
   }
   .header-container-mobile-menu {
-    display: flex;
+    display: none;
   }
 }
 </style>

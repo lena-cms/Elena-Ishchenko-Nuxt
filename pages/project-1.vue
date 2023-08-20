@@ -148,11 +148,11 @@ export default {
     FooterContainer,
   },
   head: {
-    title: 'Project-1 - lena-cms',
+    title: 'Project-1 - Elena Ishchenko',
     meta: [
       {
         property: 'og:title',
-        content: 'Project-1 - lena-cms',
+        content: 'Project-1 - Elena Ishchenko',
       },
     ],
   },
