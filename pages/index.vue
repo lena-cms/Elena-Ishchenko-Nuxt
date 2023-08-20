@@ -3,7 +3,7 @@
     <header-container></header-container>
     <div class="about-banner">
       <div class="about-container1">
-        <span class="about-text">
+        <p>
           <span>
             My research and curatorial practice focus on russian colonial and
             imperial politics. Through my projects, such as exhibitions,
@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="rawnk36"></span>
+            <span v-html="rawxxg1"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="raw3nym"></span>
+            <span v-html="rawnp8g"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawp9a1"></span>
+            <span v-html="raw4mpl"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="raw1dqa"></span>
+            <span v-html="rawy9vk"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,9 +119,9 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawmqx9"></span></span>
-          <span><span v-html="raw5ri8"></span></span>
-        </span>
+          <span><span v-html="rawy47c"></span></span>
+          <span><span v-html="rawj426"></span></span>
+        </p>
       </div>
       <span class="about-text31">
         <span class="about-text32">Cologne, Germany</span>
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      rawnk36: ' ',
-      raw3nym: ' ',
-      rawp9a1: ' ',
-      raw1dqa: ' ',
-      rawmqx9: ' ',
-      raw5ri8: ' ',
+      rawxxg1: ' ',
+      rawnp8g: ' ',
+      raw4mpl: ' ',
+      rawy9vk: ' ',
+      rawy47c: ' ',
+      rawj426: ' ',
     }
   },
   head: {
@@ -177,12 +177,10 @@ export default {
 }
 .about-banner {
   width: 100%;
-  height: auto;
   display: flex;
   padding: var(--dl-space-space-tripleunit);
   position: relative;
   max-width: var(--dl-size-size-maxcontent);
-  transition: 0.3s;
   justify-content: space-between;
 }
 
@@ -190,18 +188,14 @@ export default {
   width: 751px;
   display: flex;
   align-items: flex-start;
-  margin-right: 96px;
+  margin-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
   justify-content: space-between;
 }
-.about-text {
-  margin-right: 48px;
+.about-text31 {
+  padding-bottom: var(--dl-space-space-fiveunits);
 }
 @media(max-width: 1200px) {
-  .about-banner {
-    align-items: flex-start;
-    padding-right: 24px;
-  }
   .about-link {
     text-decoration: underline;
   }
@@ -223,34 +217,10 @@ export default {
 }
 @media(max-width: 991px) {
   .about-banner {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   .about-container1 {
-    align-items: center;
     margin-right: 0px;
-    margin-bottom: 48px;
-  }
-  .about-text {
-    text-align: center;
-    margin-left: 48px;
-  }
-}
-@media(max-width: 767px) {
-  .about-banner {
-    padding-left: 32px;
-    padding-right: 32px;
-  }
-  .about-text {
-    margin-left: var(--dl-space-space-unit);
-    margin-right: var(--dl-space-space-unit);
-  }
-}
-@media(max-width: 479px) {
-  .about-banner {
-    padding-top: 32px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-    padding-bottom: 32px;
   }
 }
 </style>

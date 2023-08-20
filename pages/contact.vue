@@ -4,16 +4,15 @@
       rootClassName="header-container-root-class-name2"
     ></header-container>
     <div class="contact-container1">
-      <span class="contact-text">
-        <span class="contact-text01">Contact me:</span>
-        <br />
+      <span class="contact-text">Contact me:</span>
+      <span class="contact-text1">
         <a href="mailto:spot.helena@gmail.com?subject=" class="contact-link">
           spot.helena@gmail.com
         </a>
         <span> </span>
         <br />
         <br />
-        <span class="contact-text06">Follow me:</span>
+        <span class="contact-text5">Follow me:</span>
         <br />
         <a
           href="https://instagram.com/beyond_n_between?igshid=OGQ5ZDc2ODk2ZA=="
@@ -85,16 +84,16 @@ export default {
   justify-content: flex-start;
 }
 .contact-text {
+  font-weight: bold;
+}
+.contact-text1 {
   width: 100%;
   height: auto;
-}
-.contact-text01 {
-  font-weight: 700;
 }
 .contact-link {
   text-decoration: underline;
 }
-.contact-text06 {
+.contact-text5 {
   font-weight: 700;
 }
 .contact-link1 {
