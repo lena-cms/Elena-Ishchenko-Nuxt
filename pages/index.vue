@@ -3,7 +3,7 @@
     <header-container></header-container>
     <div class="about-banner">
       <div class="about-container1">
-        <p>
+        <p class="about-text">
           <span>
             My research and curatorial practice focus on russian colonial and
             imperial politics. Through my projects, such as exhibitions,
@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="rawxxg1"></span>
+            <span v-html="raw1vht"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawnp8g"></span>
+            <span v-html="rawllnl"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="raw4mpl"></span>
+            <span v-html="rawecru"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="rawy9vk"></span>
+            <span v-html="rawmpgz"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawy47c"></span></span>
-          <span><span v-html="rawj426"></span></span>
+          <span><span v-html="rawdc6z"></span></span>
+          <span><span v-html="rawd4cy"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      rawxxg1: ' ',
-      rawnp8g: ' ',
-      raw4mpl: ' ',
-      rawy9vk: ' ',
-      rawy47c: ' ',
-      rawj426: ' ',
+      raw1vht: ' ',
+      rawllnl: ' ',
+      rawecru: ' ',
+      rawmpgz: ' ',
+      rawdc6z: ' ',
+      rawd4cy: ' ',
     }
   },
   head: {
@@ -191,6 +191,9 @@ export default {
   margin-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
   justify-content: space-between;
+}
+.about-text {
+  text-align: left;
 }
 .about-text31 {
   padding-bottom: var(--dl-space-space-fiveunits);

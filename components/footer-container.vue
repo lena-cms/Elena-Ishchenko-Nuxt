@@ -3,20 +3,10 @@
     <div class="footer-container-section-separator"></div>
     <div class="footer-container-footer">
       <div class="footer-container-social-links">
-        <a
-          :href="link_text"
-          target="_blank"
-          rel="noreferrer noopener"
-          class="footer-container-link"
-        >
+        <a :href="link_text" target="_blank" rel="noreferrer noopener">
           {{ text }}
         </a>
-        <a
-          :href="link_text1"
-          target="_blank"
-          rel="noreferrer noopener"
-          class="footer-container-link1"
-        >
+        <a :href="link_text1" target="_blank" rel="noreferrer noopener">
           {{ text1 }}
         </a>
       </div>
@@ -88,12 +78,6 @@ export default {
   display: flex;
   align-items: flex-start;
   flex-direction: row;
-}
-.footer-container-link {
-  text-decoration: none;
-}
-.footer-container-link1 {
-  text-decoration: none;
 }
 
 

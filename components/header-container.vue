@@ -9,7 +9,7 @@
         <nuxt-link to="/" class="header-container-heading Card-Heading">
           {{ Heading }}
         </nuxt-link>
-        <span class="header-container-text">
+        <span>
           <span>Curator, researcher, activist</span>
           <br />
         </span>
@@ -147,7 +147,6 @@ export default {
   flex-direction: column;
 }
 .header-container-heading {
-  transition: 0.3s;
   text-decoration: none;
 }
 
@@ -234,13 +233,6 @@ export default {
 
 
 @media(max-width: 991px) {
-  .header-container-heading {
-    align-self: flex-start;
-    text-align: left;
-  }
-  .header-container-text {
-    text-align: left;
-  }
   .header-container-heading1 {
     text-align: center;
   }
