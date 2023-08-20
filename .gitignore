@@ -1,0 +1,9 @@
+# project
+package-lock.json
+dist/
+
+# node
+node_modules/
+
+# system
+.DS_Store
