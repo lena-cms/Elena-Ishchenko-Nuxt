@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="rawxnit"></span>
+            <span v-html="rawflv2"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="raw0k4y"></span>
+            <span v-html="raw6a5f"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawtqdd"></span>
+            <span v-html="rawo2wi"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="rawsyj9"></span>
+            <span v-html="rawkgiv"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawf9qx"></span></span>
-          <span><span v-html="raw0ew9"></span></span>
+          <span><span v-html="raw6mpd"></span></span>
+          <span><span v-html="raw5bq2"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      rawxnit: ' ',
-      raw0k4y: ' ',
-      rawtqdd: ' ',
-      rawsyj9: ' ',
-      rawf9qx: ' ',
-      raw0ew9: ' ',
+      rawflv2: ' ',
+      raw6a5f: ' ',
+      rawo2wi: ' ',
+      rawkgiv: ' ',
+      raw6mpd: ' ',
+      raw5bq2: ' ',
     }
   },
   head: {
