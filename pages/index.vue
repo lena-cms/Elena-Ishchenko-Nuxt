@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="raw63dz"></span>
+            <span v-html="rawbkp8"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawwl89"></span>
+            <span v-html="rawixxm"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawwftv"></span>
+            <span v-html="rawpfjg"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="rawt6c0"></span>
+            <span v-html="rawulcy"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawidfn"></span></span>
-          <span><span v-html="rawimwj"></span></span>
+          <span><span v-html="raw3uwo"></span></span>
+          <span><span v-html="rawdgf4"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      raw63dz: ' ',
-      rawwl89: ' ',
-      rawwftv: ' ',
-      rawt6c0: ' ',
-      rawidfn: ' ',
-      rawimwj: ' ',
+      rawbkp8: ' ',
+      rawixxm: ' ',
+      rawpfjg: ' ',
+      rawulcy: ' ',
+      raw3uwo: ' ',
+      rawdgf4: ' ',
     }
   },
   head: {
