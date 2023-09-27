@@ -68,7 +68,6 @@ export default {
 
 
 
-
 .cv-grid-root-class-name6 {
   margin-top: var(--dl-space-space-fourunits);
 }
@@ -101,6 +100,9 @@ export default {
   margin-top: var(--dl-space-space-fourunits);
 }
 
+.cv-grid-root-class-name30 {
+  margin-top: var(--dl-space-space-fourunits);
+}
 @media(max-width: 991px) {
   .cv-grid-container1 {
     flex-direction: column;

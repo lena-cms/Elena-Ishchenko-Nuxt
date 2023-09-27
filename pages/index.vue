@@ -33,7 +33,7 @@
           <br />
           <span>
             In 2022–2023, I was involved in curating an
-            <span v-html="rawrd4d"></span>
+            <span v-html="rawh8hz"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -55,7 +55,7 @@
           <br />
           <span>
             I was also a co-curator and co-editor of
-            <span v-html="rawvvka"></span>
+            <span v-html="raw13cs"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/"
@@ -76,7 +76,7 @@
             people who had previously organised the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
             a program curator at
-            <span v-html="rawwhnx"></span>
+            <span v-html="rawew42"></span>
           </span>
           <a
             href="http://typography-online.ru/"
@@ -98,7 +98,7 @@
             Now, we continue our work remotely and in other places. Typography
             hosts an art-in-residence program in Yerevan, Armenia, and is
             developing an education program, previously known as the
-            <span v-html="raw8a44"></span>
+            <span v-html="rawidxm"></span>
           </span>
           <a
             href="http://typography-online.ru/kisi/"
@@ -119,8 +119,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawo6ub"></span></span>
-          <span><span v-html="rawwcie"></span></span>
+          <span><span v-html="rawq4md"></span></span>
+          <span><span v-html="raw48mo"></span></span>
         </p>
       </div>
       <span class="about-text31">
@@ -146,12 +146,12 @@ export default {
   },
   data() {
     return {
-      rawrd4d: ' ',
-      rawvvka: ' ',
-      rawwhnx: ' ',
-      raw8a44: ' ',
-      rawo6ub: ' ',
-      rawwcie: ' ',
+      rawh8hz: ' ',
+      raw13cs: ' ',
+      rawew42: ' ',
+      rawidxm: ' ',
+      rawq4md: ' ',
+      raw48mo: ' ',
     }
   },
   head: {
