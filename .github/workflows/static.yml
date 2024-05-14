@@ -37,7 +37,7 @@ jobs:
           static_site_generator: nuxt
       - name: Build
         uses: actions/setup-node@v3
-      - run: npm install
+      - run: npm install && npm i vue-server-renderer@2.7.14 -D
       - run: npm run generate
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
