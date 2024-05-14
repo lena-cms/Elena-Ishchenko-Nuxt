@@ -143,6 +143,7 @@ import FooterContainer from '../components/footer-container'
 
 export default {
   name: 'Project1',
+  props: {},
   components: {
     HeaderContainer,
     FooterContainer,

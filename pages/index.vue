@@ -5,126 +5,108 @@
       <div class="about-container1">
         <p class="about-text">
           <span>
-            My research and curatorial practice focus on russian colonial and
-            imperial politics. Through my projects, such as exhibitions,
-            educational initiatives, workshops, and Telegram channels, I am
-            developing a decolonial approach and perspective.
-          </span>
-          <br />
-          <br />
-          <span>
-            I am also interested in various forms of independent, collective, and
-            collaborative work that encourage social imagination, including
-            self-organised initiatives, participatory art projects, and
-            co-curating.
-          </span>
-          <br />
-          <br />
-          <span>
-            Recently, I have been working on an archive of repressions against
-            cultural workers and artists in russia. I am gathering evidence and
-            the experiences of people who faced threats and prosecutions after or
-            before the large-scale invasion of Ukraine by russia, aiming to show
-            how these repressions aim to eliminate public discussions and force
-            people to leave the country. This archive is non-public due to
-            possible threats.
-          </span>
-          <br />
-          <br />
-          <span>
-            In 2022–2023, I was involved in curating an
-            <span v-html="rawh8hz"></span>
+            Currently, I’m a curator of Nomadic Program at Vleeshal Center for
+            Contemporary Art (Middelburg, the Netherlands) together with Maria
+            Sarycheva as part of
+            <span v-html="rawvo83"></span>
           </span>
           <a
-            href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
+            href="http://typography-online.ru/league_of_tenders/"
             target="_blank"
             rel="noreferrer noopener"
             class="about-link"
           >
-            exhibition and a series of events titled “Өмә,”
+            League of Tenders
           </a>
           <span>
-            organized with nGbK and displayed at Kunstraum Kreuzberg/Bethanien in
-            Berlin. By telling the stories of approximately thirty artists from
-            indigenous communities and individuals with migrant identities,
-            developing methods of autoethnography, and working with memory through
-            archives, Өmә aimed to represent the complexity of Russia as a
-            colonial realm.
+            curatorial duo.
+            <span v-html="raw0sii"></span>
           </span>
           <br />
           <br />
           <span>
-            I was also a co-curator and co-editor of
-            <span v-html="raw13cs"></span>
-          </span>
-          <a
-            href="https://typography-worldwide.org/en/"
-            target="_blank"
-            rel="noreferrer noopener"
-            class="about-link1"
-          >
-            Translocal Dialogues on Home, Migration, and Solidarity
-          </a>
-          <span>
-            — a project that initiated a number of discussions about wars,
-            decolonial possibilities, forced migration, and state violence.
+            In my practice, I am cultivating a decolonial approach to curating and
+            knowledge production, while addressing power relations inherited from
+            colonial policies, particularly within the russian* context.
+            <span v-html="rawfknq"></span>
           </span>
           <br />
           <br />
           <span>
-            The project was initiated by the Typography Collective — a group of
-            people who had previously organised the Typography Center for
+            Developing various formats such as exhibitions, public programs,
+            lectures, educational practices, workshops, and even personal blogs, I
+            prefer collective and collaborative work that encourage social
+            imagination and change.
+            <span v-html="rawlo82"></span>
+          </span>
+          <br />
+          <br />
+          <span>
+            I worked as program curator at the Typography Center for Contemporary
+            Art (Krasnodar, Russia), a researcher at the Garage Museum (Moscow,
+            Russia), an editor of aroundart.org, an online journal and developed a
+            number of projects independently in russia, Germany, Armenia,
+            Switzerland, and other countries as well.
+          </span>
+          <br />
+          <br />
+          <span>
+            Among the projects, I’ve been working on recently is an archive of
+            repressions against cultural workers and artists in russia. I
+            initiated this archive to collect evidence of the persecution and the
+            experiences of people who faced them after or before the large-scale
+            invasion of Ukraine by russia. The goals of the archive are to
+            preserve what is designed to be deleted and to study methods
+            consciously or uncousiously used by the russian state to eliminate any
+            public discussions and force people to leave the country. This archive
+            is non-public.
+            <span v-html="rawlik9"></span>
+          </span>
+          <br />
+          <br />
+          <span>
+            I’m also a part of the Typography Collective — a group of artists and
+            curators who previously organized the Typography Center for
             Contemporary Art in Krasnodar, russia. From 2017 to 2022, I worked as
-            a program curator at
-            <span v-html="rawew42"></span>
-          </span>
-          <a
-            href="http://typography-online.ru/"
-            target="_blank"
-            rel="noreferrer noopener"
-            class="about-link2"
-          >
-            Typography CCA
-          </a>
-          <span>
-            . After the beginning of the large-scale invasion of Ukraine by
-            Russia, we stopped our public activities and completely closed our
-            space after being declared a “foreign agent” by the russian
-            government.
+            a program and exhibition curator there. After the beginning of the
+            large-scale invasion of Ukraine by russia, we stopped our public
+            activities and completely closed our space after being declared a
+            “foreign agent” by the russian government. Now, we continue our work
+            remotely in various places around the globe. Among our recent projects
+            are Translocal Dialogues on Home, Migration, and Solidarity, which I
+            curated and edited. The project initiated a number of discussions
+            about wars, decolonial possibilities, forced migration, and state
+            violence. Typography Collective also hosts an art-in-residence program
+            in Yerevan, Armenia, and develops an education program, previously
+            known as the Krasnodar Institute of Contemporary Art, in which I am
+            involved as an organizer and lecturer.
           </span>
           <br />
           <br />
           <span>
-            Now, we continue our work remotely and in other places. Typography
-            hosts an art-in-residence program in Yerevan, Armenia, and is
-            developing an education program, previously known as the
-            <span v-html="rawidxm"></span>
-          </span>
-          <a
-            href="http://typography-online.ru/kisi/"
-            target="_blank"
-            rel="noreferrer noopener"
-            class="about-link3"
-          >
-            Krasnodar Institute of Contemporary Art
-          </a>
-          <span>. I am involved as an organiser and lecturer.</span>
-          <br />
-          <br />
-          <span>
-            I am also part of the imaginary organisation and curatorial duo League
-            of Tenders, which was founded in 2018 with curator Maria Sarycheva to
-            produce collectivities and foster and diffuse the affective dynamics
-            within them.
+            In 2022–2023, I was involved in curating an exhibition and a series of
+            events titled “Өмә,” organized with nGbK and displayed at Kunstraum
+            Kreuzberg/Bethanien in Berlin. By telling the stories of approximately
+            thirty artists from indigenous communities and individuals with
+            migrant identities, developing methods of autoethnography, and working
+            with memory through archives, Өmә aimed to represent the complexity of
+            Russia as a colonial realm.
           </span>
           <br />
           <br />
-          <span><span v-html="rawq4md"></span></span>
-          <span><span v-html="raw48mo"></span></span>
+          <span class="about-text23">
+            *I use “russia” and “russian federation” in lowercase to condemn the
+            war in Ukraine and its policy in general, and to express solidarity
+            with Ukrainians and participants of decolonial movements.
+          </span>
+          <br />
+          <br />
+          <span><span v-html="rawl66g"></span></span>
+          <span><span v-html="raw4la9"></span></span>
         </p>
       </div>
-      <span class="about-text31">
-        <span class="about-text32">Cologne, Germany</span>
+      <span class="about-text28">
+        <span class="about-text29">Cologne, Germany</span>
         <br />
         <a href="mailto:spot.helena@gmail.com?subject=">spot.helena@gmail.com</a>
         <br />
@@ -140,18 +122,20 @@ import FooterContainer from '../components/footer-container'
 
 export default {
   name: 'About',
+  props: {},
   components: {
     HeaderContainer,
     FooterContainer,
   },
   data() {
     return {
-      rawh8hz: ' ',
-      raw13cs: ' ',
-      rawew42: ' ',
-      rawidxm: ' ',
-      rawq4md: ' ',
-      raw48mo: ' ',
+      rawvo83: ' ',
+      raw0sii: ' ',
+      rawfknq: ' ',
+      rawlo82: ' ',
+      rawlik9: ' ',
+      rawl66g: ' ',
+      raw4la9: ' ',
     }
   },
   head: {
@@ -187,34 +171,28 @@ export default {
 .about-container1 {
   width: 751px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   margin-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
 }
 .about-text {
   text-align: left;
 }
-.about-text31 {
+.about-text28 {
   padding-bottom: var(--dl-space-space-fiveunits);
 }
 @media(max-width: 1200px) {
   .about-link {
     text-decoration: underline;
   }
-  .about-link1 {
-    text-decoration: underline;
+  .about-text23 {
+    font-style: italic;
   }
-  .about-link2 {
-    text-decoration: underline;
-  }
-  .about-link3 {
-    text-decoration: underline;
-  }
-  .about-text31 {
+  .about-text28 {
     align-self: flex-start;
   }
-  .about-text32 {
+  .about-text29 {
     align-self: flex-start;
   }
 }

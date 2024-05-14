@@ -46,6 +46,7 @@ import FooterContainer from '../components/footer-container'
 
 export default {
   name: 'Contact',
+  props: {},
   components: {
     HeaderContainer,
     FooterContainer,

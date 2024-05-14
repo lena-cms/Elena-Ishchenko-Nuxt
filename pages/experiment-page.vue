@@ -31,6 +31,7 @@
 <script>
 export default {
   name: 'ExperimentPage',
+  props: {},
   head: {
     title: 'experiment-page - Elena Ishchenko',
     meta: [

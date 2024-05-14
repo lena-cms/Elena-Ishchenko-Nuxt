@@ -1,9 +1,9 @@
 <template>
   <div class="cv-grid-container" v-bind:class="rootClassName">
     <div class="cv-grid-container1">
-      <p class="cv-grid-text">{{ cv_title }}</p>
+      <p class="cv-grid-text">{{ cvTitle }}</p>
       <div class="cv-grid-container2">
-        <p class="cv-grid-text1">{{ cv_years }}</p>
+        <p class="cv-grid-text1">{{ cvYears }}</p>
         <slot></slot>
       </div>
     </div>
@@ -14,9 +14,9 @@
 export default {
   name: 'CvGrid',
   props: {
-    cv_title: String,
+    cvTitle: String,
     rootClassName: String,
-    cv_years: String,
+    cvYears: String,
   },
 }
 </script>
@@ -68,6 +68,7 @@ export default {
 
 
 
+
 .cv-grid-root-class-name6 {
   margin-top: var(--dl-space-space-fourunits);
 }
@@ -95,14 +96,50 @@ export default {
 
 
 
-
 .cv-grid-root-class-name28 {
   margin-top: var(--dl-space-space-fourunits);
 }
-
+.cv-grid-root-class-name29 {
+  margin-top: var(--dl-space-space-fourunits);
+}
 .cv-grid-root-class-name30 {
   margin-top: var(--dl-space-space-fourunits);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cv-grid-root-class-name49 {
+  margin-top: var(--dl-space-space-fourunits);
+}
+.cv-grid-root-class-name50 {
+  margin-top: var(--dl-space-space-fourunits);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width: 991px) {
   .cv-grid-container1 {
     flex-direction: column;

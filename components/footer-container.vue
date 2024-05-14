@@ -3,10 +3,10 @@
     <div class="footer-container-section-separator"></div>
     <div class="footer-container-footer">
       <div class="footer-container-social-links">
-        <a :href="link_text" target="_blank" rel="noreferrer noopener">
+        <a :href="linkText" target="_blank" rel="noreferrer noopener">
           {{ text }}
         </a>
-        <a :href="link_text1" target="_blank" rel="noreferrer noopener">
+        <a :href="linkText1" target="_blank" rel="noreferrer noopener">
           {{ text1 }}
         </a>
       </div>
@@ -18,7 +18,7 @@
 export default {
   name: 'FooterContainer',
   props: {
-    link_text1: {
+    linkText1: {
       type: String,
       default: 'https://t.me/empireswilldie',
     },
@@ -26,7 +26,7 @@ export default {
       type: String,
       default: 'Instagram / ',
     },
-    link_text: {
+    linkText: {
       type: String,
       default: 'https://instagram.com/beyond_n_between?igshid=OGQ5ZDc2ODk2ZA==',
     },

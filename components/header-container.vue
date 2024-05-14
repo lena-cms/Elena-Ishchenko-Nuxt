@@ -7,7 +7,7 @@
     <div class="header-container-navbar">
       <div class="header-container-container">
         <nuxt-link to="/" class="header-container-heading Card-Heading">
-          {{ Heading }}
+          {{ heading }}
         </nuxt-link>
         <span>
           <span>Curator, researcher, activist</span>
@@ -35,7 +35,7 @@
       <div data-role="MobileMenu" class="header-container-mobile-menu">
         <div class="header-container-container1">
           <span class="Card-Heading header-container-heading1">
-            {{ Heading1 }}
+            {{ heading1 }}
           </span>
           <div data-role="CloseMobileMenu" class="header-container-close-menu">
             <svg viewBox="0 0 1024 1024" class="header-container-icon2">
@@ -81,12 +81,12 @@ export default {
       type: String,
       default: 'Portofolio',
     },
-    Heading1: {
+    heading1: {
       type: String,
       default: 'Elena Ishchenko',
     },
     rootClassName: String,
-    Heading: {
+    heading: {
       type: String,
       default: 'Elena Ishchenko',
     },
