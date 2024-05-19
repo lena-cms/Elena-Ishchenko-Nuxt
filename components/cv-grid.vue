@@ -140,6 +140,8 @@ export default {
 
 
 
+
+
 @media(max-width: 991px) {
   .cv-grid-container1 {
     flex-direction: column;

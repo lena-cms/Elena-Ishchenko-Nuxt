@@ -8,7 +8,7 @@
             Currently, I’m a curator of Nomadic Program at Vleeshal Center for
             Contemporary Art (Middelburg, the Netherlands) together with Maria
             Sarycheva as part of
-            <span v-html="rawkh2j"></span>
+            <span v-html="raw0z51"></span>
           </span>
           <a
             href="http://typography-online.ru/league_of_tenders/"
@@ -20,7 +20,7 @@
           </a>
           <span>
             curatorial duo.
-            <span v-html="rawxlye"></span>
+            <span v-html="rawyinx"></span>
           </span>
           <br />
           <br />
@@ -28,7 +28,7 @@
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian* context.
-            <span v-html="raw58gr"></span>
+            <span v-html="rawp4vv"></span>
           </span>
           <br />
           <br />
@@ -37,7 +37,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawb7pc"></span>
+            <span v-html="rawn2f0"></span>
           </span>
           <br />
           <br />
@@ -60,7 +60,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="raw3nzf"></span>
+            <span v-html="raw2g6z"></span>
           </span>
           <br />
           <br />
@@ -101,8 +101,8 @@
           </span>
           <br />
           <br />
-          <span><span v-html="raw1dt8"></span></span>
-          <span><span v-html="raw884n"></span></span>
+          <span><span v-html="rawm2nk"></span></span>
+          <span><span v-html="rawkw13"></span></span>
         </p>
       </div>
       <span class="about-text28">
@@ -129,13 +129,13 @@ export default {
   },
   data() {
     return {
-      rawkh2j: ' ',
-      rawxlye: ' ',
-      raw58gr: ' ',
-      rawb7pc: ' ',
-      raw3nzf: ' ',
-      raw1dt8: ' ',
-      raw884n: ' ',
+      raw0z51: ' ',
+      rawyinx: ' ',
+      rawp4vv: ' ',
+      rawn2f0: ' ',
+      raw2g6z: ' ',
+      rawm2nk: ' ',
+      rawkw13: ' ',
     }
   },
   head: {
