@@ -8,7 +8,7 @@
             Currently, I’m a curator of Nomadic Program at Vleeshal Center for
             Contemporary Art (Middelburg, the Netherlands) together with Maria
             Sarycheva as part of
-            <span v-html="rawd082"></span>
+            <span v-html="raw7ood"></span>
           </span>
           <a
             href="http://typography-online.ru/league_of_tenders/"
@@ -20,7 +20,7 @@
           </a>
           <span>
             curatorial duo.
-            <span v-html="rawndjl"></span>
+            <span v-html="raw1mw4"></span>
           </span>
           <br />
           <br />
@@ -28,7 +28,7 @@
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian* context.
-            <span v-html="rawcbhw"></span>
+            <span v-html="rawpyb3"></span>
           </span>
           <br />
           <br />
@@ -37,7 +37,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawkg9y"></span>
+            <span v-html="rawhfl8"></span>
           </span>
           <br />
           <br />
@@ -60,7 +60,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="rawja4q"></span>
+            <span v-html="raw5rte"></span>
           </span>
           <br />
           <br />
@@ -101,9 +101,10 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawcp4k"></span></span>
-          <span><span v-html="rawl3yr"></span></span>
+          <span><span v-html="rawy5g5"></span></span>
+          <span><span v-html="raw9jdi"></span></span>
         </p>
+        <div class="about-container2"></div>
       </div>
       <span class="about-text28">
         <span class="about-text29">Cologne, Germany</span>
@@ -129,13 +130,13 @@ export default {
   },
   data() {
     return {
-      rawd082: ' ',
-      rawndjl: ' ',
-      rawcbhw: ' ',
-      rawkg9y: ' ',
-      rawja4q: ' ',
-      rawcp4k: ' ',
-      rawl3yr: ' ',
+      raw7ood: ' ',
+      raw1mw4: ' ',
+      rawpyb3: ' ',
+      rawhfl8: ' ',
+      raw5rte: ' ',
+      rawy5g5: ' ',
+      raw9jdi: ' ',
     }
   },
   head: {
@@ -169,15 +170,24 @@ export default {
 }
 
 .about-container1 {
+  flex: 0 0 auto;
   width: 751px;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+.about-text {
+  text-align: left;
+}
+.about-container2 {
+  width: 751px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: center;
   margin-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
   justify-content: center;
-}
-.about-text {
-  text-align: left;
 }
 .about-text28 {
   padding-bottom: var(--dl-space-space-fiveunits);
@@ -200,7 +210,7 @@ export default {
   .about-banner {
     flex-direction: column-reverse;
   }
-  .about-container1 {
+  .about-container2 {
     width: 100%;
     margin-right: 0px;
   }
