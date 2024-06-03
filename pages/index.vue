@@ -8,7 +8,7 @@
             Currently, I’m a curator of Nomadic Program at Vleeshal Center for
             Contemporary Art (Middelburg, the Netherlands) together with Maria
             Sarycheva as part of
-            <span v-html="raw7ood"></span>
+            <span v-html="raw4up2"></span>
           </span>
           <a
             href="http://typography-online.ru/league_of_tenders/"
@@ -20,7 +20,7 @@
           </a>
           <span>
             curatorial duo.
-            <span v-html="raw1mw4"></span>
+            <span v-html="raw1v4k"></span>
           </span>
           <br />
           <br />
@@ -28,7 +28,7 @@
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian* context.
-            <span v-html="rawpyb3"></span>
+            <span v-html="rawtku2"></span>
           </span>
           <br />
           <br />
@@ -37,7 +37,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawhfl8"></span>
+            <span v-html="raw2vy6"></span>
           </span>
           <br />
           <br />
@@ -60,7 +60,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="raw5rte"></span>
+            <span v-html="rawkika"></span>
           </span>
           <br />
           <br />
@@ -94,20 +94,12 @@
           </span>
           <br />
           <br />
-          <span class="about-text23">
-            *I use “russia” and “russian federation” in lowercase to condemn the
-            war in Ukraine and its policy in general, and to express solidarity
-            with Ukrainians and participants of decolonial movements.
-          </span>
-          <br />
-          <br />
-          <span><span v-html="rawy5g5"></span></span>
-          <span><span v-html="raw9jdi"></span></span>
+          <span><span v-html="rawl7av"></span></span>
+          <span><span v-html="raw18hd"></span></span>
         </p>
-        <div class="about-container2"></div>
       </div>
-      <span class="about-text28">
-        <span class="about-text29">Cologne, Germany</span>
+      <span class="about-text25">
+        <span class="about-text26">Cologne, Germany</span>
         <br />
         <a href="mailto:spot.helena@gmail.com?subject=">spot.helena@gmail.com</a>
         <br />
@@ -130,13 +122,13 @@ export default {
   },
   data() {
     return {
-      raw7ood: ' ',
-      raw1mw4: ' ',
-      rawpyb3: ' ',
-      rawhfl8: ' ',
-      raw5rte: ' ',
-      rawy5g5: ' ',
-      raw9jdi: ' ',
+      raw4up2: ' ',
+      raw1v4k: ' ',
+      rawtku2: ' ',
+      raw2vy6: ' ',
+      rawkika: ' ',
+      rawl7av: ' ',
+      raw18hd: ' ',
     }
   },
   head: {
@@ -180,39 +172,23 @@ export default {
 .about-text {
   text-align: left;
 }
-.about-container2 {
-  width: 751px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  margin-right: var(--dl-space-space-fiveunits);
-  flex-direction: column;
-  justify-content: center;
-}
-.about-text28 {
+.about-text25 {
   padding-bottom: var(--dl-space-space-fiveunits);
 }
 @media(max-width: 1200px) {
   .about-link {
     text-decoration: underline;
   }
-  .about-text23 {
-    font-style: italic;
-  }
-  .about-text28 {
+  .about-text25 {
     align-self: flex-start;
   }
-  .about-text29 {
+  .about-text26 {
     align-self: flex-start;
   }
 }
 @media(max-width: 991px) {
   .about-banner {
     flex-direction: column-reverse;
-  }
-  .about-container2 {
-    width: 100%;
-    margin-right: 0px;
   }
 }
 </style>
