@@ -5,30 +5,38 @@
       <div class="about-container2">
         <p class="about-text10">
           <span>
-            Currently, I’m a curator of Nomadic Program at Vleeshal Center for
-            Contemporary Art (Middelburg, the Netherlands) together with Maria
-            Sarycheva as part of
-            <span v-html="rawb5ct"></span>
+            Currently, I am working as a curator for the
+            <span v-html="rawup8j"></span>
           </span>
           <a
-            href="http://typography-online.ru/league_of_tenders/"
+            href="https://vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
             target="_blank"
             rel="noreferrer noopener"
             class="about-link1"
           >
-            League of Tenders
+            Nomadic Program 2024–2025
           </a>
           <span>
-            curatorial duo.
-            <span v-html="raw7cxi"></span>
+            at Vleeshal Center for Contemporary Art (Middelburg, the Netherlands),
+            alongside Maria Sarycheva as part of the curatorial duo League of
+            Tenders.
           </span>
+          <br />
+          <br />
+          <span>
+            Recently, I developed and curated several educational programs in
+            hybrid online and offline formats. These projects are strictly
+            non-public due to the safety concerns of the participants and
+            organizers, some of whom are based in russia* and Belarus.
+          </span>
+          <span><span v-html="rawi6mx"></span></span>
           <br />
           <br />
           <span>
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
-            colonial policies, particularly within the russian* context.
-            <span v-html="rawfg40"></span>
+            colonial policies, particularly within the russian context.
+            <span v-html="rawnf3v"></span>
           </span>
           <br />
           <br />
@@ -37,7 +45,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawr3gj"></span>
+            <span v-html="rawdw64"></span>
           </span>
           <br />
           <br />
@@ -60,7 +68,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="rawc8xt"></span>
+            <span v-html="rawho9s"></span>
           </span>
           <br />
           <br />
@@ -73,33 +81,66 @@
             activities and completely closed our space after being declared a
             “foreign agent” by the russian government. Now, we continue our work
             remotely in various places around the globe. Among our recent projects
-            are Translocal Dialogues on Home, Migration, and Solidarity, which I
-            curated and edited. The project initiated a number of discussions
-            about wars, decolonial possibilities, forced migration, and state
-            violence. Typography Collective also hosts an art-in-residence program
-            in Yerevan, Armenia, and develops an education program, previously
-            known as the Krasnodar Institute of Contemporary Art, in which I am
-            involved as an organizer and lecturer.
+            are
+            <span v-html="raw07xr"></span>
+          </span>
+          <a
+            href="https://typography-worldwide.org/en/category/translocal-dialogues-en/"
+            target="_blank"
+            rel="noreferrer noopener"
+            class="about-link2"
+          >
+            Translocal Dialogues on Home, Migration, and Solidarity
+          </a>
+          <span>
+            , which I curated and edited. The project initiated a number of
+            discussions about wars, decolonial possibilities, forced migration,
+            and state violence. Typography Collective also hosts an
+            art-in-residence program in Yerevan, Armenia, and develops an
+            education program, previously known as the Krasnodar Institute of
+            Contemporary Art, in which I am involved as an organizer and lecturer.
           </span>
           <br />
           <br />
           <span>
             In 2022–2023, I was involved in curating an exhibition and a series of
-            events titled “Өмә,” organized with nGbK and displayed at Kunstraum
-            Kreuzberg/Bethanien in Berlin. By telling the stories of approximately
-            thirty artists from indigenous communities and individuals with
-            migrant identities, developing methods of autoethnography, and working
-            with memory through archives, Өmә aimed to represent the complexity of
-            Russia as a colonial realm.
+            events titled
+            <span v-html="rawoqq6"></span>
+          </span>
+          <a
+            href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
+            target="_blank"
+            rel="noreferrer noopener"
+            class="about-link3"
+          >
+            “Өмә,”
+          </a>
+          <span>
+             organized with nGbK and displayed at Kunstraum Kreuzberg/Bethanien in
+            Berlin. By telling the stories of approximately thirty artists from
+            indigenous communities and individuals with migrant identities,
+            developing methods of autoethnography, and working with memory through
+            archives, Өmә aimed to represent the complexity of Russia as a
+            colonial realm.
           </span>
           <br />
           <br />
-          <span><span v-html="raw768y"></span></span>
-          <span><span v-html="rawyqgq"></span></span>
+          <span class="about-text39">
+            *I use “russia” and “russian federation” in lowercase to condemn the
+            war in Ukraine and its colonial policy in general, and to express
+            solidarity with Ukrainians and decolonial movements. I use Russian in
+            uppercase when it refers to the language, to underline that it equally
+            belongs to everybody who speaks it.
+          </span>
+          <br class="about-text40" />
+          <br />
+          <br />
+          <span><span v-html="rawlooi"></span></span>
+          <span><span v-html="rawcq5a"></span></span>
         </p>
       </div>
-      <span class="about-text35">
-        <span class="about-text36">Cologne, Germany</span>
+      <span class="about-text45">
+        <span class="about-text46">Cologne, Germany</span>
         <br />
         <a href="mailto:spot.helena@gmail.com?subject=">spot.helena@gmail.com</a>
         <br />
@@ -122,13 +163,15 @@ export default {
   },
   data() {
     return {
-      rawb5ct: ' ',
-      raw7cxi: ' ',
-      rawfg40: ' ',
-      rawr3gj: ' ',
-      rawc8xt: ' ',
-      raw768y: ' ',
-      rawyqgq: ' ',
+      rawup8j: ' ',
+      rawi6mx: ' ',
+      rawnf3v: ' ',
+      rawdw64: ' ',
+      rawho9s: ' ',
+      raw07xr: ' ',
+      rawoqq6: ' ',
+      rawlooi: ' ',
+      rawcq5a: ' ',
     }
   },
   head: {
@@ -177,7 +220,7 @@ export default {
   text-align: left;
 }
  
-.about-text35 {
+.about-text45 {
   padding-bottom: var(--dl-space-space-fiveunits);
 }
  
@@ -185,10 +228,22 @@ export default {
   .about-link1 {
     text-decoration: underline;
   }
-  .about-text35 {
+  .about-link2 {
+    text-decoration: underline;
+  }
+  .about-link3 {
+    text-decoration: underline;
+  }
+  .about-text39 {
+    font-style: italic;
+  }
+  .about-text40 {
+    font-style: italic;
+  }
+  .about-text45 {
     align-self: flex-start;
   }
-  .about-text36 {
+  .about-text46 {
     align-self: flex-start;
   }
 }
