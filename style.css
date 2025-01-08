@@ -1,9 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
- 
- 
- :root {
+:root {
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;
   --dl-color-gray-800: #cbcbcbff;
@@ -33,10 +28,12 @@
   --dl-space-space-doubleunit: 16px;
   --dl-space-space-tripleunit: 24px;
 }
+ 
 .teleport-show {
   display: flex !important;
   transform: none !important;
 }
+ 
 .list {
   width: 100%;
   margin: 1em 0px 1em 0px;
@@ -45,6 +42,7 @@
   list-style-type: none;
   list-style-position: outside;
 }
+ 
 .button {
   color: var(--dl-color-gray-black);
   display: inline-block;
@@ -55,9 +53,11 @@
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
 }
+ 
 .list-item {
   display: list-item;
 }
+ 
 .textarea {
   color: var(--dl-color-gray-black);
   cursor: auto;
@@ -68,6 +68,7 @@
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
 }
+ 
 .input {
   color: var(--dl-color-gray-black);
   cursor: auto;
@@ -78,6 +79,7 @@
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
 }
+ 
 .Section-Text {
   font-size: 18px;
   font-family: Playfair Display;
@@ -87,6 +89,7 @@
   text-transform: none;
   text-decoration: none;
 }
+ 
 .Card-Text {
   font-size: 16px;
   font-style: normal;
@@ -97,6 +100,7 @@
   text-transform: none;
   text-decoration: none;
 }
+ 
 .Content {
   font-size: 16px;
   font-family: Arial;
@@ -105,6 +109,7 @@
   text-transform: none;
   text-decoration: none;
 }
+ 
 .Card-Heading {
   font-size: 18px;
   font-style: normal;
@@ -114,6 +119,7 @@
   text-transform: none;
   text-decoration: none;
 }
+ 
 .Anchor {
   font-size: 16px;
   font-family: Overpass;
@@ -122,6 +128,7 @@
   text-transform: capitalize;
   text-decoration: none;
 }
+ 
 .Navbar-Link {
   font-size: 18px;
   font-family: Overpass;
@@ -130,6 +137,7 @@
   text-transform: none;
   text-decoration: none;
 }
+ 
 .Section-Heading {
   font-size: 35px;
   font-family: Tahoma;

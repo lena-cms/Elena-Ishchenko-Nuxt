@@ -1,24 +1,24 @@
 <template>
-  <div class="contact-container">
+  <div class="contact-container1">
     <header-container
-      rootClassName="header-container-root-class-name2"
+      rootClassName="header-containerroot-class-name2"
     ></header-container>
-    <div class="contact-container1">
-      <span class="contact-text">Contact me:</span>
-      <span class="contact-text1">
-        <a href="mailto:spot.helena@gmail.com?subject=" class="contact-link">
+    <div class="contact-container2">
+      <span class="contact-text1">Contact me:</span>
+      <span class="contact-text2">
+        <a href="mailto:spot.helena@gmail.com?subject=" class="contact-link1">
           spot.helena@gmail.com
         </a>
         <span> </span>
         <br />
         <br />
-        <span class="contact-text5">Follow me:</span>
+        <span class="contact-text6">Follow me:</span>
         <br />
         <a
           href="https://instagram.com/beyond_n_between?igshid=OGQ5ZDc2ODk2ZA=="
           target="_blank"
           rel="noreferrer noopener"
-          class="contact-link1"
+          class="contact-link2"
         >
           Instagram
         </a>
@@ -27,7 +27,7 @@
           href="https://t.me/empireswilldie"
           target="_blank"
           rel="noreferrer noopener"
-          class="contact-link2"
+          class="contact-link3"
         >
           Telegram
         </a>
@@ -35,7 +35,7 @@
       </span>
     </div>
     <footer-container
-      rootClassName="footer-container-root-class-name2"
+      rootClassName="footer-containerroot-class-name2"
     ></footer-container>
   </div>
 </template>
@@ -64,7 +64,7 @@ export default {
 </script>
 
 <style scoped>
-.contact-container {
+.contact-container1 {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -72,7 +72,8 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.contact-container1 {
+ 
+.contact-container2 {
   flex: 0 0 auto;
   width: 100%;
   height: auto;
@@ -84,23 +85,29 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.contact-text {
+ 
+.contact-text1 {
   font-weight: bold;
 }
-.contact-text1 {
+ 
+.contact-text2 {
   width: 100%;
   height: auto;
 }
-.contact-link {
-  text-decoration: underline;
-}
-.contact-text5 {
-  font-weight: 700;
-}
+ 
 .contact-link1 {
   text-decoration: underline;
 }
+ 
+.contact-text6 {
+  font-weight: 700;
+}
+ 
 .contact-link2 {
+  text-decoration: underline;
+}
+ 
+.contact-link3 {
   text-decoration: underline;
 }
 </style>

@@ -1,28 +1,28 @@
 <template>
-  <div class="project1-container">
+  <div class="project1-container1">
     <header-container
-      rootClassName="header-container-root-class-name1"
+      rootClassName="header-containerroot-class-name1"
     ></header-container>
-    <div class="project1-hero">
-      <h1 class="project1-text">Ome</h1>
-      <span class="project1-text01">
+    <div class="project1-hero1">
+      <h1 class="project1-text10">Ome</h1>
+      <span class="project1-text11">
         <span>Exhibition and Public Program</span>
         <br />
       </span>
-      <span class="project1-text04">
+      <span class="project1-text14">
         <span>Kunstraum Kreuzberg / Bethanien, Berlin, Germany</span>
         <br />
       </span>
-      <span class="project1-text07">
+      <span class="project1-text17">
         <span>2023</span>
         <br />
       </span>
       <img
         alt="image"
         src="https://images.unsplash.com/photo-1471086569966-db3eebc25a59?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIwfHxtaW5pbWFsaXNtJTIwcGxhbnR8ZW58MHx8fHwxNjI2MTgyODMw&amp;ixlib=rb-1.2.1&amp;w=1200"
-        class="project1-image"
+        class="project1-image1"
       />
-      <span class="project1-text10">
+      <span class="project1-text20">
         <span>
           People from more than 185 ethnic groups live in russia.** Despite this
           fact, the country is still largely perceived as white, especially in the
@@ -68,15 +68,15 @@
           in different territories.
         </span>
       </span>
-      <div class="project1-hero1">
-        <div class="project1-container1">
-          <h1 class="project1-text21">Ome</h1>
-          <span class="project1-text22">Exhibition and Public Program</span>
-          <span class="project1-text23">
+      <div class="project1-hero2">
+        <div class="project1-container2">
+          <h1 class="project1-text31">Ome</h1>
+          <span class="project1-text32">Exhibition and Public Program</span>
+          <span class="project1-text33">
             Kunstraum Kreuzberg/Bethanien, Berlin, Germany
           </span>
-          <span class="project1-text24">2023</span>
-          <span class="project1-text25">
+          <span class="project1-text34">2023</span>
+          <span class="project1-text35">
             <span>
               People from more than 185 ethnic groups live in russia.** Despite
               this fact, the country is still largely perceived as white,
@@ -127,12 +127,12 @@
         <img
           alt="image"
           src="https://images.unsplash.com/photo-1525498128493-380d1990a112?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDI0fHxtaW5pbWFsaXNtJTIwZ3JlZW58ZW58MHx8fHwxNjI1ODQxMDcw&amp;ixlib=rb-1.2.1&amp;h=1200"
-          class="project1-image1"
+          class="project1-image2"
         />
       </div>
     </div>
     <footer-container
-      rootClassName="footer-container-root-class-name1"
+      rootClassName="footer-containerroot-class-name1"
     ></footer-container>
   </div>
 </template>
@@ -161,7 +161,7 @@ export default {
 </script>
 
 <style scoped>
-.project1-container {
+.project1-container1 {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -169,7 +169,8 @@ export default {
   align-items: center;
   flex-direction: column;
 }
-.project1-hero {
+ 
+.project1-hero1 {
   width: 100%;
   display: flex;
   padding: 48px;
@@ -181,34 +182,41 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.project1-text {
+ 
+.project1-text10 {
   align-self: flex-start;
 }
-.project1-text01 {
+ 
+.project1-text11 {
   align-self: flex-start;
 }
-.project1-text04 {
+ 
+.project1-text14 {
   align-self: flex-start;
   font-style: italic;
 }
-.project1-text07 {
+ 
+.project1-text17 {
   align-self: flex-start;
   font-weight: bold;
 }
-.project1-image {
+ 
+.project1-image1 {
   width: 45rem;
   align-self: flex-start;
   margin-top: 32px;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.project1-text10 {
+ 
+.project1-text20 {
   align-self: flex-start;
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
   padding-right: 150px;
 }
-.project1-hero1 {
+ 
+.project1-hero2 {
   width: 100%;
   display: flex;
   padding: 48px;
@@ -220,7 +228,8 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.project1-container1 {
+ 
+.project1-container2 {
   width: 50%;
   display: flex;
   align-self: flex-start;
@@ -230,85 +239,93 @@ export default {
   padding-right: var(--dl-space-space-halfunit);
   flex-direction: column;
 }
-.project1-text21 {
+ 
+.project1-text31 {
   font-size: 3rem;
   max-width: 450px;
 }
-.project1-text22 {
+ 
+.project1-text32 {
   font-style: italic;
   margin-top: 0px;
   margin-bottom: 0px;
 }
-.project1-text23 {
+ 
+.project1-text33 {
   margin-top: 0px;
   margin-bottom: 0px;
 }
-.project1-text24 {
+ 
+.project1-text34 {
   margin-top: var(--dl-space-space-unit);
   font-weight: bold;
   margin-bottom: var(--dl-space-space-unit);
 }
-.project1-text25 {
+ 
+.project1-text35 {
   align-self: flex-start;
   margin-top: 0px;
   margin-bottom: 0px;
 }
-.project1-image1 {
+ 
+.project1-image2 {
   width: 400px;
   align-self: flex-start;
   object-fit: cover;
 }
+ 
 @media(max-width: 991px) {
-  .project1-hero {
+  .project1-hero1 {
     flex-direction: column;
   }
-  .project1-image {
+  .project1-image1 {
     width: 80%;
   }
-  .project1-text10 {
+  .project1-text20 {
     text-align: left;
     padding-left: 0px;
     padding-right: 0px;
   }
-  .project1-hero1 {
+  .project1-hero2 {
     flex-direction: column;
   }
-  .project1-container1 {
+  .project1-container2 {
     align-items: center;
     margin-right: 0px;
     margin-bottom: 32px;
     padding-right: 0px;
   }
-  .project1-text21 {
+  .project1-text31 {
     text-align: center;
   }
-  .project1-text22 {
-    text-align: center;
-    padding-left: 48px;
-    padding-right: 48px;
-  }
-  .project1-text23 {
+  .project1-text32 {
     text-align: center;
     padding-left: 48px;
     padding-right: 48px;
   }
-  .project1-text24 {
+  .project1-text33 {
     text-align: center;
     padding-left: 48px;
     padding-right: 48px;
   }
-  .project1-text25 {
+  .project1-text34 {
+    text-align: center;
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+  .project1-text35 {
     text-align: center;
     padding-left: 48px;
     padding-right: 48px;
   }
 }
+ 
 @media(max-width: 767px) {
-  .project1-hero {
+  .project1-hero1 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .project1-text10 {
+  .project1-text20 {
     text-align: left;
     border-color: var(--dl-color-gray-black);
     border-width: 0px;
@@ -316,38 +333,39 @@ export default {
     border-radius: var(--dl-radius-radius-radius4);
     padding-right: var(--dl-space-space-unit);
   }
-  .project1-hero1 {
+  .project1-hero2 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .project1-text22 {
+  .project1-text32 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .project1-text23 {
+  .project1-text33 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .project1-text24 {
+  .project1-text34 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .project1-text25 {
+  .project1-text35 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .project1-image1 {
+  .project1-image2 {
     width: 80%;
   }
 }
+ 
 @media(max-width: 479px) {
-  .project1-hero {
+  .project1-hero1 {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .project1-text10 {
+  .project1-text20 {
     align-self: flex-start;
     text-align: left;
     border-color: var(--dl-color-gray-black);
@@ -356,16 +374,16 @@ export default {
     border-radius: var(--dl-radius-radius-radius2);
     padding-right: 0px;
   }
-  .project1-hero1 {
+  .project1-hero2 {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .project1-container1 {
+  .project1-container2 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .project1-text25 {
+  .project1-text35 {
     border-color: var(--dl-color-gray-black);
     border-width: 0px;
     padding-left: 0px;

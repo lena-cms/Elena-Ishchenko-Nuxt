@@ -31,10 +31,6 @@ export default {
       default: 'https://instagram.com/beyond_n_between?igshid=OGQ5ZDc2ODk2ZA==',
     },
     rootClassName: String,
-    link: {
-      type: String,
-      default: 'Lena, 2021',
-    },
     text1: {
       type: String,
       default: 'Telegram ',
@@ -54,6 +50,7 @@ export default {
   justify-content: center;
   background-color: var(--dl-color-gray-white);
 }
+ 
 .footer-container-section-separator {
   width: 100%;
   height: 1px;
@@ -62,6 +59,7 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
+ 
 .footer-container-footer {
   width: 100%;
   display: flex;
@@ -74,12 +72,16 @@ export default {
   padding-bottom: var(--dl-space-space-tripleunit);
   justify-content: space-between;
 }
+ 
 .footer-container-social-links {
   display: flex;
   align-items: flex-start;
   flex-direction: row;
 }
+ 
 
+ 
 
+ 
 
 </style>

@@ -1,12 +1,4 @@
 export default {
-  css: ["~/style.css"],
-  buildModules: ["@nuxt/postcss8"],
-  build: {
-    postcss: {
-      plugins: {
-        tailwindcss: {},
-        autoprefixer: {},
-      },
-    },
-  },
-};
+  css: [`~/style.css`],
+  plugins: [`~/plugins/lottie-vue-player.client.js`],
+}

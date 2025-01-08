@@ -1,9 +1,9 @@
 <template>
-  <div class="cv-grid-container" v-bind:class="rootClassName">
-    <div class="cv-grid-container1">
-      <p class="cv-grid-text">{{ cvTitle }}</p>
-      <div class="cv-grid-container2">
-        <p class="cv-grid-text1">{{ cvYears }}</p>
+  <div class="cv-grid-container1" v-bind:class="rootClassName">
+    <div class="cv-grid-container2">
+      <p class="cv-grid-text1">{{ cvTitle }}</p>
+      <div class="cv-grid-container3">
+        <p class="cv-grid-text2">{{ cvYears }}</p>
         <slot></slot>
       </div>
     </div>
@@ -22,7 +22,7 @@ export default {
 </script>
 
 <style scoped>
-.cv-grid-container {
+.cv-grid-container1 {
   width: 100%;
   height: auto;
   display: flex;
@@ -32,7 +32,8 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.cv-grid-container1 {
+ 
+.cv-grid-container2 {
   gap: var(--dl-space-space-tripleunit);
   flex: 0 0 auto;
   width: 100%;
@@ -41,14 +42,16 @@ export default {
   align-items: center;
   justify-content: flex-start;
 }
-.cv-grid-text {
+ 
+.cv-grid-text1 {
   width: 220px;
   align-self: flex-start;
   font-style: normal;
   flex-shrink: 0;
   font-weight: 700;
 }
-.cv-grid-container2 {
+ 
+.cv-grid-container3 {
   gap: var(--dl-space-space-tripleunit);
   display: flex;
   align-self: flex-start;
@@ -56,94 +59,159 @@ export default {
   flex-direction: row;
   justify-content: flex-start;
 }
-.cv-grid-text1 {
+ 
+.cv-grid-text2 {
   width: 150px;
   align-self: flex-start;
   min-height: 1rem;
   text-align: right;
   flex-shrink: 0;
 }
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-.cv-grid-root-class-name6 {
+ 
+.cv-gridroot-class-name6 {
   margin-top: var(--dl-space-space-fourunits);
 }
+ 
 
+ 
 
+ 
 
+ 
 
-.cv-grid-root-class-name11 {
+ 
+.cv-gridroot-class-name11 {
   margin-top: var(--dl-space-space-fourunits);
 }
+ 
 
+ 
 
+ 
 
+ 
 
-.cv-grid-root-class-name16 {
+ 
+.cv-gridroot-class-name16 {
   margin-top: var(--dl-space-space-fourunits);
 }
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-.cv-grid-root-class-name28 {
+ 
+.cv-gridroot-class-name28 {
   margin-top: var(--dl-space-space-fourunits);
 }
-.cv-grid-root-class-name29 {
+ 
+.cv-gridroot-class-name29 {
   margin-top: var(--dl-space-space-fourunits);
 }
-.cv-grid-root-class-name30 {
+ 
+.cv-gridroot-class-name30 {
   margin-top: var(--dl-space-space-fourunits);
 }
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-.cv-grid-root-class-name49 {
+ 
+.cv-gridroot-class-name49 {
   margin-top: var(--dl-space-space-fourunits);
 }
-.cv-grid-root-class-name50 {
+ 
+.cv-gridroot-class-name50 {
   margin-top: var(--dl-space-space-fourunits);
 }
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 @media(max-width: 991px) {
-  .cv-grid-container1 {
+  .cv-grid-container2 {
     flex-direction: column;
   }
 }

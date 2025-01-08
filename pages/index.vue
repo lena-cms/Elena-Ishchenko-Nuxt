@@ -1,26 +1,26 @@
 <template>
-  <div class="about-container">
+  <div class="about-container1">
     <header-container></header-container>
     <div class="about-banner">
-      <div class="about-container1">
-        <p class="about-text">
+      <div class="about-container2">
+        <p class="about-text10">
           <span>
             Currently, I’m a curator of Nomadic Program at Vleeshal Center for
             Contemporary Art (Middelburg, the Netherlands) together with Maria
             Sarycheva as part of
-            <span v-html="raw4up2"></span>
+            <span v-html="rawb5ct"></span>
           </span>
           <a
             href="http://typography-online.ru/league_of_tenders/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link"
+            class="about-link1"
           >
             League of Tenders
           </a>
           <span>
             curatorial duo.
-            <span v-html="raw1v4k"></span>
+            <span v-html="raw7cxi"></span>
           </span>
           <br />
           <br />
@@ -28,7 +28,7 @@
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian* context.
-            <span v-html="rawtku2"></span>
+            <span v-html="rawfg40"></span>
           </span>
           <br />
           <br />
@@ -37,7 +37,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="raw2vy6"></span>
+            <span v-html="rawr3gj"></span>
           </span>
           <br />
           <br />
@@ -60,7 +60,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="rawkika"></span>
+            <span v-html="rawc8xt"></span>
           </span>
           <br />
           <br />
@@ -94,12 +94,12 @@
           </span>
           <br />
           <br />
-          <span><span v-html="rawl7av"></span></span>
-          <span><span v-html="raw18hd"></span></span>
+          <span><span v-html="raw768y"></span></span>
+          <span><span v-html="rawyqgq"></span></span>
         </p>
       </div>
-      <span class="about-text25">
-        <span class="about-text26">Cologne, Germany</span>
+      <span class="about-text35">
+        <span class="about-text36">Cologne, Germany</span>
         <br />
         <a href="mailto:spot.helena@gmail.com?subject=">spot.helena@gmail.com</a>
         <br />
@@ -122,13 +122,13 @@ export default {
   },
   data() {
     return {
-      raw4up2: ' ',
-      raw1v4k: ' ',
-      rawtku2: ' ',
-      raw2vy6: ' ',
-      rawkika: ' ',
-      rawl7av: ' ',
-      raw18hd: ' ',
+      rawb5ct: ' ',
+      raw7cxi: ' ',
+      rawfg40: ' ',
+      rawr3gj: ' ',
+      rawc8xt: ' ',
+      raw768y: ' ',
+      rawyqgq: ' ',
     }
   },
   head: {
@@ -144,7 +144,7 @@ export default {
 </script>
 
 <style scoped>
-.about-container {
+.about-container1 {
   width: 100%;
   height: auto;
   display: flex;
@@ -152,6 +152,7 @@ export default {
   align-items: center;
   flex-direction: column;
 }
+ 
 .about-banner {
   width: 100%;
   display: flex;
@@ -160,8 +161,10 @@ export default {
   max-width: var(--dl-size-size-maxcontent);
   justify-content: space-between;
 }
+ 
 
-.about-container1 {
+ 
+.about-container2 {
   flex: 0 0 auto;
   width: 751px;
   height: auto;
@@ -169,23 +172,27 @@ export default {
   align-items: space-between;
   flex-direction: column;
 }
-.about-text {
+ 
+.about-text10 {
   text-align: left;
 }
-.about-text25 {
+ 
+.about-text35 {
   padding-bottom: var(--dl-space-space-fiveunits);
 }
+ 
 @media(max-width: 1200px) {
-  .about-link {
+  .about-link1 {
     text-decoration: underline;
   }
-  .about-text25 {
+  .about-text35 {
     align-self: flex-start;
   }
-  .about-text26 {
+  .about-text36 {
     align-self: flex-start;
   }
 }
+ 
 @media(max-width: 991px) {
   .about-banner {
     flex-direction: column-reverse;
