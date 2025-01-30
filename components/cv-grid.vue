@@ -78,6 +78,8 @@ export default {
  
 
  
+
+ 
 .cv-gridroot-class-name6 {
   margin-top: var(--dl-space-space-fourunits);
 }
@@ -91,6 +93,10 @@ export default {
 
  
 .cv-gridroot-class-name11 {
+  margin-top: var(--dl-space-space-fourunits);
+}
+ 
+.cv-gridroot-class-name12 {
   margin-top: var(--dl-space-space-fourunits);
 }
  
@@ -199,12 +205,6 @@ export default {
 
  
 
- 
-
- 
-.cv-gridroot-class-name12 {
-  margin-top: var(--dl-space-space-fourunits);
-}
  
 @media(max-width: 991px) {
   .cv-grid-container2 {
