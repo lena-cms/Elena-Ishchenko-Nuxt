@@ -17,7 +17,7 @@
             Nomadic Program 2024–2025
           </a>
           <span>
-            at Vleeshal Center for Contemporary Art (Middelburg, the Netherlands),
+            at Vleeshal Center for Contemporary Art (Middelburg, Netherlands),
             alongside Maria Sarycheva as part of the curatorial duo League of
             Tenders.
           </span>
