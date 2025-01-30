@@ -15,7 +15,7 @@
             Curator of Nomadic Program
           </a>
           <span>, Vleeshal Center for Contemporary Art </span>
-          <span class="cv-text102">Middelburg, the Netherlands</span>
+          <span class="cv-text102">Middelburg, Netherlands</span>
         </p>
       </cv-grid>
       <cv-grid
@@ -31,7 +31,7 @@
       >
         <span class="cv-text104">
           Repetition is a Form of Changing. Nomadic Program for Vleeshal CCA
-          (Middelburg, the Netherlands) with events in various places around the
+          (Middelburg, Netherlands) with events in various places around the
           globe
         </span>
       </cv-grid>
@@ -100,8 +100,7 @@
             Research fellow at Garage Museum of Contemporary Art
             <span v-html="rawn8zx"></span>
           </span>
-          <span class="cv-text119">M</span>
-          <span class="cv-text120">oscow, Russia</span>
+          <span class="cv-text119">Moscow, Russia</span>
           <br />
         </span>
       </cv-grid>
