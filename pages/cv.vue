@@ -12,7 +12,7 @@
             rel="noreferrer noopener"
             class="cv-link10"
           >
-            Curator of Nomadic Program
+            Curator of Nomadic Program Repetition is a Form of Changing
           </a>
           <br/>
           <span>Vleeshal Center for Contemporary Art, Middelburg, Netherlands</span>
@@ -30,37 +30,13 @@
         rootClassName="cv-gridroot-class-name6"
       >
         <span class="cv-text104">
-          Repetition is a Form of Changing. Nomadic Program for Vleeshal CCA
-          (Middelburg, Netherlands) with events in various places around the
+          Repetition is a Form of Changing
+          Nomadic Program for Vleeshal CCA (Middelburg, Netherlands), events in various places around the
           globe
         </span>
       </cv-grid>
-      <cv-grid
-        text2="Empires Will Die Telegram Channel"
-        cvYears="2023–ongoing"
-        rootClassName="cv-gridroot-class-name63"
-      >
         <p class="cv-text105">
           Archive of repressions against cultural workers in Russia, non-public
-        </p>
-      </cv-grid>
-      <cv-grid
-        text2="Empires Will Die Telegram Channel"
-        cvYears="ongoing"
-        rootClassName="cv-gridroot-class-name26"
-      >
-        <p class="cv-text106">
-          <a
-            href="https://t.me/empireswilldie"
-            target="_blank"
-            rel="noreferrer noopener"
-            class="cv-link11"
-          >
-            Empires will die
-          </a>
-          <span>, personal blog in </span>
-          <span class="cv-text108">Telegram</span>
-          <span class="cv-text109"> </span>
         </p>
       </cv-grid>
       <cv-grid
