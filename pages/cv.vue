@@ -14,8 +14,8 @@
           >
             Curator of Nomadic Program
           </a>
-          <span>, Vleeshal Center for Contemporary Art </span>
-          <span class="cv-text102">Middelburg, Netherlands</span>
+          <br/>
+          <span>Vleeshal Center for Contemporary Art, Middelburg, Netherlands</span>
         </p>
       </cv-grid>
       <cv-grid
