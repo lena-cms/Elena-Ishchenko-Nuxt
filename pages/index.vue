@@ -6,7 +6,7 @@
         <p class="about-text10">
           <span>
             Currently, I am working as a curator for the
-            <span v-html="rawhecm"></span>
+            <span v-html="raw55k6"></span>
           </span>
           <a
             href="https://vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -29,14 +29,14 @@
             non-public due to the safety concerns of the participants and
             organizers, some of whom are based in russia* and Belarus.
           </span>
-          <span><span v-html="rawojif"></span></span>
+          <span><span v-html="rawgdz6"></span></span>
           <br />
           <br />
           <span>
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian context.
-            <span v-html="rawww8m"></span>
+            <span v-html="raw9kvw"></span>
           </span>
           <br />
           <br />
@@ -45,7 +45,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawiixz"></span>
+            <span v-html="rawfgm6"></span>
           </span>
           <br />
           <br />
@@ -68,7 +68,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="rawe7p4"></span>
+            <span v-html="rawyx9n"></span>
           </span>
           <br />
           <br />
@@ -82,7 +82,7 @@
             “foreign agent” by the russian government. Now, we continue our work
             remotely in various places around the globe. Among our recent projects
             are
-            <span v-html="rawy7z6"></span>
+            <span v-html="rawnz7t"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/category/translocal-dialogues-en/"
@@ -105,7 +105,7 @@
           <span>
             In 2022–2023, I was involved in curating an exhibition and a series of
             events titled
-            <span v-html="rawo4il"></span>
+            <span v-html="rawwd3g"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -135,8 +135,8 @@
           <br class="about-text40" />
           <br />
           <br />
-          <span><span v-html="rawoix7"></span></span>
-          <span><span v-html="rawjtw5"></span></span>
+          <span><span v-html="rawx4ed"></span></span>
+          <span><span v-html="rawmo9i"></span></span>
         </p>
       </div>
       <span class="about-text45">
@@ -163,15 +163,15 @@ export default {
   },
   data() {
     return {
-      rawhecm: ' ',
-      rawojif: ' ',
-      rawww8m: ' ',
-      rawiixz: ' ',
-      rawe7p4: ' ',
-      rawy7z6: ' ',
-      rawo4il: ' ',
-      rawoix7: ' ',
-      rawjtw5: ' ',
+      raw55k6: ' ',
+      rawgdz6: ' ',
+      raw9kvw: ' ',
+      rawfgm6: ' ',
+      rawyx9n: ' ',
+      rawnz7t: ' ',
+      rawwd3g: ' ',
+      rawx4ed: ' ',
+      rawmo9i: ' ',
     }
   },
   head: {
