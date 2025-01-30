@@ -34,7 +34,6 @@
           Nomadic Program for Vleeshal CCA (Middelburg, Netherlands), events in various places around the
           globe
         </span>
-      </cv-grid>
         <p class="cv-text105">
           Archive of repressions against cultural workers in Russia, non-public
         </p>
