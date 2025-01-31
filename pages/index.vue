@@ -6,7 +6,7 @@
         <p class="about-text10">
           <span>
             Currently, I am working as a curator for the
-            <span v-html="raw4qsz"></span>
+            <span v-html="rawwcy4"></span>
           </span>
           <a
             href="https://vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -29,14 +29,14 @@
             non-public due to the safety concerns of the participants and
             organizers, some of whom are based in russia* and Belarus.
           </span>
-          <span><span v-html="rawwdnu"></span></span>
+          <span><span v-html="rawww8h"></span></span>
           <br />
           <br />
           <span>
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian context.
-            <span v-html="rawtotk"></span>
+            <span v-html="rawve28"></span>
           </span>
           <br />
           <br />
@@ -45,7 +45,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawg2d4"></span>
+            <span v-html="rawtddw"></span>
           </span>
           <br />
           <br />
@@ -68,7 +68,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="rawvpok"></span>
+            <span v-html="rawzr7o"></span>
           </span>
           <br />
           <br />
@@ -82,7 +82,7 @@
             “foreign agent” by the russian government. Now, we continue our work
             remotely in various places around the globe. Among our recent projects
             are
-            <span v-html="rawg6av"></span>
+            <span v-html="rawqqar"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/category/translocal-dialogues-en/"
@@ -105,7 +105,7 @@
           <span>
             In 2022–2023, I was involved in curating an exhibition and a series of
             events titled
-            <span v-html="rawi7hj"></span>
+            <span v-html="raw4gk3"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -113,8 +113,9 @@
             rel="noreferrer noopener"
             class="about-link3"
           >
-            “Өмә,”
+            Өмә
           </a>
+          <span class="about-text36">,</span>
           <span>
              organized with nGbK and displayed at Kunstraum Kreuzberg/Bethanien in
             Berlin. By telling the stories of approximately thirty artists from
@@ -125,22 +126,22 @@
           </span>
           <br />
           <br />
-          <span class="about-text39">
+          <span class="about-text40">
             *I use “russia” and “russian federation” in lowercase to condemn the
             war in Ukraine and its colonial policy in general, and to express
             solidarity with Ukrainians and decolonial movements. I use Russian in
             uppercase when it refers to the language, to underline that it equally
             belongs to everybody who speaks it.
           </span>
-          <br class="about-text40" />
+          <br class="about-text41" />
           <br />
           <br />
-          <span><span v-html="rawatpn"></span></span>
-          <span><span v-html="rawq5ga"></span></span>
+          <span><span v-html="raws854"></span></span>
+          <span><span v-html="rawwql9"></span></span>
         </p>
       </div>
-      <span class="about-text45">
-        <span class="about-text46">Cologne, Germany</span>
+      <span class="about-text46">
+        <span class="about-text47">Cologne, Germany</span>
         <br />
         <a href="mailto:spot.helena@gmail.com?subject=">spot.helena@gmail.com</a>
         <br />
@@ -163,15 +164,15 @@ export default {
   },
   data() {
     return {
-      raw4qsz: ' ',
-      rawwdnu: ' ',
-      rawtotk: ' ',
-      rawg2d4: ' ',
-      rawvpok: ' ',
-      rawg6av: ' ',
-      rawi7hj: ' ',
-      rawatpn: ' ',
-      rawq5ga: ' ',
+      rawwcy4: ' ',
+      rawww8h: ' ',
+      rawve28: ' ',
+      rawtddw: ' ',
+      rawzr7o: ' ',
+      rawqqar: ' ',
+      raw4gk3: ' ',
+      raws854: ' ',
+      rawwql9: ' ',
     }
   },
   head: {
@@ -220,7 +221,11 @@ export default {
   text-align: left;
 }
  
-.about-text45 {
+.about-link3 {
+  text-decoration: underline;
+}
+ 
+.about-text46 {
   padding-bottom: var(--dl-space-space-fiveunits);
 }
  
@@ -234,16 +239,19 @@ export default {
   .about-link3 {
     text-decoration: underline;
   }
-  .about-text39 {
-    font-style: italic;
+  .about-text36 {
+    text-decoration: underline;
   }
   .about-text40 {
     font-style: italic;
   }
-  .about-text45 {
-    align-self: flex-start;
+  .about-text41 {
+    font-style: italic;
   }
   .about-text46 {
+    align-self: flex-start;
+  }
+  .about-text47 {
     align-self: flex-start;
   }
 }
