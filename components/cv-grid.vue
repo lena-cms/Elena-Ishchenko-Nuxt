@@ -26,7 +26,7 @@ export default {
   width: 100%;
   height: auto;
   display: flex;
-  padding: var(--dl-space-space-halfunit);
+  padding: var(--dl-layout-space-halfunit);
   position: relative;
   align-items: flex-start;
   flex-direction: column;
@@ -34,7 +34,7 @@ export default {
 }
  
 .cv-grid-container2 {
-  gap: var(--dl-space-space-tripleunit);
+  gap: var(--dl-layout-space-tripleunit);
   flex: 0 0 auto;
   width: 1185px;
   height: auto;
@@ -52,7 +52,7 @@ export default {
 }
  
 .cv-grid-container3 {
-  gap: var(--dl-space-space-tripleunit);
+  gap: var(--dl-layout-space-tripleunit);
   display: flex;
   align-self: flex-start;
   align-items: center;
@@ -81,7 +81,7 @@ export default {
 
  
 .cv-gridroot-class-name6 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 
@@ -93,11 +93,11 @@ export default {
 
  
 .cv-gridroot-class-name11 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 .cv-gridroot-class-name12 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 
@@ -107,7 +107,7 @@ export default {
 
  
 .cv-gridroot-class-name16 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 
@@ -129,15 +129,15 @@ export default {
 
  
 .cv-gridroot-class-name28 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 .cv-gridroot-class-name29 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 .cv-gridroot-class-name30 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 
@@ -173,7 +173,7 @@ export default {
 
  
 .cv-gridroot-class-name50 {
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-layout-space-fourunits);
 }
  
 

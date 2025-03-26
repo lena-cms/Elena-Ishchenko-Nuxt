@@ -6,7 +6,7 @@
         <p class="about-text10">
           <span>
             Currently, I am working as a curator for the
-            <span v-html="rawwcy4"></span>
+            <span v-html="rawfct9"></span>
           </span>
           <a
             href="https://vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -29,14 +29,14 @@
             non-public due to the safety concerns of the participants and
             organizers, some of whom are based in russia* and Belarus.
           </span>
-          <span><span v-html="rawww8h"></span></span>
+          <span><span v-html="rawfb91"></span></span>
           <br />
           <br />
           <span>
             In my practice, I am cultivating a decolonial approach to curating and
             knowledge production, while addressing power relations inherited from
             colonial policies, particularly within the russian context.
-            <span v-html="rawve28"></span>
+            <span v-html="raw6hry"></span>
           </span>
           <br />
           <br />
@@ -45,7 +45,7 @@
             lectures, educational practices, workshops, and even personal blogs, I
             prefer collective and collaborative work that encourage social
             imagination and change.
-            <span v-html="rawtddw"></span>
+            <span v-html="rawltoy"></span>
           </span>
           <br />
           <br />
@@ -68,7 +68,7 @@
             consciously or uncousiously used by the russian state to eliminate any
             public discussions and force people to leave the country. This archive
             is non-public.
-            <span v-html="rawzr7o"></span>
+            <span v-html="raw960r"></span>
           </span>
           <br />
           <br />
@@ -82,7 +82,7 @@
             “foreign agent” by the russian government. Now, we continue our work
             remotely in various places around the globe. Among our recent projects
             are
-            <span v-html="rawqqar"></span>
+            <span v-html="rawldmh"></span>
           </span>
           <a
             href="https://typography-worldwide.org/en/category/translocal-dialogues-en/"
@@ -105,7 +105,7 @@
           <span>
             In 2022–2023, I was involved in curating an exhibition and a series of
             events titled
-            <span v-html="raw4gk3"></span>
+            <span v-html="rawekyb"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -136,8 +136,8 @@
           <br class="about-text41" />
           <br />
           <br />
-          <span><span v-html="raws854"></span></span>
-          <span><span v-html="rawwql9"></span></span>
+          <span><span v-html="raweg4n"></span></span>
+          <span><span v-html="raw4g8r"></span></span>
         </p>
       </div>
       <span class="about-text46">
@@ -164,15 +164,15 @@ export default {
   },
   data() {
     return {
-      rawwcy4: ' ',
-      rawww8h: ' ',
-      rawve28: ' ',
-      rawtddw: ' ',
-      rawzr7o: ' ',
-      rawqqar: ' ',
-      raw4gk3: ' ',
-      raws854: ' ',
-      rawwql9: ' ',
+      rawfct9: ' ',
+      rawfb91: ' ',
+      raw6hry: ' ',
+      rawltoy: ' ',
+      raw960r: ' ',
+      rawldmh: ' ',
+      rawekyb: ' ',
+      raweg4n: ' ',
+      raw4g8r: ' ',
     }
   },
   head: {
@@ -200,9 +200,9 @@ export default {
 .about-banner {
   width: 100%;
   display: flex;
-  padding: var(--dl-space-space-tripleunit);
+  padding: var(--dl-layout-space-tripleunit);
   position: relative;
-  max-width: var(--dl-size-size-maxcontent);
+  max-width: var(--dl-layout-size-maxcontent);
   justify-content: space-between;
 }
  
@@ -225,8 +225,16 @@ export default {
   text-decoration: underline;
 }
  
+.about-text40 {
+  font-style: italic;
+}
+ 
+.about-text41 {
+  font-style: italic;
+}
+ 
 .about-text46 {
-  padding-bottom: var(--dl-space-space-fiveunits);
+  padding-bottom: var(--dl-layout-space-fiveunits);
 }
  
 @media(max-width: 1200px) {

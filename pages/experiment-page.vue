@@ -97,7 +97,7 @@ export default {
   width: 100%;
   display: flex;
   align-items: center;
-  padding-top: var(--dl-space-space-unit);
+  padding-top: var(--dl-layout-space-unit);
   border-color: var(--dl-color-gray-900);
   border-width: 1px;
   flex-direction: row;
@@ -111,13 +111,13 @@ export default {
   width: 48px;
   height: 48px;
   object-fit: cover;
-  border-radius: var(--dl-radius-radius-round);
+  border-radius: var(--dl-layout-radius-round);
 }
  
 .experiment-page-container2 {
   display: flex;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-halfunit);
+  margin-left: var(--dl-layout-space-halfunit);
   flex-direction: column;
   justify-content: space-between;
 }
@@ -136,8 +136,8 @@ export default {
  
 @media(max-width: 991px) {
   .experiment-page-profile {
-    padding-left: var(--dl-space-space-halfunit);
-    padding-right: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-layout-space-halfunit);
+    padding-right: var(--dl-layout-space-halfunit);
   }
   .experiment-page-image {
     margin-left: 0px;

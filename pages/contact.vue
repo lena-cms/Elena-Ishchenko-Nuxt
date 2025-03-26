@@ -78,8 +78,8 @@ export default {
   width: 100%;
   height: auto;
   display: flex;
-  padding: var(--dl-space-space-tripleunit);
-  max-width: var(--dl-size-size-maxcontent);
+  padding: var(--dl-layout-space-tripleunit);
+  max-width: var(--dl-layout-size-maxcontent);
   min-height: 70vh;
   align-items: flex-start;
   flex-direction: column;

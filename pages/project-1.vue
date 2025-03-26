@@ -205,7 +205,7 @@ export default {
   width: 45rem;
   align-self: flex-start;
   margin-top: 32px;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
  
 .project1-text20 {
@@ -236,7 +236,7 @@ export default {
   border-color: var(--dl-color-gray-black);
   border-width: 0px;
   margin-right: 0px;
-  padding-right: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-layout-space-halfunit);
   flex-direction: column;
 }
  
@@ -257,9 +257,9 @@ export default {
 }
  
 .project1-text34 {
-  margin-top: var(--dl-space-space-unit);
+  margin-top: var(--dl-layout-space-unit);
   font-weight: bold;
-  margin-bottom: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-layout-space-unit);
 }
  
 .project1-text35 {
@@ -329,29 +329,29 @@ export default {
     text-align: left;
     border-color: var(--dl-color-gray-black);
     border-width: 0px;
-    padding-left: var(--dl-space-space-unit);
-    border-radius: var(--dl-radius-radius-radius4);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    border-radius: var(--dl-layout-radius-radius4);
+    padding-right: var(--dl-layout-space-unit);
   }
   .project1-hero2 {
     padding-left: 32px;
     padding-right: 32px;
   }
   .project1-text32 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    padding-right: var(--dl-layout-space-unit);
   }
   .project1-text33 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    padding-right: var(--dl-layout-space-unit);
   }
   .project1-text34 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    padding-right: var(--dl-layout-space-unit);
   }
   .project1-text35 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    padding-right: var(--dl-layout-space-unit);
   }
   .project1-image2 {
     width: 80%;
@@ -361,8 +361,8 @@ export default {
 @media(max-width: 479px) {
   .project1-hero1 {
     padding-top: 32px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    padding-right: var(--dl-layout-space-unit);
     padding-bottom: 32px;
   }
   .project1-text20 {
@@ -371,23 +371,23 @@ export default {
     border-color: var(--dl-color-gray-black);
     border-width: 0px;
     padding-left: 0px;
-    border-radius: var(--dl-radius-radius-radius2);
+    border-radius: var(--dl-layout-radius-radius2);
     padding-right: 0px;
   }
   .project1-hero2 {
     padding-top: 32px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-layout-space-unit);
+    padding-right: var(--dl-layout-space-unit);
     padding-bottom: 32px;
   }
   .project1-container2 {
-    margin-bottom: var(--dl-space-space-unit);
+    margin-bottom: var(--dl-layout-space-unit);
   }
   .project1-text35 {
     border-color: var(--dl-color-gray-black);
     border-width: 0px;
     padding-left: 0px;
-    border-radius: var(--dl-radius-radius-radius2);
+    border-radius: var(--dl-layout-radius-radius2);
     padding-right: 0px;
   }
 }

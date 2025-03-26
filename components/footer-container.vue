@@ -44,7 +44,7 @@ export default {
   width: 100%;
   display: flex;
   position: relative;
-  margin-top: var(--dl-space-space-tenunits);
+  margin-top: var(--dl-layout-space-tenunits);
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -63,13 +63,13 @@ export default {
 .footer-container-footer {
   width: 100%;
   display: flex;
-  max-width: var(--dl-size-size-maxcontent);
+  max-width: var(--dl-layout-size-maxcontent);
   align-items: center;
-  padding-top: var(--dl-space-space-tripleunit);
-  padding-left: var(--dl-space-space-tripleunit);
-  padding-right: var(--dl-space-space-tripleunit);
+  padding-top: var(--dl-layout-space-tripleunit);
+  padding-left: var(--dl-layout-space-tripleunit);
+  padding-right: var(--dl-layout-space-tripleunit);
   flex-direction: row;
-  padding-bottom: var(--dl-space-space-tripleunit);
+  padding-bottom: var(--dl-layout-space-tripleunit);
   justify-content: space-between;
 }
  
