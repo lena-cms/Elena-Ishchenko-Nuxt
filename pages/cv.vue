@@ -8,7 +8,7 @@
         <p class="cv-text100">
           <span>
             Curator of Nomadic Program
-            <span v-html="rawjb78"></span>
+            <span v-html="rawln9s"></span>
           </span>
           <a
             href="https://vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -34,9 +34,11 @@
             href="https://soundcloud.com/luciakagramanyan/her-voice-behind-armenian-lullabies-p2-podcast"
             target="_blank"
             rel="noreferrer noopener"
+            class="cv-link11"
           >
-            Her Labor, a
+            Her Labor
           </a>
+          <span>, a</span>
           <a
             href="https://soundcloud.com/luciakagramanyan/her-voice-behind-armenian-lullabies-p2-podcast"
             target="_blank"
@@ -44,8 +46,8 @@
           >
              laboratory and a publication
           </a>
-          <br class="cv-text105" />
-          <span class="cv-text106">
+          <br class="cv-text106" />
+          <span class="cv-text107">
             Part of the Nomadic Program, to be published at Ruyò Journal
           </span>
         </span>
@@ -55,7 +57,7 @@
         cvYears="2024"
         rootClassName="cv-gridroot-class-name63"
       >
-        <p class="cv-text107">
+        <p class="cv-text108">
           <a
             href="https://www.neroeditions.com/autori/league-of-tenders/"
             target="_blank"
@@ -69,9 +71,9 @@
             target="_blank"
             rel="noreferrer noopener"
           >
-            <br class="cv-text108" />
+            <br class="cv-text109" />
           </a>
-          <span class="cv-text109">
+          <span class="cv-text110">
             Part of the Nomadic Program, published in the NERO Editions Magazine 
           </span>
         </p>
@@ -81,7 +83,7 @@
         cvYears="2024"
         rootClassName="cv-gridroot-class-name26"
       >
-        <p class="cv-text110">
+        <p class="cv-text111">
           <a
             href="https://vleeshal.nl/archive/her-right-en"
             target="_blank"
@@ -99,8 +101,8 @@
             a series of screenings and events
           </a>
           <br />
-          <span class="cv-text112">Part of the Nomadic Program, v</span>
-          <span class="cv-text113">
+          <span class="cv-text113">Part of the Nomadic Program, v</span>
+          <span class="cv-text114">
             arious venues in Middleburg, Tashkent, Almaty, Yerevan, Dushanbe,
             Warsaw, Amsterdam, and online
           </span>
@@ -111,7 +113,7 @@
         cvYears="2024"
         rootClassName="cv-gridroot-class-name31"
       >
-        <p class="cv-text114">
+        <p class="cv-text115">
           <a
             href="https://vleeshal.nl/archive/her-right-en"
             target="_blank"
@@ -122,9 +124,9 @@
           </a>
           <span>, research sonic project by Lucia Kagramanyan</span>
           <br />
-          <span class="cv-text117">
+          <span class="cv-text118">
             Part of the Nomadic Program, performed at
-            <span v-html="rawi7ra"></span>
+            <span v-html="rawxiq9"></span>
           </span>
           <a
             href="https://framerframed.nl/en/projecten/her-voice-behind-armenian-lullabies/"
@@ -134,7 +136,7 @@
           >
             Framer Framed
           </a>
-          <span class="cv-text118">(Amsterdam) and broadcasted online on </span>
+          <span class="cv-text119">(Amsterdam) and broadcasted online on </span>
           <a
             href="https://www.nts.live/shows/panorama-yerevan/episodes/panorama-yerevan-19th-october-2024"
             target="_blank"
@@ -143,9 +145,9 @@
           >
             NTS Radio
           </a>
-          <span class="cv-text119">
+          <span class="cv-text120">
             and
-            <span v-html="raw7hvj"></span>
+            <span v-html="raw2dkp"></span>
           </span>
           <a
             href="https://soundcloud.com/luciakagramanyan/her-voice-behind-armenian-lullabies-p2-podcast"
@@ -162,7 +164,7 @@
         cvYears="2023–ongoing"
         rootClassName="cv-gridroot-class-name3"
       >
-        <p class="cv-text120">
+        <p class="cv-text121">
           Archive of repressions against cultural workers in Russia, non-public
         </p>
       </cv-grid>
@@ -171,7 +173,7 @@
         cvYears="2014"
         rootClassName="cv-gridroot-class-name30"
       >
-        <span class="cv-text121">
+        <span class="cv-text122">
           Moscow State University, MA Journalism &amp; Art Criticism
         </span>
       </cv-grid>
@@ -180,28 +182,28 @@
         cvYears="2017–2022"
         rootClassName="cv-gridroot-class-name28"
       >
-        <span class="cv-text122">
+        <span class="cv-text123">
           <span>Program Curator at Typography Center for Contemporary Art, </span>
-          <span class="cv-text124">Krasnodar, Russia</span>
+          <span class="cv-text125">Krasnodar, Russia</span>
         </span>
       </cv-grid>
       <cv-grid cvYears="2019–2022" rootClassName="cv-gridroot-class-name32">
-        <span class="cv-text125">
+        <span class="cv-text126">
           <span>Lecturer at Krasnodar State Institute of Culture, </span>
-          <span class="cv-text127">Krasnodar, Russia</span>
+          <span class="cv-text128">Krasnodar, Russia</span>
         </span>
       </cv-grid>
       <cv-grid cvYears="2015–2017" rootClassName="cv-gridroot-class-name9">
-        <span class="cv-text128">
+        <span class="cv-text129">
           <span>Research fellow at Garage Museum of Contemporary Art, Mo</span>
-          <span class="cv-text130">scow, Russia</span>
+          <span class="cv-text131">scow, Russia</span>
         </span>
       </cv-grid>
       <cv-grid cvYears="2012–2019" rootClassName="cv-gridroot-class-name10">
-        <span class="cv-text131">
+        <span class="cv-text132">
           <span>
             Editor and Contributor at
-            <span v-html="raw8lep"></span>
+            <span v-html="raw8bwu"></span>
           </span>
           <a
             href="http://aroundart.org/"
@@ -215,13 +217,12 @@
       </cv-grid>
       <cv-grid
         cvTitle="Curating and Research"
-        cvYears="ongoing
-  "
+        cvYears="2023"
         rootClassName="cv-gridroot-class-name11"
       >
         <div class="cv-container12">
           <div class="cv-container13">
-            <span class="cv-text133">
+            <span class="cv-text134">
               <a
                 href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
                 target="_blank"
@@ -239,8 +240,8 @@
               </a>
             </span>
           </div>
-          <p class="cv-text134">
-            <span class="cv-text135">
+          <p class="cv-text135">
+            <span class="cv-text136">
               nGbK Kunstraum Kreuzberg/Bethanien, Berlin, Germany
             </span>
             <br />
@@ -249,7 +250,7 @@
       </cv-grid>
       <cv-grid cvYears="2022–2023" rootClassName="cv-gridroot-class-name64">
         <div class="cv-container14">
-          <span class="cv-text137">
+          <span class="cv-text138">
             <a
               href="https://typography-worldwide.org/ru/2023/11/07/kica-2023/"
               target="_blank"
@@ -260,7 +261,7 @@
             </a>
             <span> educational program</span>
           </span>
-          <p class="cv-text139">Online, with Typography Collective</p>
+          <p class="cv-text140">Online, with Typography Collective</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2022" rootClassName="cv-gridroot-class-name38">
@@ -271,21 +272,21 @@
             rel="noreferrer noopener"
             class="cv-link25"
           >
-            <span class="cv-text140">
+            <span class="cv-text141">
               Translocal Dialogues on Home, Migration, and Solidarity,
             </span>
-            <span class="cv-text141"> online platform and a s</span>
-            <span class="cv-text142">
+            <span class="cv-text142"> online platform and a s</span>
+            <span class="cv-text143">
               eries of discussions
-              <span v-html="rawmuvt"></span>
+              <span v-html="rawvq5l"></span>
             </span>
           </a>
-          <p class="cv-text143">Online, with Typography Collective</p>
+          <p class="cv-text144">Online, with Typography Collective</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2021" rootClassName="cv-gridroot-class-name33">
         <div class="cv-container16">
-          <span class="cv-text144">
+          <span class="cv-text145">
             <a
               href="http://typography-online.ru/2021/02/17/unaimed-session-with-league-of-tenders-eng/"
               target="_blank"
@@ -297,7 +298,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text146">Online, as curatorial duo League of Tenders</p>
+          <p class="cv-text147">Online, as curatorial duo League of Tenders</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -306,7 +307,7 @@
         rootClassName="cv-gridroot-class-name37"
       >
         <div class="cv-container17">
-          <span class="cv-text147">
+          <span class="cv-text148">
             <a
               href="http://typography-online.ru/2021/03/31/fantasia-training-eng/"
               target="_blank"
@@ -315,11 +316,11 @@
             >
               Training Fantasia
             </a>
-            <span class="cv-text148"> — Festival &amp; Exhibition</span>
-            <span><span v-html="rawijvg"></span></span>
+            <span class="cv-text149"> — Festival &amp; Exhibition</span>
+            <span><span v-html="rawjkve"></span></span>
             <br />
           </span>
-          <p class="cv-text151">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text152">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -328,7 +329,7 @@
         rootClassName="cv-gridroot-class-name52"
       >
         <div class="cv-container18">
-          <span class="cv-text152">
+          <span class="cv-text153">
             <a
               href="https://garagemca.org/en/exhibition/assuming-distance-speculations-fakes-and-predictions-in-the-age-of-the-coronacene/tour/media-activist-collective-kafe-morozhenoe-and-a-working-group"
               target="_blank"
@@ -339,20 +340,20 @@
             </a>
             <span>
                research project by Kafe-Morozhenoe group for the exhibition
-              <span v-html="raw8zrr"></span>
+              <span v-html="raw7xi9"></span>
             </span>
-            <span class="cv-text154">
+            <span class="cv-text155">
               Assuming Distance: Speculations, Fakes, and Predictions in the Age
               of the Coronacene
             </span>
             <br />
           </span>
-          <p class="cv-text156">Garage Museum, Moscow, Russia</p>
+          <p class="cv-text157">Garage Museum, Moscow, Russia</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2020" rootClassName="cv-gridroot-class-name13">
         <div class="cv-container19">
-          <span class="cv-text157">
+          <span class="cv-text158">
             <a
               href="http://typography-online.ru/2020/12/01/league_4_protocol_rus/"
               target="_blank"
@@ -361,10 +362,10 @@
             >
               League of Tenders Annual Meeting &amp; Laboratory
             </a>
-            <span><span v-html="rawqaar"></span></span>
+            <span><span v-html="raws5gk"></span></span>
             <br />
           </span>
-          <p class="cv-text160">Anapa region, Krasnodar krai, Russia</p>
+          <p class="cv-text161">Anapa region, Krasnodar krai, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -373,7 +374,7 @@
         rootClassName="cv-gridroot-class-name39"
       >
         <div class="cv-container20">
-          <span class="cv-text161">
+          <span class="cv-text162">
             <a
               href="http://typography-online.ru/2020/06/20/elena-kolesnkova-voskhod-eng/"
               target="_blank"
@@ -382,10 +383,10 @@
             >
               Elena Kolesnikova. Voskhod Cooperative
             </a>
-            <span><span v-html="raw07t1"></span></span>
+            <span><span v-html="raw0153"></span></span>
             <br />
           </span>
-          <p class="cv-text164">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text165">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -394,7 +395,7 @@
         rootClassName="cv-gridroot-class-name25"
       >
         <div class="cv-container21">
-          <span class="cv-text165">
+          <span class="cv-text166">
             <a
               href="http://typography-online.ru/2020/01/04/ilona_marti_beyond_vision"
               target="_blank"
@@ -403,15 +404,15 @@
             >
               Ilona Marti. Beyond Vision
             </a>
-            <span><span v-html="raw97m6"></span></span>
+            <span><span v-html="raw7rjs"></span></span>
             <br />
           </span>
-          <p class="cv-text168">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text169">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2019" rootClassName="cv-gridroot-class-name4">
         <div class="cv-container22">
-          <span class="cv-text169">
+          <span class="cv-text170">
             <a
               href="http://typography-online.ru/2019/08/14/curatorial-courses-eng/"
               target="_blank"
@@ -420,13 +421,13 @@
             >
               Curatorial Courses
             </a>
-            <span class="cv-text170">
+            <span class="cv-text171">
               — School for Researchers and Organizers
             </span>
             <span> </span>
             <br />
           </span>
-          <p class="cv-text173">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text174">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -435,7 +436,7 @@
         rootClassName="cv-gridroot-class-name40"
       >
         <div class="cv-container23">
-          <span class="cv-text174">
+          <span class="cv-text175">
             <a
               href="http://typography-online.ru/2019/06/20/league_of_tenders_protocol2/"
               target="_blank"
@@ -447,7 +448,7 @@
             <span> </span>
             <br />
           </span>
-          <p class="cv-text177">Various venues, Krasnodar, Russia</p>
+          <p class="cv-text178">Various venues, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -456,7 +457,7 @@
         rootClassName="cv-gridroot-class-name41"
       >
         <div class="cv-container24">
-          <span class="cv-text178">
+          <span class="cv-text179">
             <a
               href="https://aksenovff.com/en/projects/odnushka-project-a-social-sculpture-in-novo-molokovo"
               target="_blank"
@@ -467,12 +468,12 @@
             </a>
             <br />
           </span>
-          <p class="cv-text180">Novo-Molokovo, Moscow, Russia</p>
+          <p class="cv-text181">Novo-Molokovo, Moscow, Russia</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2018" rootClassName="cv-gridroot-class-name14">
         <div class="cv-container25">
-          <span class="cv-text181">
+          <span class="cv-text182">
             <a
               href="http://typography-online.ru/2018/10/29/zhmievsky_realism/"
               target="_blank"
@@ -484,7 +485,7 @@
             <span> </span>
             <br />
           </span>
-          <p class="cv-text184">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text185">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -493,7 +494,7 @@
         rootClassName="cv-gridroot-class-name43"
       >
         <div class="cv-container26">
-          <span class="cv-text185">
+          <span class="cv-text186">
             <a
               href="http://typography-online.ru/2018/09/03/supercover-festexhibition/"
               target="_blank"
@@ -504,7 +505,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text187">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text188">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -513,7 +514,7 @@
         rootClassName="cv-gridroot-class-name44"
       >
         <div class="cv-container27">
-          <span class="cv-text188">
+          <span class="cv-text189">
             <a
               href="http://typography-online.ru/2018/05/11/%d1%80%d0%b0%d0%b1%d0%be%d1%87%d0%b0%d1%8f-%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d0%b0-%d0%be%d1%82%d0%b4%d0%b5%d0%bb-%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d0%b8%d1%87%d0%bd%d0%be%d1%81%d1%82%d0%b8/"
               target="_blank"
@@ -524,7 +525,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text190">Typography CCA, Krasnodar, Russia</p>
+          <p class="cv-text191">Typography CCA, Krasnodar, Russia</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -533,7 +534,7 @@
         rootClassName="cv-gridroot-class-name45"
       >
         <div class="cv-container28">
-          <span class="cv-text191">
+          <span class="cv-text192">
             <a
               href="http://zipgroup.space/portfolio/crystal-tiger/"
               target="_blank"
@@ -545,14 +546,14 @@
             <span> </span>
             <br />
           </span>
-          <p class="cv-text194">
+          <p class="cv-text195">
             Zarya Center for Contemporary Art, Vladivostok, Russia
           </p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2017" rootClassName="cv-gridroot-class-name15">
         <div class="cv-container29">
-          <span class="cv-text195">
+          <span class="cv-text196">
             <a
               href="http://aroundart.org/2017/11/17/between_fatigue_photo/"
               target="_blank"
@@ -563,7 +564,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text197">
+          <p class="cv-text198">
             Parallel program of 4th Ural Industrial Biennial of Contemporary Art,
             Yekaterinburg, Russia
           </p>
@@ -571,7 +572,7 @@
       </cv-grid>
       <cv-grid cvYears="2015–2017" rootClassName="cv-gridroot-class-name46">
         <div class="cv-container30">
-          <span class="cv-text198">
+          <span class="cv-text199">
             <a
               href="https://garagemca.org/en/exhibition/open-systems-stories-of-self-organized-art-initiatives-in-russia-2000-2015"
               target="_blank"
@@ -580,14 +581,14 @@
             >
               Open Systems. Self-Organized Art Initiatives in Russia: 2000–2015
             </a>
-            <span class="cv-text199">, research </span>
+            <span class="cv-text200">, research </span>
             <span>
               project, conference, series of exhibitions in Moscow, Yekaterinburg,
               Krasnodar, Krasnoyarsk, and Samara
-              <span v-html="rawnswn"></span>
+              <span v-html="raw7411"></span>
             </span>
           </span>
-          <p class="cv-text201">
+          <p class="cv-text202">
             Garage Museum of Contemporary Art, Moscow, Russia
           </p>
         </div>
@@ -598,22 +599,22 @@
         rootClassName="cv-gridroot-class-name16"
       >
         <div class="cv-container31">
-          <span class="cv-text202">
-            <span><span v-html="raw16o7"></span></span>
+          <span class="cv-text203">
+            <span><span v-html="raw8jwb"></span></span>
             <span>
               Workshop of Ideas: After Geographies (with Stas Shärifulla) 
             </span>
             <br />
           </span>
-          <p class="cv-text206">
+          <p class="cv-text207">
             Hochschule für Gestaltung und Kunst Basel FHNW Basel, Switzerland
           </p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2023" rootClassName="cv-gridroot-class-name24">
         <div class="cv-container32">
-          <span class="cv-text207">
-            <span><span v-html="rawl8k9"></span></span>
+          <span class="cv-text208">
+            <span><span v-html="rawx1sw"></span></span>
             <a
               href="https://gak-bremen.de/en/events/23v_elena-ishchenko_en/"
               target="_blank"
@@ -625,13 +626,13 @@
             <span>, lecture </span>
             <br />
           </span>
-          <p class="cv-text211">GAK Bremen, Germany</p>
+          <p class="cv-text212">GAK Bremen, Germany</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2022–2023" rootClassName="cv-gridroot-class-name27">
         <div class="cv-container33">
-          <span class="cv-text212">
-            <span><span v-html="rawvn6n"></span></span>
+          <span class="cv-text213">
+            <span><span v-html="raw1dm5"></span></span>
             <a
               href="https://bangbangeducation.ru/course/curating "
               target="_blank"
@@ -643,7 +644,7 @@
             <span> course</span>
             <br />
           </span>
-          <p class="cv-text216">
+          <p class="cv-text217">
             Practice of Curating, BBE Education, online (Moscow, Russia)  
           </p>
         </div>
@@ -654,7 +655,7 @@
         rootClassName="cv-gridroot-class-name51"
       >
         <div class="cv-container34">
-          <span class="cv-text217">
+          <span class="cv-text218">
             <a
               href="https://typography-worldwide.org/ru/2023/11/07/kica-2023/"
               target="_blank"
@@ -663,10 +664,10 @@
             >
               KICA-2023
             </a>
-            <span class="cv-text218">, educational program</span>
+            <span class="cv-text219">, educational program</span>
             <span> </span>
           </span>
-          <p class="cv-text220">Online, with Typography Collective</p>
+          <p class="cv-text221">Online, with Typography Collective</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -675,27 +676,27 @@
         rootClassName="cv-gridroot-class-name8"
       >
         <div class="cv-container35">
-          <span class="cv-text221">
-            <span><span v-html="raw0q1u"></span></span>
+          <span class="cv-text222">
+            <span><span v-html="rawz29i"></span></span>
             <span>
               Tracing colonial presence, workshop
-              <span v-html="rawn01p"></span>
+              <span v-html="rawkyhc"></span>
             </span>
             <br />
           </span>
-          <p class="cv-text225">Online, Urvakan Festival, Yerevan, Armenia</p>
+          <p class="cv-text226">Online, Urvakan Festival, Yerevan, Armenia</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2021–2022" rootClassName="cv-gridroot-class-name">
         <div class="cv-container36">
-          <span class="cv-text226">
+          <span class="cv-text227">
             <span>
               Approaching sustainable curating, course
-              <span v-html="rawecze"></span>
+              <span v-html="rawxsx3"></span>
             </span>
             <br />
           </span>
-          <p class="cv-text229">
+          <p class="cv-text230">
             Online and in-person in Moscow School of Contemporary Art, Moscow,
             Russia
           </p>
@@ -703,18 +704,18 @@
       </cv-grid>
       <cv-grid cvYears="2021" rootClassName="cv-gridroot-class-name1">
         <div class="cv-container37">
-          <span class="cv-text230">
+          <span class="cv-text231">
             <span>Institutional critic today, course </span>
             <br />
           </span>
-          <p class="cv-text233">
+          <p class="cv-text234">
             Sound Art department at Higher School of Economics, Moscow, Russia
           </p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2018" rootClassName="cv-gridroot-class-name22">
         <div class="cv-container38">
-          <span class="cv-text234">
+          <span class="cv-text235">
             <a
               href="https://prohelvetia.ru/en/event/october-18-november-25-ekaterinburg-working-archive-show/"
               target="_blank"
@@ -725,7 +726,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text236">
+          <p class="cv-text237">
             Urals Branch of National Center for Contemporary Art, Yekaterinburg,
             Russia
           </p>
@@ -737,11 +738,11 @@
         rootClassName="cv-gridroot-class-name23"
       >
         <div class="cv-container39">
-          <span class="cv-text237">
+          <span class="cv-text238">
             <span>Self-organising Communities, lecture</span>
             <br />
           </span>
-          <p class="cv-text240">
+          <p class="cv-text241">
             Zarya Center for Contemporary Art, Vladivostok, Russia
           </p>
         </div>
@@ -752,8 +753,8 @@
         rootClassName="cv-gridroot-class-name12"
       >
         <div class="cv-container40">
-          <span class="cv-text241">
-            <span><span v-html="rawfm0h"></span></span>
+          <span class="cv-text242">
+            <span><span v-html="raw5hr8"></span></span>
             <a
               href="https://berlinergazette.de/the-politics-of-cultural-memory-in-russia/"
               target="_blank"
@@ -764,7 +765,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text244">Publication, BerlinerGazette.de</p>
+          <p class="cv-text245">Publication, BerlinerGazette.de</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2023" rootClassName="cv-gridroot-class-name2">
@@ -775,22 +776,22 @@
             rel="noreferrer noopener"
             class="cv-link46"
           >
-            <span class="cv-text245">
+            <span class="cv-text246">
               Translocal Dialogues on Home, Migration, and Solidarity
             </span>
             <span>, editor</span>
           </a>
-          <p class="cv-text247">Online, with Typography Collective</p>
+          <p class="cv-text248">Online, with Typography Collective</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2021" rootClassName="cv-gridroot-class-name54">
         <div class="cv-container42">
-          <span class="cv-text248">
-            <span><span v-html="rawkoct"></span></span>
+          <span class="cv-text249">
+            <span><span v-html="rawcyld"></span></span>
             <span>From Self-organization to Self-exploitation and Back</span>
             <span>
               , essay for
-              <span v-html="rawcust"></span>
+              <span v-html="rawl80g"></span>
             </span>
             <a
               href="https://garagemca.org/en/programs/publishing/open-systems-self-organized-art-initiatives-in-russia-2000-2020"
@@ -810,7 +811,7 @@
             </a>
             <br />
           </span>
-          <p class="cv-text253">
+          <p class="cv-text254">
             <span>Moscow: Garage Museum, 2021 (</span>
             <a
               href="https://artguide.com/posts/2177"
@@ -830,7 +831,7 @@
         rootClassName="cv-gridroot-class-name55"
       >
         <div class="cv-container43">
-          <span class="cv-text256">
+          <span class="cv-text257">
             <a
               href="https://garagemca.org/event/garage-reflections/materials/elena-ischenko-kak-by-sorvatsya"
               target="_blank"
@@ -841,11 +842,11 @@
             </a>
             <span>
               , essay
-              <span v-html="rawnyz3"></span>
+              <span v-html="raw20ht"></span>
             </span>
             <br />
           </span>
-          <p class="cv-text259">Online, Garage Museum</p>
+          <p class="cv-text260">Online, Garage Museum</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -854,20 +855,20 @@
         rootClassName="cv-gridroot-class-name57"
       >
         <div class="cv-container44">
-          <span class="cv-text260">
+          <span class="cv-text261">
             <span>&apos;</span>
             <span>Odnushka&apos; as a Museum</span>
             <span>
               , essay for
-              <span v-html="rawemp9"></span>
+              <span v-html="rawl9zh"></span>
             </span>
-            <span class="cv-text264">
+            <span class="cv-text265">
               Novo‑Molokovo. Podmoskovye. The artists&apos; residence at
               &apos;Odnushka&apos; and a sculptural project in public space
             </span>
             <br />
           </span>
-          <p class="cv-text266">
+          <p class="cv-text267">
             <span>Moscow: Austrian Cultural Forum Moscow, 2020 (</span>
             <a
               href="https://prismic-io.s3.amazonaws.com/akfmo/68b65d17-90a3-45ad-ab6b-92e3b6b1ded0_PREVIEW_novomolokovo_ENG.pdf"
@@ -883,7 +884,7 @@
       </cv-grid>
       <cv-grid cvYears="2018" rootClassName="cv-gridroot-class-name59">
         <div class="cv-container45">
-          <span class="cv-text269">
+          <span class="cv-text270">
             <a
               href="https://uralartplatform.ru/en/texts/keywordsearch/"
               target="_blank"
@@ -895,21 +896,21 @@
             <span>, essay</span>
             <br />
           </span>
-          <p class="cv-text272">
+          <p class="cv-text273">
             Yekaterinburg: National Center for Contemporary Art, 2018 
           </p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2017" rootClassName="cv-gridroot-class-name60">
         <div class="cv-container46">
-          <span class="cv-text273">
+          <span class="cv-text274">
             <span>The Gap for Utopia, essay for the catalogue</span>
-            <span class="cv-text275">ZIP Group. ZIP Workers’ Club Station</span>
+            <span class="cv-text276">ZIP Group. ZIP Workers’ Club Station</span>
             <br />
           </span>
-          <p class="cv-text277">
+          <p class="cv-text278">
             Moscow: Moscow Museum of Contemporary Art
-            <span v-html="rawtkvx"></span>
+            <span v-html="rawg5p2"></span>
           </p>
         </div>
       </cv-grid>
@@ -919,19 +920,19 @@
         rootClassName="cv-gridroot-class-name61"
       >
         <div class="cv-container47">
-          <span class="cv-text278">
+          <span class="cv-text279">
             Garage Triennial: does Moscow’s new contemporary art showpiece
             represent the “real” Russia? 
           </span>
-          <p class="cv-text279">
+          <p class="cv-text280">
             Calvert Journal
-            <span v-html="rawmrej"></span>
+            <span v-html="rawr8qe"></span>
           </p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2016" rootClassName="cv-gridroot-class-name62">
         <div class="cv-container48">
-          <span class="cv-text280">
+          <span class="cv-text281">
             <a
               href="http://aroundart.org/2016/03/23/self-organised/"
               target="_blank"
@@ -941,9 +942,9 @@
               Why the Future is Self-Organized
             </a>
             <br />
-            <span><span v-html="rawrsfq"></span></span>
+            <span><span v-html="rawmegn"></span></span>
           </span>
-          <p class="cv-text283">aroundart.org</p>
+          <p class="cv-text284">aroundart.org</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="ongoing" rootClassName="cv-gridroot-class-name53">
@@ -954,11 +955,11 @@
             rel="noreferrer noopener"
             class="cv-link54"
           >
-            <span class="cv-text284">Empires Will Die</span>
-            <span class="cv-text285">,</span>
-            <span class="cv-text286"> personal blog</span>
+            <span class="cv-text285">Empires Will Die</span>
+            <span class="cv-text286">,</span>
+            <span class="cv-text287"> personal blog</span>
           </a>
-          <p class="cv-text287">Telegram (in Russian)</p>
+          <p class="cv-text288">Telegram (in Russian)</p>
         </div>
       </cv-grid>
       <cv-grid
@@ -967,19 +968,19 @@
         rootClassName="cv-gridroot-class-name29"
       >
         <div class="cv-container50">
-          <span class="cv-text288">
+          <span class="cv-text289">
             artasfoundation Summer School Divided Societies, Zurich, Switzerland 
           </span>
         </div>
       </cv-grid>
       <cv-grid cvYears="2022" rootClassName="cv-gridroot-class-name34">
         <div class="cv-container51">
-          <span class="cv-text289">Foundation for Arts Initiatives, grant </span>
+          <span class="cv-text290">Foundation for Arts Initiatives, grant </span>
         </div>
       </cv-grid>
       <cv-grid cvYears="2022" rootClassName="cv-gridroot-class-name5">
         <div class="cv-container52">
-          <span class="cv-text290">Goethe-Istitut Stabilisation Fund, grant</span>
+          <span class="cv-text291">Goethe-Istitut Stabilisation Fund, grant</span>
         </div>
       </cv-grid>
       <cv-grid
@@ -988,7 +989,7 @@
         rootClassName="cv-gridroot-class-name47"
       >
         <div class="cv-container53">
-          <span class="cv-text291">
+          <span class="cv-text292">
             <a
               href="https://www.cecartslink.org/participant/elena-ishchenko/"
               target="_blank"
@@ -1010,14 +1011,14 @@
         </div>
       </cv-grid>
       <cv-grid cvYears="2020" rootClassName="cv-gridroot-class-name35">
-        <span class="cv-text293">
+        <span class="cv-text294">
           Pro Helvetia Fast Forward Grant
-          <span v-html="rawp08m"></span>
+          <span v-html="raw59z3"></span>
         </span>
       </cv-grid>
       <cv-grid cvYears="2019" rootClassName="cv-gridroot-class-name48">
         <div class="cv-container54">
-          <span class="cv-text294">Residency Unlimited, New York, USA</span>
+          <span class="cv-text295">Residency Unlimited, New York, USA</span>
         </div>
       </cv-grid>
       <cv-grid
@@ -1026,7 +1027,7 @@
         rootClassName="cv-gridroot-class-name50"
       >
         <div class="cv-container55">
-          <span class="cv-text295">
+          <span class="cv-text296">
             <a
               href="https://dutchartinstitute.eu/page/21877/elena-ishchenko-league-of-tenders"
               target="_blank"
@@ -1037,15 +1038,15 @@
             </a>
             <br />
           </span>
-          <p class="cv-text297">Dutch Art Institute, Netherlands</p>
+          <p class="cv-text298">Dutch Art Institute, Netherlands</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2021, 2017" rootClassName="cv-gridroot-class-name17">
         <div class="cv-container56">
-          <span class="cv-text298">
+          <span class="cv-text299">
             <span>
               Member of Advisory Board of
-              <span v-html="rawas84"></span>
+              <span v-html="rawoofz"></span>
             </span>
             <a
               href="http://ensembles.org/ensembles/vac"
@@ -1058,14 +1059,14 @@
             <span>program</span>
             <br />
           </span>
-          <p class="cv-text302">
+          <p class="cv-text303">
             V-A-C Foundation, Moscow, Russia, and M HKA, Antwerp, Belgium 
           </p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2020" rootClassName="cv-gridroot-class-name19">
         <div class="cv-container57">
-          <span class="cv-text303">
+          <span class="cv-text304">
             <a
               href="https://cc19.org/proekty/persisting-presence-unsustainable-development/"
               target="_blank"
@@ -1076,22 +1077,22 @@
             </a>
             <span>
                conference, 48-hours Novosibirsk Festival
-              <span v-html="rawh4ts"></span>
+              <span v-html="rawx4zm"></span>
             </span>
             <br />
           </span>
-          <p class="cv-text306">CK19, Novosibirsk, Russia</p>
+          <p class="cv-text307">CK19, Novosibirsk, Russia</p>
         </div>
       </cv-grid>
       <cv-grid cvYears="2019" rootClassName="cv-gridroot-class-name20">
         <div class="cv-container58">
-          <span class="cv-text307">
-            <span class="cv-text308">
+          <span class="cv-text308">
+            <span class="cv-text309">
               Elena Ishchenko in conversation with Amanda Parmer
             </span>
             <br />
           </span>
-          <p class="cv-text310">Residency Unlimited, New York, USA</p>
+          <p class="cv-text311">Residency Unlimited, New York, USA</p>
         </div>
       </cv-grid>
     </div>
@@ -1116,34 +1117,34 @@ export default {
   },
   data() {
     return {
-      rawjb78: ' ',
-      rawi7ra: ' ',
-      raw7hvj: ' ',
-      raw8lep: ' ',
-      rawmuvt: ' ',
-      rawijvg: ' ',
-      raw8zrr: ' ',
-      rawqaar: ' ',
-      raw07t1: ' ',
-      raw97m6: ' ',
-      rawnswn: ' ',
-      raw16o7: ' ',
-      rawl8k9: ' ',
-      rawvn6n: ' ',
-      raw0q1u: ' ',
-      rawn01p: ' ',
-      rawecze: ' ',
-      rawfm0h: ' ',
-      rawkoct: ' ',
-      rawcust: ' ',
-      rawnyz3: ' ',
-      rawemp9: ' ',
-      rawtkvx: ' ',
-      rawmrej: ' ',
-      rawrsfq: ' ',
-      rawp08m: ' ',
-      rawas84: ' ',
-      rawh4ts: ' ',
+      rawln9s: ' ',
+      rawxiq9: ' ',
+      raw2dkp: ' ',
+      raw8bwu: ' ',
+      rawvq5l: ' ',
+      rawjkve: ' ',
+      raw7xi9: ' ',
+      raws5gk: ' ',
+      raw0153: ' ',
+      raw7rjs: ' ',
+      raw7411: ' ',
+      raw8jwb: ' ',
+      rawx1sw: ' ',
+      raw1dm5: ' ',
+      rawz29i: ' ',
+      rawkyhc: ' ',
+      rawxsx3: ' ',
+      raw5hr8: ' ',
+      rawcyld: ' ',
+      rawl80g: ' ',
+      raw20ht: ' ',
+      rawl9zh: ' ',
+      rawg5p2: ' ',
+      rawr8qe: ' ',
+      rawmegn: ' ',
+      raw59z3: ' ',
+      rawoofz: ' ',
+      rawx4zm: ' ',
     }
   },
   head: {
@@ -1195,11 +1196,15 @@ export default {
   width: 100%;
 }
  
-.cv-text105 {
+.cv-link11 {
   text-decoration: underline;
 }
  
-.cv-text107 {
+.cv-text106 {
+  text-decoration: underline;
+}
+ 
+.cv-text108 {
   width: 100%;
   text-align: left;
 }
@@ -1208,11 +1213,11 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text108 {
+.cv-text109 {
   text-decoration: underline;
 }
  
-.cv-text110 {
+.cv-text111 {
   width: 100%;
   text-align: left;
 }
@@ -1225,7 +1230,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text114 {
+.cv-text115 {
   width: 100%;
   text-align: left;
 }
@@ -1246,28 +1251,28 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text120 {
-  width: 100%;
-  text-align: left;
-}
- 
 .cv-text121 {
   width: 100%;
+  text-align: left;
 }
  
 .cv-text122 {
   width: 100%;
 }
  
-.cv-text125 {
+.cv-text123 {
   width: 100%;
 }
  
-.cv-text128 {
+.cv-text126 {
   width: 100%;
 }
  
-.cv-text131 {
+.cv-text129 {
+  width: 100%;
+}
+ 
+.cv-text132 {
   width: 100%;
 }
  
@@ -1293,13 +1298,13 @@ export default {
   flex-direction: column;
 }
  
-.cv-text133 {
+.cv-text134 {
   width: 100%;
   line-height: 2;
   text-decoration: underline;
 }
  
-.cv-text134 {
+.cv-text135 {
   width: 100%;
   text-align: left;
 }
@@ -1313,7 +1318,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text137 {
+.cv-text138 {
   width: 100%;
   line-height: 2;
 }
@@ -1322,7 +1327,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text139 {
+.cv-text140 {
   width: 100%;
   text-align: left;
 }
@@ -1341,15 +1346,15 @@ export default {
   line-height: 2;
 }
  
-.cv-text140 {
+.cv-text141 {
   text-decoration: underline;
 }
  
-.cv-text142 {
+.cv-text143 {
   text-decoration: none;
 }
  
-.cv-text143 {
+.cv-text144 {
   width: 100%;
   text-align: left;
 }
@@ -1363,7 +1368,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text144 {
+.cv-text145 {
   width: 100%;
   line-height: 2;
 }
@@ -1372,7 +1377,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text146 {
+.cv-text147 {
   width: 100%;
   text-align: left;
 }
@@ -1386,7 +1391,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text147 {
+.cv-text148 {
   width: 100%;
   line-height: 2;
 }
@@ -1395,11 +1400,11 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text148 {
+.cv-text149 {
   text-decoration: underline;
 }
  
-.cv-text151 {
+.cv-text152 {
   width: 100%;
   text-align: left;
 }
@@ -1413,7 +1418,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text152 {
+.cv-text153 {
   width: 100%;
   line-height: 2;
 }
@@ -1422,11 +1427,11 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text154 {
+.cv-text155 {
   font-style: italic;
 }
  
-.cv-text156 {
+.cv-text157 {
   width: 100%;
   text-align: left;
 }
@@ -1440,7 +1445,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text157 {
+.cv-text158 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1449,7 +1454,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text160 {
+.cv-text161 {
   width: 100%;
   text-align: left;
 }
@@ -1463,7 +1468,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text161 {
+.cv-text162 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1472,7 +1477,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text164 {
+.cv-text165 {
   width: 100%;
   text-align: left;
 }
@@ -1486,7 +1491,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text165 {
+.cv-text166 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1495,7 +1500,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text168 {
+.cv-text169 {
   width: 100%;
   text-align: left;
 }
@@ -1509,7 +1514,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text169 {
+.cv-text170 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1518,11 +1523,11 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text170 {
+.cv-text171 {
   text-decoration: underline;
 }
  
-.cv-text173 {
+.cv-text174 {
   width: 100%;
   text-align: left;
 }
@@ -1536,7 +1541,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text174 {
+.cv-text175 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1545,7 +1550,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text177 {
+.cv-text178 {
   width: 100%;
   text-align: left;
 }
@@ -1559,7 +1564,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text178 {
+.cv-text179 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1568,7 +1573,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text180 {
+.cv-text181 {
   width: 100%;
   text-align: left;
 }
@@ -1582,7 +1587,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text181 {
+.cv-text182 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1591,7 +1596,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text184 {
+.cv-text185 {
   width: 100%;
   text-align: left;
 }
@@ -1605,7 +1610,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text185 {
+.cv-text186 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1614,7 +1619,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text187 {
+.cv-text188 {
   width: 100%;
   text-align: left;
 }
@@ -1628,7 +1633,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text188 {
+.cv-text189 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1637,7 +1642,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text190 {
+.cv-text191 {
   width: 100%;
   text-align: left;
 }
@@ -1651,7 +1656,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text191 {
+.cv-text192 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1660,7 +1665,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text194 {
+.cv-text195 {
   width: 100%;
   text-align: left;
 }
@@ -1674,7 +1679,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text195 {
+.cv-text196 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1683,7 +1688,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text197 {
+.cv-text198 {
   width: 100%;
   text-align: left;
 }
@@ -1697,7 +1702,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text198 {
+.cv-text199 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1706,7 +1711,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text201 {
+.cv-text202 {
   width: 100%;
   text-align: left;
 }
@@ -1720,12 +1725,12 @@ export default {
   flex-direction: column;
 }
  
-.cv-text202 {
+.cv-text203 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text206 {
+.cv-text207 {
   width: 100%;
   text-align: left;
 }
@@ -1739,7 +1744,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text207 {
+.cv-text208 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1748,7 +1753,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text211 {
+.cv-text212 {
   width: 100%;
   text-align: left;
 }
@@ -1762,7 +1767,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text212 {
+.cv-text213 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1771,7 +1776,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text216 {
+.cv-text217 {
   width: 100%;
   text-align: left;
 }
@@ -1785,7 +1790,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text217 {
+.cv-text218 {
   width: 100%;
   line-height: 2;
 }
@@ -1794,7 +1799,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text220 {
+.cv-text221 {
   width: 100%;
   text-align: left;
 }
@@ -1808,12 +1813,12 @@ export default {
   flex-direction: column;
 }
  
-.cv-text221 {
+.cv-text222 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text225 {
+.cv-text226 {
   width: 100%;
   text-align: left;
 }
@@ -1827,12 +1832,12 @@ export default {
   flex-direction: column;
 }
  
-.cv-text226 {
+.cv-text227 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text229 {
+.cv-text230 {
   width: 100%;
   text-align: left;
 }
@@ -1846,12 +1851,12 @@ export default {
   flex-direction: column;
 }
  
-.cv-text230 {
+.cv-text231 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text233 {
+.cv-text234 {
   width: 100%;
   text-align: left;
 }
@@ -1865,7 +1870,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text234 {
+.cv-text235 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1874,7 +1879,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text236 {
+.cv-text237 {
   width: 100%;
   text-align: left;
 }
@@ -1888,12 +1893,12 @@ export default {
   flex-direction: column;
 }
  
-.cv-text237 {
+.cv-text238 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text240 {
+.cv-text241 {
   width: 100%;
   text-align: left;
 }
@@ -1907,13 +1912,13 @@ export default {
   flex-direction: column;
 }
  
-.cv-text241 {
+.cv-text242 {
   width: 100%;
   line-height: 1.8;
   text-decoration: underline;
 }
  
-.cv-text244 {
+.cv-text245 {
   width: 100%;
   text-align: left;
 }
@@ -1933,11 +1938,11 @@ export default {
   text-decoration: none;
 }
  
-.cv-text245 {
+.cv-text246 {
   text-decoration: underline;
 }
  
-.cv-text247 {
+.cv-text248 {
   width: 100%;
   text-align: left;
 }
@@ -1951,7 +1956,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text248 {
+.cv-text249 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1966,7 +1971,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text253 {
+.cv-text254 {
   width: 100%;
   text-align: left;
 }
@@ -1984,7 +1989,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text256 {
+.cv-text257 {
   width: 100%;
   line-height: 1.8;
 }
@@ -1993,7 +1998,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text259 {
+.cv-text260 {
   width: 100%;
   text-align: left;
 }
@@ -2007,16 +2012,16 @@ export default {
   flex-direction: column;
 }
  
-.cv-text260 {
+.cv-text261 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text264 {
+.cv-text265 {
   font-style: italic;
 }
  
-.cv-text266 {
+.cv-text267 {
   width: 100%;
   text-align: left;
 }
@@ -2034,7 +2039,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text269 {
+.cv-text270 {
   width: 100%;
   line-height: 1.8;
 }
@@ -2043,7 +2048,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text272 {
+.cv-text273 {
   width: 100%;
   text-align: left;
 }
@@ -2057,16 +2062,16 @@ export default {
   flex-direction: column;
 }
  
-.cv-text273 {
+.cv-text274 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text275 {
+.cv-text276 {
   font-style: italic;
 }
  
-.cv-text277 {
+.cv-text278 {
   width: 100%;
   text-align: left;
 }
@@ -2080,13 +2085,13 @@ export default {
   flex-direction: column;
 }
  
-.cv-text278 {
+.cv-text279 {
   width: 100%;
   line-height: 1.8;
   text-decoration: underline;
 }
  
-.cv-text279 {
+.cv-text280 {
   width: 100%;
   text-align: left;
 }
@@ -2100,7 +2105,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text280 {
+.cv-text281 {
   width: 100%;
   line-height: 1.8;
 }
@@ -2109,7 +2114,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text283 {
+.cv-text284 {
   width: 100%;
   text-align: left;
 }
@@ -2128,12 +2133,8 @@ export default {
   line-height: 2;
 }
  
-.cv-text284 {
-  text-decoration: underline;
-}
- 
 .cv-text285 {
-  text-decoration: none;
+  text-decoration: underline;
 }
  
 .cv-text286 {
@@ -2141,6 +2142,10 @@ export default {
 }
  
 .cv-text287 {
+  text-decoration: none;
+}
+ 
+.cv-text288 {
   width: 100%;
   text-align: left;
 }
@@ -2154,7 +2159,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text288 {
+.cv-text289 {
   width: 100%;
 }
  
@@ -2167,7 +2172,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text289 {
+.cv-text290 {
   width: 100%;
 }
  
@@ -2180,7 +2185,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text290 {
+.cv-text291 {
   width: 100%;
 }
  
@@ -2193,7 +2198,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text291 {
+.cv-text292 {
   width: 100%;
 }
  
@@ -2205,7 +2210,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text293 {
+.cv-text294 {
   width: 100%;
 }
  
@@ -2218,7 +2223,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text294 {
+.cv-text295 {
   width: 100%;
 }
  
@@ -2231,7 +2236,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text295 {
+.cv-text296 {
   width: 100%;
   line-height: 1.8;
 }
@@ -2240,7 +2245,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text297 {
+.cv-text298 {
   width: 100%;
   text-align: left;
 }
@@ -2254,7 +2259,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text298 {
+.cv-text299 {
   width: 100%;
   line-height: 1.8;
 }
@@ -2263,7 +2268,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text302 {
+.cv-text303 {
   width: 100%;
   text-align: left;
 }
@@ -2277,7 +2282,7 @@ export default {
   flex-direction: column;
 }
  
-.cv-text303 {
+.cv-text304 {
   width: 100%;
   line-height: 1.8;
 }
@@ -2286,7 +2291,7 @@ export default {
   text-decoration: underline;
 }
  
-.cv-text306 {
+.cv-text307 {
   width: 100%;
   text-align: left;
 }
@@ -2300,16 +2305,16 @@ export default {
   flex-direction: column;
 }
  
-.cv-text307 {
+.cv-text308 {
   width: 100%;
   line-height: 1.8;
 }
  
-.cv-text308 {
+.cv-text309 {
   text-decoration: underline;
 }
  
-.cv-text310 {
+.cv-text311 {
   width: 100%;
   text-align: left;
 }
@@ -2321,7 +2326,7 @@ export default {
   .cv-text103 {
     font-style: italic;
   }
-  .cv-text106 {
+  .cv-text107 {
     color: var(--dl-color-gray-black);
     font-style: italic;
     font-weight: 400;
@@ -2329,10 +2334,10 @@ export default {
   .cv-link13 {
     text-decoration: underline;
   }
-  .cv-text108 {
+  .cv-text109 {
     text-decoration: underline;
   }
-  .cv-text109 {
+  .cv-text110 {
     font-style: italic;
     font-weight: 400;
   }
@@ -2342,321 +2347,321 @@ export default {
   .cv-link16 {
     text-decoration: underline;
   }
-  .cv-text112 {
+  .cv-text113 {
     font-style: italic;
   }
-  .cv-text113 {
+  .cv-text114 {
     font-style: italic;
   }
   .cv-link17 {
     text-decoration: underline;
   }
-  .cv-text117 {
+  .cv-text118 {
     font-style: italic;
   }
   .cv-link18 {
     font-style: italic;
     text-decoration: underline;
   }
-  .cv-text118 {
+  .cv-text119 {
     font-style: italic;
   }
   .cv-link19 {
     font-style: italic;
     text-decoration: underline;
   }
-  .cv-text119 {
+  .cv-text120 {
     font-style: italic;
   }
   .cv-link20 {
     font-style: italic;
   }
-  .cv-text124 {
+  .cv-text125 {
     font-style: inherit;
   }
-  .cv-text127 {
+  .cv-text128 {
     font-style: inherit;
   }
-  .cv-text130 {
+  .cv-text131 {
     font-style: inherit;
   }
-  .cv-text133 {
+  .cv-text134 {
     line-height: 2;
   }
   .cv-link22 {
     text-decoration: underline;
   }
-  .cv-text134 {
+  .cv-text135 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text135 {
+  .cv-text136 {
     font-weight: 400;
   }
-  .cv-text137 {
+  .cv-text138 {
     line-height: 2;
   }
   .cv-link24 {
     text-decoration: underline;
   }
-  .cv-text139 {
+  .cv-text140 {
     height: 48px;
     font-style: italic;
   }
   .cv-link25 {
     line-height: 2;
   }
-  .cv-text140 {
-    text-decoration: underline;
-  }
   .cv-text141 {
     text-decoration: underline;
   }
-  .cv-text143 {
+  .cv-text142 {
+    text-decoration: underline;
+  }
+  .cv-text144 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text144 {
+  .cv-text145 {
     line-height: 2;
   }
   .cv-link26 {
     text-decoration: underline;
   }
-  .cv-text146 {
+  .cv-text147 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text147 {
+  .cv-text148 {
     line-height: 2;
   }
   .cv-link27 {
     text-decoration: underline;
   }
-  .cv-text148 {
+  .cv-text149 {
     text-decoration: inherit;
   }
-  .cv-text151 {
+  .cv-text152 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text152 {
+  .cv-text153 {
     line-height: 2;
   }
   .cv-link28 {
     text-decoration: underline;
   }
-  .cv-text156 {
+  .cv-text157 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text157 {
+  .cv-text158 {
     line-height: 1.8;
   }
   .cv-link29 {
     text-decoration: underline;
   }
-  .cv-text160 {
+  .cv-text161 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text161 {
+  .cv-text162 {
     line-height: 1.8;
   }
   .cv-link30 {
     text-decoration: underline;
   }
-  .cv-text164 {
+  .cv-text165 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text165 {
+  .cv-text166 {
     line-height: 1.8;
   }
   .cv-link31 {
     text-decoration: underline;
   }
-  .cv-text168 {
+  .cv-text169 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text169 {
+  .cv-text170 {
     line-height: 1.8;
   }
   .cv-link32 {
     text-decoration: inherit;
   }
-  .cv-text170 {
+  .cv-text171 {
     text-decoration: inherit;
   }
-  .cv-text173 {
+  .cv-text174 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text174 {
+  .cv-text175 {
     line-height: 1.8;
   }
   .cv-link33 {
     text-decoration: underline;
   }
-  .cv-text177 {
+  .cv-text178 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text178 {
+  .cv-text179 {
     line-height: 1.8;
   }
   .cv-link34 {
     text-decoration: underline;
   }
-  .cv-text180 {
+  .cv-text181 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text181 {
+  .cv-text182 {
     line-height: 1.8;
   }
   .cv-link35 {
     text-decoration: underline;
   }
-  .cv-text184 {
+  .cv-text185 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text185 {
+  .cv-text186 {
     line-height: 1.8;
   }
   .cv-link36 {
     text-decoration: underline;
   }
-  .cv-text187 {
+  .cv-text188 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text188 {
+  .cv-text189 {
     line-height: 1.8;
   }
   .cv-link37 {
     text-decoration: underline;
   }
-  .cv-text190 {
+  .cv-text191 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text191 {
+  .cv-text192 {
     line-height: 1.8;
   }
   .cv-link38 {
     text-decoration: underline;
   }
-  .cv-text194 {
+  .cv-text195 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text195 {
+  .cv-text196 {
     line-height: 1.8;
   }
   .cv-link39 {
     text-decoration: underline;
   }
-  .cv-text197 {
+  .cv-text198 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text198 {
+  .cv-text199 {
     line-height: 1.8;
   }
   .cv-link40 {
     text-decoration: underline;
   }
-  .cv-text199 {
+  .cv-text200 {
     text-decoration: underline;
   }
-  .cv-text201 {
+  .cv-text202 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text202 {
+  .cv-text203 {
     line-height: 1.8;
   }
-  .cv-text206 {
+  .cv-text207 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text207 {
+  .cv-text208 {
     line-height: 1.8;
   }
   .cv-link41 {
     text-decoration: underline;
   }
-  .cv-text211 {
+  .cv-text212 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text212 {
+  .cv-text213 {
     line-height: 1.8;
   }
   .cv-link42 {
     text-decoration: underline;
   }
-  .cv-text216 {
+  .cv-text217 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text217 {
+  .cv-text218 {
     line-height: 2;
   }
   .cv-link43 {
     text-decoration: underline;
   }
-  .cv-text218 {
+  .cv-text219 {
     text-decoration: underline;
   }
-  .cv-text220 {
-    height: 48px;
-    font-style: italic;
-  }
   .cv-text221 {
-    line-height: 1.8;
-  }
-  .cv-text225 {
     height: 48px;
     font-style: italic;
+  }
+  .cv-text222 {
+    line-height: 1.8;
   }
   .cv-text226 {
-    line-height: 1.8;
-  }
-  .cv-text229 {
     height: 48px;
     font-style: italic;
+  }
+  .cv-text227 {
+    line-height: 1.8;
   }
   .cv-text230 {
-    line-height: 1.8;
-  }
-  .cv-text233 {
     height: 48px;
     font-style: italic;
   }
+  .cv-text231 {
+    line-height: 1.8;
+  }
   .cv-text234 {
+    height: 48px;
+    font-style: italic;
+  }
+  .cv-text235 {
     line-height: 1.8;
   }
   .cv-link44 {
     text-decoration: underline;
   }
-  .cv-text236 {
-    height: 48px;
-    font-style: italic;
-  }
   .cv-text237 {
-    line-height: 1.8;
-  }
-  .cv-text240 {
     height: 48px;
     font-style: italic;
+  }
+  .cv-text238 {
+    line-height: 1.8;
   }
   .cv-text241 {
+    height: 48px;
+    font-style: italic;
+  }
+  .cv-text242 {
     line-height: 1.8;
   }
-  .cv-text244 {
+  .cv-text245 {
     height: 48px;
     font-style: italic;
   }
@@ -2664,11 +2669,11 @@ export default {
     line-height: 2;
     text-decoration: none;
   }
-  .cv-text247 {
+  .cv-text248 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text248 {
+  .cv-text249 {
     line-height: 1.8;
   }
   .cv-link47 {
@@ -2677,49 +2682,49 @@ export default {
   .cv-link48 {
     text-decoration: underline;
   }
-  .cv-text253 {
+  .cv-text254 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text256 {
+  .cv-text257 {
     line-height: 1.8;
-  }
-  .cv-text259 {
-    height: 48px;
-    font-style: italic;
   }
   .cv-text260 {
-    line-height: 1.8;
-  }
-  .cv-text266 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text269 {
+  .cv-text261 {
     line-height: 1.8;
   }
-  .cv-text272 {
+  .cv-text267 {
     height: 48px;
     font-style: italic;
+  }
+  .cv-text270 {
+    line-height: 1.8;
   }
   .cv-text273 {
-    line-height: 1.8;
-  }
-  .cv-text277 {
     height: 48px;
     font-style: italic;
+  }
+  .cv-text274 {
+    line-height: 1.8;
   }
   .cv-text278 {
-    line-height: 1.8;
-  }
-  .cv-text279 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text280 {
+  .cv-text279 {
     line-height: 1.8;
   }
-  .cv-text283 {
+  .cv-text280 {
+    height: 48px;
+    font-style: italic;
+  }
+  .cv-text281 {
+    line-height: 1.8;
+  }
+  .cv-text284 {
     height: 48px;
     font-style: italic;
   }
@@ -2727,47 +2732,47 @@ export default {
     line-height: 2;
     text-decoration: none;
   }
-  .cv-text287 {
+  .cv-text288 {
     height: 48px;
     font-style: italic;
   }
   .cv-link55 {
     text-decoration: underline;
   }
-  .cv-text295 {
+  .cv-text296 {
     line-height: 1.8;
   }
-  .cv-text297 {
+  .cv-text298 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text298 {
+  .cv-text299 {
     line-height: 1.8;
   }
   .cv-link58 {
     text-decoration: underline;
   }
-  .cv-text302 {
+  .cv-text303 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text303 {
+  .cv-text304 {
     line-height: 1.8;
   }
   .cv-link59 {
     text-decoration: underline;
   }
-  .cv-text306 {
+  .cv-text307 {
     height: 48px;
     font-style: italic;
   }
-  .cv-text307 {
+  .cv-text308 {
     line-height: 1.8;
   }
-  .cv-text308 {
+  .cv-text309 {
     text-decoration: underline;
   }
-  .cv-text310 {
+  .cv-text311 {
     height: 48px;
     font-style: italic;
   }
