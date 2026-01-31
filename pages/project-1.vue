@@ -3,7 +3,7 @@
     <header-container
       rootClassName="header-containerroot-class-name1"
     ></header-container>
-    <div class="project1-hero1">
+    <div class="project1-thq-hero-elm1">
       <h1 class="project1-text10">Ome</h1>
       <span class="project1-text11">
         <span>Exhibition and Public Program</span>
@@ -68,7 +68,7 @@
           in different territories.
         </span>
       </span>
-      <div class="project1-hero2">
+      <div class="project1-thq-hero-elm2">
         <div class="project1-container2">
           <h1 class="project1-text31">Ome</h1>
           <span class="project1-text32">Exhibition and Public Program</span>
@@ -156,6 +156,12 @@ export default {
         content: 'Project-1 - Elena Ishchenko',
       },
     ],
+    link: [
+      {
+        rel: 'canonical',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/project-1',
+      },
+    ],
   },
 }
 </script>
@@ -170,7 +176,7 @@ export default {
   flex-direction: column;
 }
  
-.project1-hero1 {
+.project1-thq-hero-elm1 {
   width: 100%;
   display: flex;
   padding: 48px;
@@ -216,7 +222,7 @@ export default {
   padding-right: 150px;
 }
  
-.project1-hero2 {
+.project1-thq-hero-elm2 {
   width: 100%;
   display: flex;
   padding: 48px;
@@ -275,7 +281,7 @@ export default {
 }
  
 @media(max-width: 991px) {
-  .project1-hero1 {
+  .project1-thq-hero-elm1 {
     flex-direction: column;
   }
   .project1-image1 {
@@ -286,7 +292,7 @@ export default {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .project1-hero2 {
+  .project1-thq-hero-elm2 {
     flex-direction: column;
   }
   .project1-container2 {
@@ -321,7 +327,7 @@ export default {
 }
  
 @media(max-width: 767px) {
-  .project1-hero1 {
+  .project1-thq-hero-elm1 {
     padding-left: 32px;
     padding-right: 32px;
   }
@@ -333,7 +339,7 @@ export default {
     border-radius: var(--dl-layout-radius-radius4);
     padding-right: var(--dl-layout-space-unit);
   }
-  .project1-hero2 {
+  .project1-thq-hero-elm2 {
     padding-left: 32px;
     padding-right: 32px;
   }
@@ -359,7 +365,7 @@ export default {
 }
  
 @media(max-width: 479px) {
-  .project1-hero1 {
+  .project1-thq-hero-elm1 {
     padding-top: 32px;
     padding-left: var(--dl-layout-space-unit);
     padding-right: var(--dl-layout-space-unit);
@@ -374,7 +380,7 @@ export default {
     border-radius: var(--dl-layout-radius-radius2);
     padding-right: 0px;
   }
-  .project1-hero2 {
+  .project1-thq-hero-elm2 {
     padding-top: 32px;
     padding-left: var(--dl-layout-space-unit);
     padding-right: var(--dl-layout-space-unit);

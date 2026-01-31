@@ -1,12 +1,12 @@
 <template>
   <div
     data-role="Header"
-    class="header-container-navbar-container"
+    class="header-container-thq-navbar-container-elm"
     v-bind:class="rootClassName"
   >
-    <div class="header-container-navbar">
+    <div class="header-container-thq-navbar-elm">
       <div class="header-container-container1">
-        <nuxt-link to="/" class="header-container-heading1 Card-Heading">
+        <nuxt-link to="/" class="header-container-thq-heading-elm1 Card-Heading">
           {{ heading }}
         </nuxt-link>
         <span>
@@ -14,30 +14,44 @@
           <br />
         </span>
       </div>
-      <div class="header-container-links-container1">
-        <nuxt-link to="/" class="header-container-link1 Navbar-Link">
+      <div class="header-container-thq-links-container-elm1">
+        <nuxt-link to="/" class="header-container-thq-link-elm1 Navbar-Link">
           {{ link }}
         </nuxt-link>
-        <nuxt-link to="/cv" class="header-container-link2 Navbar-Link">
+        <a
+          href="https://drive.google.com/file/d/1_aSRIGrll7yNgGEZa8vFuoSRXppAWNMY/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer noopener"
+          class="header-container-thq-link-elm2"
+        >
+          {{ link8 }}
+        </a>
+        <nuxt-link to="/cv" class="header-container-thq-link-elm3 Navbar-Link">
           {{ link1 }}
         </nuxt-link>
-        <nuxt-link to="/contact" class="header-container-link3 Navbar-Link">
+        <nuxt-link
+          to="/contact"
+          class="header-container-thq-link-elm4 Navbar-Link"
+        >
           {{ link3 }}
         </nuxt-link>
       </div>
-      <div data-role="BurgerMenu" class="header-container-burger-menu">
+      <div data-role="BurgerMenu" class="header-container-thq-burger-menu-elm">
         <svg viewBox="0 0 1024 1024" class="header-container-icon1">
           <path
             d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"
           ></path>
         </svg>
       </div>
-      <div data-role="MobileMenu" class="header-container-mobile-menu">
+      <div data-role="MobileMenu" class="header-container-thq-mobile-menu-elm">
         <div class="header-container-container2">
-          <span class="Card-Heading header-container-heading2">
+          <span class="Card-Heading header-container-thq-heading-elm2">
             {{ heading1 }}
           </span>
-          <div data-role="CloseMobileMenu" class="header-container-close-menu">
+          <div
+            data-role="CloseMobileMenu"
+            class="header-container-thq-close-menu-elm"
+          >
             <svg viewBox="0 0 1024 1024" class="header-container-icon3">
               <path
                 d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
@@ -45,14 +59,17 @@
             </svg>
           </div>
         </div>
-        <div class="header-container-links-container2">
-          <nuxt-link to="/" class="header-container-link4 Navbar-Link">
+        <div class="header-container-thq-links-container-elm2">
+          <nuxt-link to="/" class="header-container-thq-link-elm5 Navbar-Link">
             {{ link4 }}
           </nuxt-link>
-          <nuxt-link to="/cv" class="header-container-link5 Navbar-Link">
+          <nuxt-link to="/cv" class="header-container-thq-link-elm6 Navbar-Link">
             {{ link5 }}
           </nuxt-link>
-          <nuxt-link to="/contact" class="header-container-link6 Navbar-Link">
+          <nuxt-link
+            to="/contact"
+            class="header-container-thq-link-elm7 Navbar-Link"
+          >
             {{ link7 }}
           </nuxt-link>
         </div>
@@ -65,6 +82,10 @@
 export default {
   name: 'HeaderContainer',
   props: {
+    link8: {
+      type: String,
+      default: 'Portfolio',
+    },
     link: {
       type: String,
       default: 'About',
@@ -103,7 +124,7 @@ export default {
 </script>
 
 <style scoped>
-.header-container-navbar-container {
+.header-container-thq-navbar-container-elm {
   top: 0;
   width: 100%;
   display: flex;
@@ -116,7 +137,7 @@ export default {
   background-color: var(--dl-color-gray-white);
 }
  
-.header-container-navbar {
+.header-container-thq-navbar-elm {
   width: 100%;
   height: auto;
   display: flex;
@@ -145,34 +166,39 @@ export default {
   flex-direction: column;
 }
  
-.header-container-heading1 {
+.header-container-thq-heading-elm1 {
   text-decoration: none;
 }
  
 
  
-.header-container-links-container1 {
+.header-container-thq-links-container-elm1 {
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
   flex-direction: row;
 }
  
-.header-container-link1 {
+.header-container-thq-link-elm1 {
   margin-right: var(--dl-layout-space-tripleunit);
   text-decoration: none;
 }
  
-.header-container-link2 {
+.header-container-thq-link-elm2 {
   margin-right: var(--dl-layout-space-tripleunit);
   text-decoration: none;
 }
  
-.header-container-link3 {
+.header-container-thq-link-elm3 {
+  margin-right: var(--dl-layout-space-tripleunit);
   text-decoration: none;
 }
  
-.header-container-burger-menu {
+.header-container-thq-link-elm4 {
+  text-decoration: none;
+}
+ 
+.header-container-thq-burger-menu-elm {
   display: none;
   align-items: flex-start;
   flex-direction: column;
@@ -183,7 +209,7 @@ export default {
   height: 36px;
 }
  
-.header-container-mobile-menu {
+.header-container-thq-mobile-menu-elm {
   top: 0px;
   left: 0px;
   width: 100%;
@@ -206,7 +232,7 @@ export default {
   justify-content: space-between;
 }
  
-.header-container-close-menu {
+.header-container-thq-close-menu-elm {
   flex: 0 0 auto;
   display: flex;
   align-items: flex-start;
@@ -218,24 +244,24 @@ export default {
   height: 24px;
 }
  
-.header-container-links-container2 {
+.header-container-thq-links-container-elm2 {
   gap: 2rem;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
  
-.header-container-link4 {
+.header-container-thq-link-elm5 {
   margin-bottom: var(--dl-layout-space-unit);
   text-decoration: none;
 }
  
-.header-container-link5 {
+.header-container-thq-link-elm6 {
   margin-bottom: var(--dl-layout-space-unit);
   text-decoration: none;
 }
  
-.header-container-link6 {
+.header-container-thq-link-elm7 {
   text-decoration: none;
 }
  
@@ -244,21 +270,28 @@ export default {
 
  
 
+ 
+@media(max-width: 1200px) {
+  .header-container-thq-link-elm2 {
+    font-weight: 700;
+    margin-right: var(--dl-layout-space-tripleunit);
+  }
+}
  
 @media(max-width: 991px) {
-  .header-container-heading2 {
+  .header-container-thq-heading-elm2 {
     text-align: center;
   }
 }
  
 @media(max-width: 767px) {
-  .header-container-navbar {
+  .header-container-thq-navbar-elm {
     position: relative;
   }
-  .header-container-links-container1 {
+  .header-container-thq-links-container-elm1 {
     display: none;
   }
-  .header-container-burger-menu {
+  .header-container-thq-burger-menu-elm {
     display: flex;
     padding: var(--dl-layout-space-halfunit);
     margin-left: var(--dl-layout-space-tripleunit);
@@ -268,12 +301,12 @@ export default {
   .header-container-icon1 {
     fill: var(--dl-color-gray-white);
   }
-  .header-container-mobile-menu {
+  .header-container-thq-mobile-menu-elm {
     display: none;
     align-items: center;
     justify-content: flex-start;
   }
-  .header-container-links-container2 {
+  .header-container-thq-links-container-elm2 {
     height: 100%;
     align-self: center;
     margin-top: 0px;
@@ -283,10 +316,10 @@ export default {
 }
  
 @media(max-width: 479px) {
-  .header-container-burger-menu {
+  .header-container-thq-burger-menu-elm {
     margin-left: var(--dl-layout-space-doubleunit);
   }
-  .header-container-mobile-menu {
+  .header-container-thq-mobile-menu-elm {
     display: none;
   }
 }

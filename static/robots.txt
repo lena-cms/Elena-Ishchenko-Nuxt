@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://elena-ishchenko-zgp7ep.teleporthq.app/sitemap.xml

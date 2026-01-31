@@ -1,8 +1,11 @@
 <template>
-  <div class="footer-container-footer-container" v-bind:class="rootClassName">
-    <div class="footer-container-section-separator"></div>
-    <div class="footer-container-footer">
-      <div class="footer-container-social-links">
+  <div
+    class="footer-container-thq-footer-container-elm"
+    v-bind:class="rootClassName"
+  >
+    <div class="footer-container-thq-section-separator-elm"></div>
+    <div class="footer-container-thq-footer-elm">
+      <div class="footer-container-thq-social-links-elm">
         <a :href="linkText" target="_blank" rel="noreferrer noopener">
           {{ text }}
         </a>
@@ -24,7 +27,7 @@ export default {
     },
     text: {
       type: String,
-      default: 'Instagram / ',
+      default: 'Instagram /\xA0',
     },
     linkText: {
       type: String,
@@ -33,14 +36,14 @@ export default {
     rootClassName: String,
     text1: {
       type: String,
-      default: 'Telegram ',
+      default: 'Telegram\xA0',
     },
   },
 }
 </script>
 
 <style scoped>
-.footer-container-footer-container {
+.footer-container-thq-footer-container-elm {
   width: 100%;
   display: flex;
   position: relative;
@@ -51,7 +54,7 @@ export default {
   background-color: var(--dl-color-gray-white);
 }
  
-.footer-container-section-separator {
+.footer-container-thq-section-separator-elm {
   width: 100%;
   height: 1px;
   display: flex;
@@ -60,7 +63,7 @@ export default {
   background-color: var(--dl-color-gray-900);
 }
  
-.footer-container-footer {
+.footer-container-thq-footer-elm {
   width: 100%;
   display: flex;
   max-width: var(--dl-layout-size-maxcontent);
@@ -73,7 +76,7 @@ export default {
   justify-content: space-between;
 }
  
-.footer-container-social-links {
+.footer-container-thq-social-links-elm {
   display: flex;
   align-items: flex-start;
   flex-direction: row;

@@ -59,6 +59,12 @@ export default {
         content: 'Contact - Elena Ishchenko',
       },
     ],
+    link: [
+      {
+        rel: 'canonical',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/contact',
+      },
+    ],
   },
 }
 </script>

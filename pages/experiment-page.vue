@@ -1,7 +1,7 @@
 <template>
   <div class="experiment-page-container1">
-    <div class="experiment-page-sidebar">
-      <nav class="experiment-page-nav">
+    <div class="experiment-page-thq-sidebar-elm">
+      <nav class="experiment-page-thq-nav-elm">
         <svg viewBox="0 0 1024 1024" class="experiment-page-icon1">
           <path
             d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"
@@ -13,7 +13,7 @@
         <span class="experiment-page-text4">Documents</span>
         <span>Reports</span>
       </nav>
-      <div class="experiment-page-profile">
+      <div class="experiment-page-thq-profile-elm">
         <img
           alt="image"
           src="https://images.unsplash.com/photo-1562159278-1253a58da141?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIyfHxtYW4lMjBwb3J0dHJhaXR8ZW58MHx8fHwxNjI3MjkzNTM1&amp;ixlib=rb-1.2.1&amp;h=1000"
@@ -40,6 +40,12 @@ export default {
         content: 'experiment-page - Elena Ishchenko',
       },
     ],
+    link: [
+      {
+        rel: 'canonical',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/experiment-page',
+      },
+    ],
   },
 }
 </script>
@@ -54,7 +60,7 @@ export default {
   flex-direction: column;
 }
  
-.experiment-page-sidebar {
+.experiment-page-thq-sidebar-elm {
   width: 300px;
   height: 80vh;
   display: flex;
@@ -64,7 +70,7 @@ export default {
   justify-content: space-between;
 }
  
-.experiment-page-nav {
+.experiment-page-thq-nav-elm {
   flex: 0 0 auto;
   display: flex;
   align-items: flex-start;
@@ -93,7 +99,7 @@ export default {
   margin-bottom: 32px;
 }
  
-.experiment-page-profile {
+.experiment-page-thq-profile-elm {
   width: 100%;
   display: flex;
   align-items: center;
@@ -135,7 +141,7 @@ export default {
 }
  
 @media(max-width: 991px) {
-  .experiment-page-profile {
+  .experiment-page-thq-profile-elm {
     padding-left: var(--dl-layout-space-halfunit);
     padding-right: var(--dl-layout-space-halfunit);
   }
