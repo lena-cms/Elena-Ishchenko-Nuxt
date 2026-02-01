@@ -9,10 +9,6 @@
         <nuxt-link to="/" class="header-container-thq-heading-elm1 Card-Heading">
           {{ heading }}
         </nuxt-link>
-        <span>
-          <span>Curator, researcher, activist</span>
-          <br />
-        </span>
       </div>
       <div class="header-container-thq-links-container-elm1">
         <nuxt-link to="/" class="header-container-thq-link-elm1 Navbar-Link">
@@ -273,7 +269,7 @@ export default {
  
 @media(max-width: 1200px) {
   .header-container-thq-link-elm2 {
-    font-weight: 700;
+    font-weight: bold;
     margin-right: var(--dl-layout-space-tripleunit);
   }
 }
