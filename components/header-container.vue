@@ -271,6 +271,7 @@ export default {
   .header-container-thq-link-elm2 {
     font-weight: bold;
     margin-right: var(--dl-layout-space-tripleunit);
+    text-decoration: none;
   }
 }
  

@@ -90,8 +90,6 @@ export default {
  
 
  
-
- 
 .cv-gridroot-class-name11 {
   margin-top: var(--dl-layout-space-fourunits);
 }
@@ -109,8 +107,6 @@ export default {
 .cv-gridroot-class-name16 {
   margin-top: var(--dl-layout-space-fourunits);
 }
- 
-
  
 
  
@@ -170,9 +166,19 @@ export default {
  
 
  
-.cv-gridroot-class-name50 {
-  margin-top: var(--dl-layout-space-fourunits);
-}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
  
 
  
@@ -205,6 +211,13 @@ export default {
 
  
 @media(max-width: 1200px) {
+  .cv-grid-text1 {
+    width: 220px;
+    align-self: flex-start;
+    font-style: normal;
+    flex-shrink: 0;
+    font-weight: 700;
+  }
   .cv-grid-text2 {
     width: 150px;
     align-self: flex-start;
