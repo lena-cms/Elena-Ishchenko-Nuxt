@@ -2,6 +2,7 @@
   <div class="cv-container10">
     <header-container
       rootClassName="header-containerroot-class-name"
+      link8="Portfolio"
     ></header-container>
     <div class="cv-container11">
       <cv-grid
@@ -29,7 +30,7 @@
           <br class="cv-text102" />
           <span class="cv-text103">
             Commissioned by Vleeshal Center for Contemporary Art, available on
-            <span v-html="rawbvfq"></span>
+            <span v-html="rawavlz"></span>
           </span>
           <a
             href="https://www.youtube.com/@Vleeshalcontemporaryart"
@@ -87,7 +88,7 @@
             <br />
             <span>
               Presented at
-              <span v-html="raw6xfe"></span>
+              <span v-html="rawh3z2"></span>
             </span>
             <a
               href="https://spore-initiative.org/en/programming/participate/authenticity-novelty-and-uniqueness"
@@ -152,7 +153,7 @@
         <span class="cv-text131">
           <span>
             Editor and Contributor at
-            <span v-html="rawr1dz"></span>
+            <span v-html="rawelm1"></span>
           </span>
           <a
             href="http://aroundart.org/"
@@ -222,7 +223,7 @@
           <p class="cv-text144">
             <span>
               Part of the Nomadic Program, published at
-              <span v-html="rawb7hc"></span>
+              <span v-html="rawbgun"></span>
             </span>
             <a
               href="https://www.ruyojournal.com/herlabortheshineofoureyes"
@@ -234,7 +235,7 @@
             </a>
             <span>
               and
-              <span v-html="raw5pvs"></span>
+              <span v-html="rawn4dy"></span>
             </span>
             <a
               href="https://maqaalcollective.com/2026/01/25/uning-mehnati-kozlarimizning-nuri/"
@@ -268,7 +269,7 @@
           <p class="cv-text150">
             <span>
               Part of the Nomadic Program, published in
-              <span v-html="raw9t3m"></span>
+              <span v-html="rawijn1"></span>
             </span>
             <a
               href="https://www.neroeditions.com/autori/league-of-tenders/"
@@ -370,7 +371,7 @@
             <span class="cv-text167"> online platform and a s</span>
             <span class="cv-text168">
               eries of discussions
-              <span v-html="rawn1xm"></span>
+              <span v-html="raw4bko"></span>
             </span>
           </a>
           <p class="cv-text169">Online, with Typography Collective</p>
@@ -409,7 +410,7 @@
               Training Fantasia
             </a>
             <span class="cv-text174"> — Festival &amp; Exhibition</span>
-            <span><span v-html="rawccro"></span></span>
+            <span><span v-html="raw4qm2"></span></span>
             <br />
           </span>
           <p class="cv-text177">Typography CCA, Krasnodar, Russia</p>
@@ -432,7 +433,7 @@
             </a>
             <span>
                research project by Kafe-Morozhenoe group for the exhibition
-              <span v-html="rawpp8s"></span>
+              <span v-html="raw2cqo"></span>
             </span>
             <span class="cv-text180">
               Assuming Distance: Speculations, Fakes, and Predictions in the Age
@@ -454,7 +455,7 @@
             >
               League of Tenders Annual Meeting &amp; Laboratory
             </a>
-            <span><span v-html="raw317p"></span></span>
+            <span><span v-html="rawpsbj"></span></span>
             <br />
           </span>
           <p class="cv-text186">Anapa region, Krasnodar krai, Russia</p>
@@ -475,7 +476,7 @@
             >
               Elena Kolesnikova. Voskhod Cooperative
             </a>
-            <span><span v-html="rawn00f"></span></span>
+            <span><span v-html="rawh9mf"></span></span>
             <br />
           </span>
           <p class="cv-text190">Typography CCA, Krasnodar, Russia</p>
@@ -496,7 +497,7 @@
             >
               Ilona Marti. Beyond Vision
             </a>
-            <span><span v-html="rawbeus"></span></span>
+            <span><span v-html="rawlhoh"></span></span>
             <br />
           </span>
           <p class="cv-text194">Typography CCA, Krasnodar, Russia</p>
@@ -677,7 +678,7 @@
             <span>
               project, conference, series of exhibitions in Moscow, Yekaterinburg,
               Krasnodar, Krasnoyarsk, and Samara
-              <span v-html="rawx4au"></span>
+              <span v-html="raw5z4w"></span>
             </span>
           </span>
           <p class="cv-text227">
@@ -692,18 +693,18 @@
       >
         <div class="cv-container38">
           <span class="cv-text228">
-            <span><span v-html="rawh9lg"></span></span>
+            <span><span v-html="rawwusa"></span></span>
             <span>
               Counter-Memory: Soviet Repressions against Indigenous Peoples and
               Its Reflection in Contemporary Art
-              <span v-html="raw717l"></span>
+              <span v-html="rawqq7o"></span>
             </span>
             <br />
           </span>
           <p class="cv-text232">
             <span>
               Presentation at
-              <span v-html="raw5ksg"></span>
+              <span v-html="rawwwh1"></span>
             </span>
             <a
               href="https://www.instagram.com/anamnesia_project/"
@@ -720,8 +721,8 @@
       <cv-grid cvYears="2024" rootClassName="cv-gridroot-class-name24">
         <div class="cv-container39">
           <span class="cv-text235">
-            <span><span v-html="rawxty0"></span></span>
-            <span><span v-html="rawugpz"></span></span>
+            <span><span v-html="rawgpy1"></span></span>
+            <span><span v-html="raw0pfh"></span></span>
             <a
               href="https://dutchartinstitute.eu/page/21877/elena-ishchenko-league-of-tenders"
               target="_blank"
@@ -738,7 +739,7 @@
       <cv-grid cvYears="2023" rootClassName="cv-gridroot-class-name63">
         <div class="cv-container40">
           <span class="cv-text240">
-            <span><span v-html="rawm6gv"></span></span>
+            <span><span v-html="raw5jq6"></span></span>
             <span>
               Workshop of Ideas: After Geographies (with Stas Shärifulla) 
             </span>
@@ -752,7 +753,7 @@
       <cv-grid cvYears="2023" rootClassName="cv-gridroot-class-name58">
         <div class="cv-container41">
           <span class="cv-text245">
-            <span><span v-html="rawh470"></span></span>
+            <span><span v-html="raweiml"></span></span>
             <a
               href="https://gak-bremen.de/en/events/23v_elena-ishchenko_en/"
               target="_blank"
@@ -770,7 +771,7 @@
       <cv-grid cvYears="2023" rootClassName="cv-gridroot-class-name56">
         <div class="cv-container42">
           <span class="cv-text250">
-            <span><span v-html="raw1dp3"></span></span>
+            <span><span v-html="raw23yq"></span></span>
             <a
               href="https://gak-bremen.de/en/events/23v_elena-ishchenko_en/"
               target="_blank"
@@ -788,7 +789,7 @@
       <cv-grid cvYears="2022–2023" rootClassName="cv-gridroot-class-name27">
         <div class="cv-container43">
           <span class="cv-text255">
-            <span><span v-html="rawp1z1"></span></span>
+            <span><span v-html="rawtd3k"></span></span>
             <a
               href="https://bangbangeducation.ru/course/curating "
               target="_blank"
@@ -833,10 +834,10 @@
       >
         <div class="cv-container45">
           <span class="cv-text264">
-            <span><span v-html="raw0g40"></span></span>
+            <span><span v-html="raw3frw"></span></span>
             <span>
               Tracing colonial presence, workshop
-              <span v-html="rawjyv4"></span>
+              <span v-html="rawb9l9"></span>
             </span>
             <br />
           </span>
@@ -848,7 +849,7 @@
           <span class="cv-text269">
             <span>
               Approaching sustainable curating, course
-              <span v-html="rawrl90"></span>
+              <span v-html="rawtpt5"></span>
             </span>
             <br />
           </span>
@@ -882,7 +883,7 @@
             </a>
             <span>
                conference, 48-hours Novosibirsk Festival
-              <span v-html="rawlljj"></span>
+              <span v-html="rawu15o"></span>
             </span>
             <br />
           </span>
@@ -941,7 +942,7 @@
       >
         <div class="cv-container52">
           <span class="cv-text292">
-            <span><span v-html="rawre3m"></span></span>
+            <span><span v-html="rawvkca"></span></span>
             <a
               href="https://berlinergazette.de/the-politics-of-cultural-memory-in-russia/"
               target="_blank"
@@ -974,11 +975,11 @@
       <cv-grid cvYears="2021" rootClassName="cv-gridroot-class-name54">
         <div class="cv-container54">
           <span class="cv-text299">
-            <span><span v-html="rawgufs"></span></span>
+            <span><span v-html="rawpgrh"></span></span>
             <span>From Self-organization to Self-exploitation and Back</span>
             <span>
               , essay for
-              <span v-html="raw0ji0"></span>
+              <span v-html="rawsedj"></span>
             </span>
             <a
               href="https://garagemca.org/en/programs/publishing/open-systems-self-organized-art-initiatives-in-russia-2000-2020"
@@ -1029,7 +1030,7 @@
             </a>
             <span>
               , essay
-              <span v-html="rawmeif"></span>
+              <span v-html="rawhqgm"></span>
             </span>
             <br />
           </span>
@@ -1047,7 +1048,7 @@
             <span>Odnushka&apos; as a Museum</span>
             <span>
               , essay for
-              <span v-html="rawlp4i"></span>
+              <span v-html="rawkqpz"></span>
             </span>
             <span class="cv-text315">
               Novo‑Molokovo. Podmoskovye. The artists&apos; residence at
@@ -1097,7 +1098,7 @@
           </span>
           <p class="cv-text328">
             Moscow: Moscow Museum of Contemporary Art
-            <span v-html="rawomiy"></span>
+            <span v-html="rawbgg7"></span>
           </p>
         </div>
       </cv-grid>
@@ -1113,7 +1114,7 @@
           </span>
           <p class="cv-text330">
             Calvert Journal
-            <span v-html="raw67zs"></span>
+            <span v-html="rawn72h"></span>
           </p>
         </div>
       </cv-grid>
@@ -1129,7 +1130,7 @@
               Why the Future is Self-Organized
             </a>
             <br />
-            <span><span v-html="rawm01a"></span></span>
+            <span><span v-html="rawk498"></span></span>
           </span>
           <p class="cv-text334">aroundart.org</p>
         </div>
@@ -1200,7 +1201,7 @@
       <cv-grid cvYears="2020" rootClassName="cv-gridroot-class-name35">
         <span class="cv-text344">
           Pro Helvetia Fast Forward Grant
-          <span v-html="rawf2eh"></span>
+          <span v-html="rawomcp"></span>
         </span>
       </cv-grid>
       <cv-grid cvYears="2019" rootClassName="cv-gridroot-class-name48">
@@ -1213,7 +1214,7 @@
           <span class="cv-text346">
             <span>
               Member of Advisory Board of
-              <span v-html="rawlefz"></span>
+              <span v-html="rawgqan"></span>
             </span>
             <a
               href="http://ensembles.org/ensembles/vac"
@@ -1253,42 +1254,42 @@ export default {
   },
   data() {
     return {
-      rawbvfq: ' ',
-      raw6xfe: ' ',
-      rawr1dz: ' ',
-      rawb7hc: ' ',
-      raw5pvs: ' ',
-      raw9t3m: ' ',
-      rawn1xm: ' ',
-      rawccro: ' ',
-      rawpp8s: ' ',
-      raw317p: ' ',
-      rawn00f: ' ',
-      rawbeus: ' ',
-      rawx4au: ' ',
-      rawh9lg: ' ',
-      raw717l: ' ',
-      raw5ksg: ' ',
-      rawxty0: ' ',
-      rawugpz: ' ',
-      rawm6gv: ' ',
-      rawh470: ' ',
-      raw1dp3: ' ',
-      rawp1z1: ' ',
-      raw0g40: ' ',
-      rawjyv4: ' ',
-      rawrl90: ' ',
-      rawlljj: ' ',
-      rawre3m: ' ',
-      rawgufs: ' ',
-      raw0ji0: ' ',
-      rawmeif: ' ',
-      rawlp4i: ' ',
-      rawomiy: ' ',
-      raw67zs: ' ',
-      rawm01a: ' ',
-      rawf2eh: ' ',
-      rawlefz: ' ',
+      rawavlz: ' ',
+      rawh3z2: ' ',
+      rawelm1: ' ',
+      rawbgun: ' ',
+      rawn4dy: ' ',
+      rawijn1: ' ',
+      raw4bko: ' ',
+      raw4qm2: ' ',
+      raw2cqo: ' ',
+      rawpsbj: ' ',
+      rawh9mf: ' ',
+      rawlhoh: ' ',
+      raw5z4w: ' ',
+      rawwusa: ' ',
+      rawqq7o: ' ',
+      rawwwh1: ' ',
+      rawgpy1: ' ',
+      raw0pfh: ' ',
+      raw5jq6: ' ',
+      raweiml: ' ',
+      raw23yq: ' ',
+      rawtd3k: ' ',
+      raw3frw: ' ',
+      rawb9l9: ' ',
+      rawtpt5: ' ',
+      rawu15o: ' ',
+      rawvkca: ' ',
+      rawpgrh: ' ',
+      rawsedj: ' ',
+      rawhqgm: ' ',
+      rawkqpz: ' ',
+      rawbgg7: ' ',
+      rawn72h: ' ',
+      rawk498: ' ',
+      rawomcp: ' ',
+      rawgqan: ' ',
     }
   },
   head: {

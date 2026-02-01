@@ -6,13 +6,13 @@
         <p class="about-text10">
           <span>
             Hi! I’m a curator, independent researcher, and activist.
-            <span v-html="rawevo4"></span>
+            <span v-html="rawhy34"></span>
           </span>
           <br />
           <br />
           <span>
             Currently, I am working on a publication
-            <span v-html="rawj74p"></span>
+            <span v-html="raw4mkx"></span>
           </span>
           <span class="about-text15">My Song Resounds Over Ruins</span>
           <span>
@@ -21,7 +21,7 @@
             for remembering, witnessing, and reclaiming knowledge, heritage, and
             land. The publication summarises and further develops the ideas
             explored in the group exhibition
-            <span v-html="rawfiuf"></span>
+            <span v-html="rawuh7k"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/tatar-kiss-en"
@@ -33,7 +33,7 @@
           </a>
           <span>
             and the two-year International Nomadic Program 2024–2025,
-            <span v-html="rawf9s1"></span>
+            <span v-html="rawkkc6"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -60,7 +60,7 @@
             other side of these transimperial entanglements, beautiful yet often
             overlooked connections, meaningful relations, and forms of solidarity
             that emerge beyond borders.
-            <span v-html="rawf8ij"></span>
+            <span v-html="rawfwkg"></span>
           </span>
           <br />
           <br />
@@ -75,7 +75,7 @@
           <br />
           <span>
             My recent research examines how
-            <span v-html="raw9qqz"></span>
+            <span v-html="rawjopr"></span>
           </span>
           <a
             href="https://berlinergazette.de/the-politics-of-cultural-memory-in-russia/"
@@ -87,7 +87,7 @@
           </a>
           <span>
             and officially fabricated narratives, as well as
-            <span v-html="rawdxfi"></span>
+            <span v-html="raw1kx8"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/paths-of-memory-en"
@@ -104,13 +104,13 @@
             I especially appreciate collective ways of working. Since 2018,
             together with curator and educator Maria Sarycheva, I have
             co-organised the curatorial duo League of Tenders.
-            <span v-html="rawffxi"></span>
+            <span v-html="rawb3at"></span>
           </span>
           <br />
           <br />
           <span>
             I am also a part of the
-            <span v-html="rawsj03"></span>
+            <span v-html="rawlv7g"></span>
           </span>
           <a
             href="http://typography-worldwide.org/"
@@ -122,7 +122,7 @@
           </a>
           <span>
             , which emerged from the
-            <span v-html="rawpkw7"></span>
+            <span v-html="rawic4v"></span>
           </span>
           <a
             href="https://typography-online.ru/"
@@ -137,7 +137,7 @@
             2022. Following Russia’s full-scale invasion of Ukraine and our public
             opposition to it, the Center was declared a “foreign agent,” forcing
             us to leave Russia. We now organise a
-            <span v-html="rawx46p"></span>
+            <span v-html="raw8895"></span>
           </span>
           <a
             href="https://residesustain.art/en/articles/apartment-in-yerevan"
@@ -152,7 +152,7 @@
           <br />
           <span>
             I have worked with Vleeshal Center for Contemporary Art,
-            <span v-html="raw81lv"></span>
+            <span v-html="rawpokr"></span>
           </span>
           <a
             href="https://framerframed.nl/en/projecten/her-voice-behind-armenian-lullabies/"
@@ -164,7 +164,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw5yoe"></span>
+            <span v-html="rawni5j"></span>
           </span>
           <a
             href="https://spore-initiative.org/en/programming/participate/authenticity-novelty-and-uniqueness"
@@ -176,7 +176,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawvekn"></span>
+            <span v-html="raw3jss"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -188,7 +188,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw1vr0"></span>
+            <span v-html="rawdq99"></span>
           </span>
           <a
             href="https://kunstraumkreuzberg.de/einladung-zur-veranstaltung-am-donnerstag-19-09-2024/"
@@ -200,7 +200,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw3sem"></span>
+            <span v-html="rawncll"></span>
           </span>
           <a
             href="https://www.neroeditions.com/autori/league-of-tenders/"
@@ -212,7 +212,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw52kh"></span>
+            <span v-html="rawy7v8"></span>
           </span>
           <a
             href="https://garagemca.org/en/exhibition/open-systems-stories-of-self-organized-art-initiatives-in-russia-2000-2015"
@@ -224,8 +224,8 @@
           </a>
           <span>, FHNW Basel, among others.</span>
           <br />
-          <span><span v-html="rawl83x"></span></span>
-          <span><span v-html="raw7unp"></span></span>
+          <span><span v-html="rawtofk"></span></span>
+          <span><span v-html="rawvtah"></span></span>
         </p>
       </div>
       <span class="about-text51">
@@ -255,25 +255,25 @@ export default {
   },
   data() {
     return {
-      rawevo4: ' ',
-      rawj74p: ' ',
-      rawfiuf: ' ',
-      rawf9s1: ' ',
-      rawf8ij: ' ',
-      raw9qqz: ' ',
-      rawdxfi: ' ',
-      rawffxi: ' ',
-      rawsj03: ' ',
-      rawpkw7: ' ',
-      rawx46p: ' ',
-      raw81lv: ' ',
-      raw5yoe: ' ',
-      rawvekn: ' ',
-      raw1vr0: ' ',
-      raw3sem: ' ',
-      raw52kh: ' ',
-      rawl83x: ' ',
-      raw7unp: ' ',
+      rawhy34: ' ',
+      raw4mkx: ' ',
+      rawuh7k: ' ',
+      rawkkc6: ' ',
+      rawfwkg: ' ',
+      rawjopr: ' ',
+      raw1kx8: ' ',
+      rawb3at: ' ',
+      rawlv7g: ' ',
+      rawic4v: ' ',
+      raw8895: ' ',
+      rawpokr: ' ',
+      rawni5j: ' ',
+      raw3jss: ' ',
+      rawdq99: ' ',
+      rawncll: ' ',
+      rawy7v8: ' ',
+      rawtofk: ' ',
+      rawvtah: ' ',
     }
   },
   head: {
