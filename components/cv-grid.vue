@@ -200,6 +200,20 @@ export default {
  
 
  
+
+ 
+
+ 
+@media(max-width: 1200px) {
+  .cv-grid-text2 {
+    width: 150px;
+    align-self: flex-start;
+    min-height: 1rem;
+    text-align: right;
+    flex-shrink: 0;
+  }
+}
+ 
 @media(max-width: 991px) {
   .cv-grid-container2 {
     flex-direction: column;
