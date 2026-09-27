@@ -1,6 +1,6 @@
 <template>
   <div class="experiment-page-container1">
-    <div class="experiment-page-thq-sidebar-elm">
+    <div id="tq-main" role="main" class="experiment-page-thq-sidebar-elm">
       <nav class="experiment-page-thq-nav-elm">
         <svg viewBox="0 0 1024 1024" class="experiment-page-icon1">
           <path
@@ -15,8 +15,11 @@
       </nav>
       <div class="experiment-page-thq-profile-elm">
         <img
+          loading="eager"
+          decoding="async"
           alt="image"
           src="https://images.unsplash.com/photo-1562159278-1253a58da141?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIyfHxtYW4lMjBwb3J0dHJhaXR8ZW58MHx8fHwxNjI3MjkzNTM1&amp;ixlib=rb-1.2.1&amp;h=1000"
+          fetchpriority="high"
           class="experiment-page-image"
         />
         <div class="experiment-page-container2">
@@ -39,11 +42,19 @@ export default {
         property: 'og:title',
         content: 'experiment-page - Elena Ishchenko',
       },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        name: 'twitter:title',
+        content: 'experiment-page - Elena Ishchenko',
+      },
     ],
     link: [
       {
         rel: 'canonical',
-        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/experiment-page',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.site/experiment-page',
       },
     ],
   },

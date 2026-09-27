@@ -6,22 +6,22 @@
         <p class="about-text10">
           <span>
             Hi! I’m a curator, independent researcher, and activist.
-            <span v-html="raw86c6"></span>
+            <span v-html="rawuint"></span>
           </span>
           <br />
           <br />
           <span>
             Currently, I am working on a publication
-            <span v-html="rawiw0f"></span>
+            <span v-html="rawva8i"></span>
           </span>
           <span class="about-text15">My Song Resounds Over Ruins</span>
           <span>
-            (working title). It brings together essays, poems, and artistic
-            contributions that reflect on art practice as a decolonial possibility
-            for remembering, witnessing, and reclaiming knowledge, heritage, and
-            land. The publication summarises and further develops the ideas
-            explored in the group exhibition
-            <span v-html="rawgkrj"></span>
+            . It brings together essays, poems, and artistic contributions that
+            reflect on art practice as a decolonial possibility for remembering,
+            witnessing, and reclaiming knowledge, heritage, and land. The
+            publication summarises and further develops the ideas explored in the
+            group exhibition
+            <span v-html="raw3ae4"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/tatar-kiss-en"
@@ -33,7 +33,7 @@
           </a>
           <span>
             and the two-year International Nomadic Program 2024–2025,
-            <span v-html="rawhlts"></span>
+            <span v-html="rawfj25"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -51,31 +51,29 @@
           <br />
           <br />
           <span>
-            Across these projects and my practice in general, I cultivate a
+            Across these projects and my practice more broadly, I cultivate a
             decolonial approach to curating and knowledge production, critically
-            addressing power relations inherited from colonial policies. While the
-            Russian context is of particular interest, my projects often trace
-            transimperial entanglements in order to render imperialism visible as
-            a global project. It is especially precious to me to discover, on the
-            other side of these transimperial entanglements, beautiful yet often
-            overlooked connections, meaningful relations, and forms of solidarity
-            that emerge beyond borders.
-            <span v-html="rawtao6"></span>
+            addressing power relations inherited from colonial policies. Due to my
+            positionality, the Russian context is of particular interest, but my
+            projects often trace transimperial entanglements to make imperialism
+            visible as a global project. It is especially precious to me to
+            discover, on the other side of these transimperial entanglements,
+            beautiful yet often overlooked connections, meaningful relations, and
+            forms of solidarity that emerge beyond borders.
+            <span v-html="raw428e"></span>
           </span>
           <br />
           <br />
           <span>
-            These elements form the core of my approach, which I pursue by
-            juxtaposing concepts, contexts, people, and artworks, inviting them
-            into dialogue. I apply this methodology across different formats, from
-            exhibitions and educational practices to public programs and
-            publications.
+            That&apos;s the core of how I work: juxtaposing concepts, contexts,
+            people, and artworks across exhibitions, education, public programs,
+            publications, and experimental formats.
           </span>
           <br />
           <br />
           <span>
-            My recent research examines how
-            <span v-html="rawh683"></span>
+            My
+            <span v-html="rawppjd"></span>
           </span>
           <a
             href="https://berlinergazette.de/the-politics-of-cultural-memory-in-russia/"
@@ -83,52 +81,43 @@
             rel="noreferrer noopener"
             class="about-link12"
           >
-            oppression operates through state memory politics
+            recent research
           </a>
           <span>
-            and officially fabricated narratives, as well as
-            <span v-html="raw6i98"></span>
+            looks at how oppression works through state memory politics and
+            official narratives — and at how artists dismantle and subvert them. 
           </span>
-          <a
-            href="https://www.vleeshal.nl/archive/paths-of-memory-en"
-            target="_blank"
-            rel="noreferrer noopener"
-            class="about-link13"
-          >
-            the strategies artists employ to dismantle and subvert them
-          </a>
-          <span>.</span>
           <br />
           <br />
           <span>
             I especially appreciate collective ways of working. Since 2018,
             together with curator and educator Maria Sarycheva, I have
             co-organised the curatorial duo League of Tenders.
-            <span v-html="rawxo5l"></span>
+            <span v-html="raw1rzd"></span>
           </span>
           <br />
           <br />
           <span>
             I am also a part of the
-            <span v-html="rawqgcf"></span>
+            <span v-html="rawxlyq"></span>
           </span>
           <a
             href="http://typography-worldwide.org/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link14"
+            class="about-link13"
           >
             Typography Collective
           </a>
           <span>
             , which emerged from the
-            <span v-html="raw7ld2"></span>
+            <span v-html="rawu8fe"></span>
           </span>
           <a
             href="https://typography-online.ru/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link15"
+            class="about-link14"
           >
             Typography Center for Contemporary Art
           </a>
@@ -136,107 +125,104 @@
             in Krasnodar, Russia, where I worked as a Program Curator from 2017 to
             2022. Following Russia’s full-scale invasion of Ukraine and our public
             opposition to it, the Center was declared a “foreign agent,” forcing
-            us to leave Russia. We now organise a
-            <span v-html="rawp3ld"></span>
+            us to leave Russia. We now organize a
+            <span v-html="rawiorm"></span>
           </span>
           <a
             href="https://residesustain.art/en/articles/apartment-in-yerevan"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link16"
+            class="about-link15"
           >
-            residency program in Yerevan, Armenia
+            residency program
           </a>
+          <span class="about-text37">in Yerevan, Armenia</span>
           <span>, and develop educational initiatives online and in-person.</span>
           <br />
           <br />
           <span>
             I have worked with Vleeshal Center for Contemporary Art,
-            <span v-html="rawa9kg"></span>
+            <span v-html="rawwfb8"></span>
           </span>
           <a
             href="https://framerframed.nl/en/projecten/her-voice-behind-armenian-lullabies/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link17"
+            class="about-link16"
           >
             Framer Framed
           </a>
           <span>
             ,
-            <span v-html="raw5cat"></span>
+            <span v-html="rawhnqz"></span>
           </span>
           <a
             href="https://spore-initiative.org/en/programming/participate/authenticity-novelty-and-uniqueness"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link18"
+            class="about-link17"
           >
             Spore Initiative
           </a>
           <span>
             ,
-            <span v-html="rawvjso"></span>
+            <span v-html="rawssrg"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link19"
+            class="about-link18"
           >
             nGbK
           </a>
           <span>
             ,
-            <span v-html="rawrng4"></span>
+            <span v-html="raw3c3r"></span>
           </span>
           <a
             href="https://kunstraumkreuzberg.de/einladung-zur-veranstaltung-am-donnerstag-19-09-2024/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link20"
+            class="about-link19"
           >
             Kunstraum Kreuzberg / Bethanien
           </a>
           <span>
             ,
-            <span v-html="raw3x19"></span>
+            <span v-html="rawur0o"></span>
           </span>
           <a
             href="https://www.neroeditions.com/autori/league-of-tenders/"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link21"
+            class="about-link20"
           >
             NERO Editions Magazine
           </a>
           <span>
             ,
-            <span v-html="rawoist"></span>
+            <span v-html="raw9s5w"></span>
           </span>
           <a
             href="https://garagemca.org/en/exhibition/open-systems-stories-of-self-organized-art-initiatives-in-russia-2000-2015"
             target="_blank"
             rel="noreferrer noopener"
-            class="about-link22"
+            class="about-link21"
           >
             Garage Museum of Contemporary Art
           </a>
-          <span>, FHNW Basel, among others.</span>
+          <span>
+            ,
+            <span v-html="raw02j1"></span>
+          </span>
+          <span class="about-text48">FHNW Basel</span>
+          <span>, among others.</span>
           <br />
-          <span><span v-html="raw8qzq"></span></span>
-          <span><span v-html="rawtwq8"></span></span>
+          <span><span v-html="rawatnn"></span></span>
+          <span><span v-html="rawl86i"></span></span>
         </p>
       </div>
-      <span class="about-text51">
-        <span class="about-text52">
-          I’m currently open to new projects and happy to hear from you.
-        </span>
-        <br class="about-text53" />
-        <span class="about-text54">Feel free to reach out at </span>
-        <a href="mailto:spot.helena@gmail.com?subject=">spot.helena@gmail.com</a>
-        <br />
-      </span>
     </div>
     <footer-container></footer-container>
   </div>
@@ -255,25 +241,25 @@ export default {
   },
   data() {
     return {
-      raw86c6: ' ',
-      rawiw0f: ' ',
-      rawgkrj: ' ',
-      rawhlts: ' ',
-      rawtao6: ' ',
-      rawh683: ' ',
-      raw6i98: ' ',
-      rawxo5l: ' ',
-      rawqgcf: ' ',
-      raw7ld2: ' ',
-      rawp3ld: ' ',
-      rawa9kg: ' ',
-      raw5cat: ' ',
-      rawvjso: ' ',
-      rawrng4: ' ',
-      raw3x19: ' ',
-      rawoist: ' ',
-      raw8qzq: ' ',
-      rawtwq8: ' ',
+      rawuint: ' ',
+      rawva8i: ' ',
+      raw3ae4: ' ',
+      rawfj25: ' ',
+      raw428e: ' ',
+      rawppjd: ' ',
+      raw1rzd: ' ',
+      rawxlyq: ' ',
+      rawu8fe: ' ',
+      rawiorm: ' ',
+      rawwfb8: ' ',
+      rawhnqz: ' ',
+      rawssrg: ' ',
+      raw3c3r: ' ',
+      rawur0o: ' ',
+      raw9s5w: ' ',
+      raw02j1: ' ',
+      rawatnn: ' ',
+      rawl86i: ' ',
     }
   },
   head: {
@@ -283,11 +269,19 @@ export default {
         property: 'og:title',
         content: 'Elena Ishchenko',
       },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        name: 'twitter:title',
+        content: 'Elena Ishchenko',
+      },
     ],
     link: [
       {
         rel: 'canonical',
-        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.site/',
       },
     ],
   },
@@ -328,11 +322,60 @@ export default {
   text-align: left;
 }
  
-.about-text51 {
-  padding-bottom: var(--dl-layout-space-fiveunits);
+@media(max-width: 1200px) {
+  .about-text15 {
+    font-style: italic;
+  }
+  .about-link10 {
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .about-link11 {
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .about-link13 {
+    text-decoration: underline;
+  }
+  .about-link14 {
+    text-decoration: underline;
+  }
+  .about-link15 {
+    text-decoration: underline;
+  }
+  .about-text37 {
+    text-decoration: underline;
+  }
+  .about-link16 {
+    text-decoration: underline;
+  }
+  .about-link17 {
+    text-decoration: underline;
+  }
+  .about-link18 {
+    text-decoration: underline;
+  }
+  .about-link19 {
+    text-decoration: underline;
+  }
+  .about-link20 {
+    text-decoration: underline;
+  }
+  .about-link21 {
+    text-decoration: underline;
+  }
 }
  
-@media(max-width: 1200px) {
+@media(max-width: 991px) {
+  .about-thq-banner-elm {
+    flex-direction: column-reverse;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .about-text10 {
+    width: 425px;
+  }
   .about-text15 {
     font-style: italic;
   }
@@ -374,32 +417,8 @@ export default {
   .about-link21 {
     text-decoration: underline;
   }
-  .about-link22 {
+  .about-text48 {
     text-decoration: underline;
-  }
-  .about-text51 {
-    top: 84px;
-    right: 34px;
-    width: 250px;
-    position: fixed;
-    min-width: 50px;
-    align-self: flex-start;
-    padding-bottom: var(--dl-layout-space-fiveunits);
-  }
-  .about-text52 {
-    align-self: flex-start;
-  }
-  .about-text53 {
-    align-self: flex-start;
-  }
-  .about-text54 {
-    align-self: flex-start;
-  }
-}
- 
-@media(max-width: 991px) {
-  .about-thq-banner-elm {
-    flex-direction: column-reverse;
   }
 }
 </style>

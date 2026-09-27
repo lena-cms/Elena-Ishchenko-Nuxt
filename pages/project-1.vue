@@ -18,8 +18,11 @@
         <br />
       </span>
       <img
+        loading="eager"
+        decoding="async"
         alt="image"
         src="https://images.unsplash.com/photo-1471086569966-db3eebc25a59?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIwfHxtaW5pbWFsaXNtJTIwcGxhbnR8ZW58MHx8fHwxNjI2MTgyODMw&amp;ixlib=rb-1.2.1&amp;w=1200"
+        fetchpriority="high"
         class="project1-image1"
       />
       <span class="project1-text20">
@@ -125,6 +128,8 @@
           </span>
         </div>
         <img
+          loading="eager"
+          decoding="async"
           alt="image"
           src="https://images.unsplash.com/photo-1525498128493-380d1990a112?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDI0fHxtaW5pbWFsaXNtJTIwZ3JlZW58ZW58MHx8fHwxNjI1ODQxMDcw&amp;ixlib=rb-1.2.1&amp;h=1200"
           class="project1-image2"
@@ -155,11 +160,19 @@ export default {
         property: 'og:title',
         content: 'Project-1 - Elena Ishchenko',
       },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        name: 'twitter:title',
+        content: 'Project-1 - Elena Ishchenko',
+      },
     ],
     link: [
       {
         rel: 'canonical',
-        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/project-1',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.site/project-1',
       },
     ],
   },

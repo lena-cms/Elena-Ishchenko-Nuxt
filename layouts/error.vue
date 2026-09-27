@@ -1,13 +1,13 @@
 <template>
-  <div class="not-found-container1">
-    <h3>OOPS! PAGE NOT FOUND</h3>
-    <div class="not-found-container2"><h1 class="not-found-text2">404</h1></div>
-    <div class="not-found-container3">
-      <h2 class="not-found-text3">
-        WE ARE SORRY, BUT THE PAGE YOU REQUESTED WAS NOT FOUND
-      </h2>
-    </div>
-  </div>
+  <main class="not-found-container">
+    <h1 class="not-found-text1">404</h1>
+    <h2 class="not-found-text2">Page not found</h2>
+    <p class="not-found-text3">
+      The page you were looking for has moved, or never existed. Check the
+      address, or head back to the homepage.
+    </p>
+    <a href="/" class="not-found-a">Back to home</a>
+  </main>
 </template>
 
 <script>
@@ -15,48 +15,64 @@ export default {
   name: 'NotFound',
   head: {
     title: '404 - Not Found',
+    meta: [
+      {
+        name: 'robots',
+        content: 'noindex, follow',
+      },
+    ],
   },
 }
 </script>
 
 <style scoped>
-.not-found-container1 {
+.not-found-container {
+  color: var(--color-on-surface, #111827);
   width: 100%;
   display: flex;
-  overflow: auto;
+  padding: 48px 24px;
+  box-sizing: border-box;
   min-height: 100vh;
+  text-align: center;
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  background-color: var(--color-surface, #ffffff);
 }
  
-.not-found-container2 {
-  display: flex;
-  position: relative;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
+.not-found-text1 {
+  color: var(--color-primary, #2563eb);
+  margin: 0;
+  font-size: clamp(72px, 18vw, 160px);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.04em;
 }
  
 .not-found-text2 {
-  color: rgb(38, 38, 38);
-  font-size: 252px;
-  margin-top: -20px;
-  font-weight: 900;
-  margin-bottom: -20px;
-  letter-spacing: -20px;
-}
- 
-.not-found-container3 {
-  width: 421px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
+  margin: 16px 0 0 0;
+  font-size: clamp(20px, 4vw, 28px);
+  font-weight: 700;
 }
  
 .not-found-text3 {
-  text-align: center;
-  font-weight: 400;
+  color: var(--color-on-surface-secondary, #6b7280);
+  margin: 12px 0 0 0;
+  font-size: 16px;
+  max-width: 480px;
+  line-height: 1.6;
+}
+ 
+.not-found-a {
+  color: var(--color-on-primary, #ffffff);
+  display: inline-flex;
+  padding: 12px 24px;
+  margin-top: 32px;
+  align-items: center;
+  font-weight: 600;
+  border-radius: var(--border-radius-md, 8px);
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--color-primary, #2563eb);
 }
 </style>

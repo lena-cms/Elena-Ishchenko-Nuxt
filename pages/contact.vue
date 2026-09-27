@@ -58,11 +58,19 @@ export default {
         property: 'og:title',
         content: 'Contact - Elena Ishchenko',
       },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        name: 'twitter:title',
+        content: 'Contact - Elena Ishchenko',
+      },
     ],
     link: [
       {
         rel: 'canonical',
-        href: 'https://elena-ishchenko-zgp7ep.teleporthq.app/contact',
+        href: 'https://elena-ishchenko-zgp7ep.teleporthq.site/contact',
       },
     ],
   },

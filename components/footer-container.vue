@@ -6,12 +6,8 @@
     <div class="footer-container-thq-section-separator-elm"></div>
     <div class="footer-container-thq-footer-elm">
       <div class="footer-container-thq-social-links-elm">
-        <a :href="linkText" target="_blank" rel="noreferrer noopener">
-          {{ text }}
-        </a>
-        <a :href="linkText1" target="_blank" rel="noreferrer noopener">
-          {{ text1 }}
-        </a>
+        <nuxt-link :to="link_text">{{ text }}</nuxt-link>
+        <nuxt-link :to="link_text1">{{ text1 }}</nuxt-link>
       </div>
     </div>
   </div>
@@ -22,16 +18,22 @@ export default {
   name: 'FooterContainer',
   props: {
     linkText1: {
-      type: String,
-      default: 'https://t.me/empireswilldie',
+      type: Object,
+      default: {
+        url: 'https://t.me/empireswilldie',
+        newTab: false,
+      },
     },
     text: {
       type: String,
       default: 'Instagram /\xA0',
     },
     linkText: {
-      type: String,
-      default: 'https://instagram.com/beyond_n_between?igshid=OGQ5ZDc2ODk2ZA==',
+      type: Object,
+      default: {
+        url: 'https://instagram.com/beyond_n_between?igshid=OGQ5ZDc2ODk2ZA==',
+        newTab: false,
+      },
     },
     rootClassName: String,
     text1: {
