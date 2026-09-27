@@ -38,7 +38,17 @@ jobs:
       - name: Build
         uses: actions/setup-node@v4
       - run: npm install && npm i vue-server-renderer@2.7.14 -D
-      - run: npm run generate
+      # The TeleportHQ export overwrites components/, pages/, layouts/ and
+      # package.json on every push, so these repairs live here (under .github/,
+      # the only tree the export never touches) and are re-applied each build.
+      - name: Repair TeleportHQ export
+        run: |
+          node .github/scripts/fix-export.js
+          node .github/scripts/patch-nuxt-link.js
+      # Invoked directly rather than via `npm run generate`: the export owns
+      # package.json, so --fail-on-error would not survive there. Without it
+      # nuxt exits 0 even when every page fails to render.
+      - run: npx nuxt generate --fail-on-error
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
