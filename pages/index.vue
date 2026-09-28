@@ -6,13 +6,13 @@
         <p class="about-text10">
           <span>
             Hi! I’m a curator, independent researcher, and activist.
-            <span v-html="rawuint"></span>
+            <span v-html="rawmwas"></span>
           </span>
           <br />
           <br />
           <span>
             Currently, I am working on a publication
-            <span v-html="rawva8i"></span>
+            <span v-html="raw7vl4"></span>
           </span>
           <span class="about-text15">My Song Resounds Over Ruins</span>
           <span>
@@ -21,7 +21,7 @@
             witnessing, and reclaiming knowledge, heritage, and land. The
             publication summarises and further develops the ideas explored in the
             group exhibition
-            <span v-html="raw3ae4"></span>
+            <span v-html="raw580u"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/tatar-kiss-en"
@@ -33,7 +33,7 @@
           </a>
           <span>
             and the two-year International Nomadic Program 2024–2025,
-            <span v-html="rawfj25"></span>
+            <span v-html="rawu0cn"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -44,7 +44,7 @@
             Repetition Is a Form of Changing
           </a>
           <span>
-            , organised by Vleeshal Center for Contemporary Art (Middelburg, the
+            , organized by Vleeshal Center for Contemporary Art (Middelburg, the
             Netherlands) and curated by Maria Sarycheva and me as League of
             Tenders.
           </span>
@@ -57,10 +57,9 @@
             positionality, the Russian context is of particular interest, but my
             projects often trace transimperial entanglements to make imperialism
             visible as a global project. It is especially precious to me to
-            discover, on the other side of these transimperial entanglements,
-            beautiful yet often overlooked connections, meaningful relations, and
-            forms of solidarity that emerge beyond borders.
-            <span v-html="raw428e"></span>
+            discover beautiful yet often overlooked connections, meaningful
+            relations, and forms of solidarity that emerge beyond borders.
+            <span v-html="rawbpdw"></span>
           </span>
           <br />
           <br />
@@ -73,7 +72,7 @@
           <br />
           <span>
             My
-            <span v-html="rawppjd"></span>
+            <span v-html="rawzjdc"></span>
           </span>
           <a
             href="https://berlinergazette.de/the-politics-of-cultural-memory-in-russia/"
@@ -92,14 +91,14 @@
           <span>
             I especially appreciate collective ways of working. Since 2018,
             together with curator and educator Maria Sarycheva, I have
-            co-organised the curatorial duo League of Tenders.
-            <span v-html="raw1rzd"></span>
+            co-organized the curatorial duo League of Tenders.
+            <span v-html="rawv5mh"></span>
           </span>
           <br />
           <br />
           <span>
             I am also a part of the
-            <span v-html="rawxlyq"></span>
+            <span v-html="rawlafo"></span>
           </span>
           <a
             href="http://typography-worldwide.org/"
@@ -111,7 +110,7 @@
           </a>
           <span>
             , which emerged from the
-            <span v-html="rawu8fe"></span>
+            <span v-html="rawp8ce"></span>
           </span>
           <a
             href="https://typography-online.ru/"
@@ -126,7 +125,7 @@
             2022. Following Russia’s full-scale invasion of Ukraine and our public
             opposition to it, the Center was declared a “foreign agent,” forcing
             us to leave Russia. We now organize a
-            <span v-html="rawiorm"></span>
+            <span v-html="rawo62y"></span>
           </span>
           <a
             href="https://residesustain.art/en/articles/apartment-in-yerevan"
@@ -142,7 +141,7 @@
           <br />
           <span>
             I have worked with Vleeshal Center for Contemporary Art,
-            <span v-html="rawwfb8"></span>
+            <span v-html="raw89f4"></span>
           </span>
           <a
             href="https://framerframed.nl/en/projecten/her-voice-behind-armenian-lullabies/"
@@ -154,7 +153,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawhnqz"></span>
+            <span v-html="rawry6d"></span>
           </span>
           <a
             href="https://spore-initiative.org/en/programming/participate/authenticity-novelty-and-uniqueness"
@@ -166,7 +165,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawssrg"></span>
+            <span v-html="rawso1y"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -178,7 +177,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw3c3r"></span>
+            <span v-html="raw0syy"></span>
           </span>
           <a
             href="https://kunstraumkreuzberg.de/einladung-zur-veranstaltung-am-donnerstag-19-09-2024/"
@@ -190,7 +189,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawur0o"></span>
+            <span v-html="rawq95w"></span>
           </span>
           <a
             href="https://www.neroeditions.com/autori/league-of-tenders/"
@@ -202,7 +201,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw9s5w"></span>
+            <span v-html="raw0tdz"></span>
           </span>
           <a
             href="https://garagemca.org/en/exhibition/open-systems-stories-of-self-organized-art-initiatives-in-russia-2000-2015"
@@ -214,13 +213,13 @@
           </a>
           <span>
             ,
-            <span v-html="raw02j1"></span>
+            <span v-html="rawnxtx"></span>
           </span>
           <span class="about-text48">FHNW Basel</span>
           <span>, among others.</span>
           <br />
-          <span><span v-html="rawatnn"></span></span>
-          <span><span v-html="rawl86i"></span></span>
+          <span><span v-html="raw8dgu"></span></span>
+          <span><span v-html="rawhdiy"></span></span>
         </p>
       </div>
     </div>
@@ -241,25 +240,25 @@ export default {
   },
   data() {
     return {
-      rawuint: ' ',
-      rawva8i: ' ',
-      raw3ae4: ' ',
-      rawfj25: ' ',
-      raw428e: ' ',
-      rawppjd: ' ',
-      raw1rzd: ' ',
-      rawxlyq: ' ',
-      rawu8fe: ' ',
-      rawiorm: ' ',
-      rawwfb8: ' ',
-      rawhnqz: ' ',
-      rawssrg: ' ',
-      raw3c3r: ' ',
-      rawur0o: ' ',
-      raw9s5w: ' ',
-      raw02j1: ' ',
-      rawatnn: ' ',
-      rawl86i: ' ',
+      rawmwas: ' ',
+      raw7vl4: ' ',
+      raw580u: ' ',
+      rawu0cn: ' ',
+      rawbpdw: ' ',
+      rawzjdc: ' ',
+      rawv5mh: ' ',
+      rawlafo: ' ',
+      rawp8ce: ' ',
+      rawo62y: ' ',
+      raw89f4: ' ',
+      rawry6d: ' ',
+      rawso1y: ' ',
+      raw0syy: ' ',
+      rawq95w: ' ',
+      raw0tdz: ' ',
+      rawnxtx: ' ',
+      raw8dgu: ' ',
+      rawhdiy: ' ',
     }
   },
   head: {
@@ -320,6 +319,22 @@ export default {
  
 .about-text10 {
   text-align: left;
+}
+ 
+.about-text15 {
+  font-style: italic;
+}
+ 
+.about-link11 {
+  font-style: italic;
+}
+ 
+.about-link13 {
+  text-decoration: underline;
+}
+ 
+.about-link14 {
+  text-decoration: underline;
 }
  
 @media(max-width: 1200px) {
