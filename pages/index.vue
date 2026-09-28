@@ -6,13 +6,13 @@
         <p class="about-text10">
           <span>
             Hi! I’m a curator, independent researcher, and activist.
-            <span v-html="rawmwas"></span>
+            <span v-html="rawindl"></span>
           </span>
           <br />
           <br />
           <span>
             Currently, I am working on a publication
-            <span v-html="raw7vl4"></span>
+            <span v-html="rawwrsd"></span>
           </span>
           <span class="about-text15">My Song Resounds Over Ruins</span>
           <span>
@@ -21,7 +21,7 @@
             witnessing, and reclaiming knowledge, heritage, and land. The
             publication summarises and further develops the ideas explored in the
             group exhibition
-            <span v-html="raw580u"></span>
+            <span v-html="rawgnf4"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/tatar-kiss-en"
@@ -33,7 +33,7 @@
           </a>
           <span>
             and the two-year International Nomadic Program 2024–2025,
-            <span v-html="rawu0cn"></span>
+            <span v-html="rawk4u9"></span>
           </span>
           <a
             href="https://www.vleeshal.nl/archive/series/repetition-is-a-form-of-changing-series"
@@ -59,7 +59,7 @@
             visible as a global project. It is especially precious to me to
             discover beautiful yet often overlooked connections, meaningful
             relations, and forms of solidarity that emerge beyond borders.
-            <span v-html="rawbpdw"></span>
+            <span v-html="rawowfd"></span>
           </span>
           <br />
           <br />
@@ -72,7 +72,7 @@
           <br />
           <span>
             My
-            <span v-html="rawzjdc"></span>
+            <span v-html="rawqd8t"></span>
           </span>
           <a
             href="https://berlinergazette.de/the-politics-of-cultural-memory-in-russia/"
@@ -92,13 +92,13 @@
             I especially appreciate collective ways of working. Since 2018,
             together with curator and educator Maria Sarycheva, I have
             co-organized the curatorial duo League of Tenders.
-            <span v-html="rawv5mh"></span>
+            <span v-html="rawgnde"></span>
           </span>
           <br />
           <br />
           <span>
             I am also a part of the
-            <span v-html="rawlafo"></span>
+            <span v-html="rawo80u"></span>
           </span>
           <a
             href="http://typography-worldwide.org/"
@@ -110,7 +110,7 @@
           </a>
           <span>
             , which emerged from the
-            <span v-html="rawp8ce"></span>
+            <span v-html="rawqywi"></span>
           </span>
           <a
             href="https://typography-online.ru/"
@@ -125,7 +125,7 @@
             2022. Following Russia’s full-scale invasion of Ukraine and our public
             opposition to it, the Center was declared a “foreign agent,” forcing
             us to leave Russia. We now organize a
-            <span v-html="rawo62y"></span>
+            <span v-html="rawr37b"></span>
           </span>
           <a
             href="https://residesustain.art/en/articles/apartment-in-yerevan"
@@ -141,7 +141,7 @@
           <br />
           <span>
             I have worked with Vleeshal Center for Contemporary Art,
-            <span v-html="raw89f4"></span>
+            <span v-html="raw4v4q"></span>
           </span>
           <a
             href="https://framerframed.nl/en/projecten/her-voice-behind-armenian-lullabies/"
@@ -153,7 +153,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawry6d"></span>
+            <span v-html="raw3v7u"></span>
           </span>
           <a
             href="https://spore-initiative.org/en/programming/participate/authenticity-novelty-and-uniqueness"
@@ -165,7 +165,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawso1y"></span>
+            <span v-html="rawx0ru"></span>
           </span>
           <a
             href="https://archiv.ngbk.de/en/projekte/m-ome-baschkirisch-fur-kollektive-selbsthilfepraktiken/"
@@ -177,7 +177,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw0syy"></span>
+            <span v-html="raw40gk"></span>
           </span>
           <a
             href="https://kunstraumkreuzberg.de/einladung-zur-veranstaltung-am-donnerstag-19-09-2024/"
@@ -189,7 +189,7 @@
           </a>
           <span>
             ,
-            <span v-html="rawq95w"></span>
+            <span v-html="rawdax8"></span>
           </span>
           <a
             href="https://www.neroeditions.com/autori/league-of-tenders/"
@@ -201,7 +201,7 @@
           </a>
           <span>
             ,
-            <span v-html="raw0tdz"></span>
+            <span v-html="raw5je0"></span>
           </span>
           <a
             href="https://garagemca.org/en/exhibition/open-systems-stories-of-self-organized-art-initiatives-in-russia-2000-2015"
@@ -213,13 +213,13 @@
           </a>
           <span>
             ,
-            <span v-html="rawnxtx"></span>
+            <span v-html="raw9ote"></span>
           </span>
           <span class="about-text48">FHNW Basel</span>
           <span>, among others.</span>
           <br />
-          <span><span v-html="raw8dgu"></span></span>
-          <span><span v-html="rawhdiy"></span></span>
+          <span><span v-html="rawhxoy"></span></span>
+          <span><span v-html="rawezh6"></span></span>
         </p>
       </div>
     </div>
@@ -240,25 +240,25 @@ export default {
   },
   data() {
     return {
-      rawmwas: ' ',
-      raw7vl4: ' ',
-      raw580u: ' ',
-      rawu0cn: ' ',
-      rawbpdw: ' ',
-      rawzjdc: ' ',
-      rawv5mh: ' ',
-      rawlafo: ' ',
-      rawp8ce: ' ',
-      rawo62y: ' ',
-      raw89f4: ' ',
-      rawry6d: ' ',
-      rawso1y: ' ',
-      raw0syy: ' ',
-      rawq95w: ' ',
-      raw0tdz: ' ',
-      rawnxtx: ' ',
-      raw8dgu: ' ',
-      rawhdiy: ' ',
+      rawindl: ' ',
+      rawwrsd: ' ',
+      rawgnf4: ' ',
+      rawk4u9: ' ',
+      rawowfd: ' ',
+      rawqd8t: ' ',
+      rawgnde: ' ',
+      rawo80u: ' ',
+      rawqywi: ' ',
+      rawr37b: ' ',
+      raw4v4q: ' ',
+      raw3v7u: ' ',
+      rawx0ru: ' ',
+      raw40gk: ' ',
+      rawdax8: ' ',
+      raw5je0: ' ',
+      raw9ote: ' ',
+      rawhxoy: ' ',
+      rawezh6: ' ',
     }
   },
   head: {
@@ -325,8 +325,14 @@ export default {
   font-style: italic;
 }
  
+.about-link10 {
+  font-style: italic;
+  text-decoration: underline;
+}
+ 
 .about-link11 {
   font-style: italic;
+  text-decoration: underline;
 }
  
 .about-link13 {
