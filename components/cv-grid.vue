@@ -220,8 +220,6 @@ export default {
  
 
  
-
- 
 @media(max-width: 1200px) {
   .cv-grid-text1 {
     width: 220px;
