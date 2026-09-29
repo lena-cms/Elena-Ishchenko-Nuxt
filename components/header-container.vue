@@ -22,12 +22,20 @@
         >
           {{ link8 }}
         </a>
-        <nuxt-link to="/cv" class="header-container-thq-link-elm3 Navbar-Link">
+        <a
+          href="https://drive.google.com/file/d/1aNZ99Q35lpou5sBUMCEKTs3VGyHyre08/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer noopener"
+          class="header-container-thq-link-elm3"
+        >
+          {{ link81 }}
+        </a>
+        <nuxt-link to="/cv" class="header-container-thq-link-elm4 Navbar-Link">
           {{ link1 }}
         </nuxt-link>
         <nuxt-link
           to="/contact"
-          class="header-container-thq-link-elm4 Navbar-Link"
+          class="header-container-thq-link-elm5 Navbar-Link"
         >
           {{ link3 }}
         </nuxt-link>
@@ -56,15 +64,15 @@
           </div>
         </div>
         <div class="header-container-thq-links-container-elm2">
-          <nuxt-link to="/" class="header-container-thq-link-elm5 Navbar-Link">
+          <nuxt-link to="/" class="header-container-thq-link-elm6 Navbar-Link">
             {{ link4 }}
           </nuxt-link>
-          <nuxt-link to="/cv" class="header-container-thq-link-elm6 Navbar-Link">
+          <nuxt-link to="/cv" class="header-container-thq-link-elm7 Navbar-Link">
             {{ link5 }}
           </nuxt-link>
           <nuxt-link
             to="/contact"
-            class="header-container-thq-link-elm7 Navbar-Link"
+            class="header-container-thq-link-elm8 Navbar-Link"
           >
             {{ link7 }}
           </nuxt-link>
@@ -114,6 +122,10 @@ export default {
     link4: {
       type: String,
       default: 'About',
+    },
+    link81: {
+      type: String,
+      default: 'League of Tenders',
     },
   },
 }
@@ -187,11 +199,17 @@ export default {
 }
  
 .header-container-thq-link-elm3 {
+  font-weight: bold;
   margin-right: var(--dl-layout-space-tripleunit);
   text-decoration: none;
 }
  
 .header-container-thq-link-elm4 {
+  margin-right: var(--dl-layout-space-tripleunit);
+  text-decoration: underline none;
+}
+ 
+.header-container-thq-link-elm5 {
   text-decoration: none;
 }
  
@@ -248,17 +266,17 @@ export default {
   flex-direction: column;
 }
  
-.header-container-thq-link-elm5 {
-  margin-bottom: var(--dl-layout-space-unit);
-  text-decoration: none;
-}
- 
 .header-container-thq-link-elm6 {
   margin-bottom: var(--dl-layout-space-unit);
   text-decoration: none;
 }
  
 .header-container-thq-link-elm7 {
+  margin-bottom: var(--dl-layout-space-unit);
+  text-decoration: none;
+}
+ 
+.header-container-thq-link-elm8 {
   text-decoration: none;
 }
  
@@ -270,6 +288,11 @@ export default {
  
 @media(max-width: 1200px) {
   .header-container-thq-link-elm2 {
+    font-weight: bold;
+    margin-right: var(--dl-layout-space-tripleunit);
+    text-decoration: none;
+  }
+  .header-container-thq-link-elm3 {
     font-weight: bold;
     margin-right: var(--dl-layout-space-tripleunit);
     text-decoration: none;
