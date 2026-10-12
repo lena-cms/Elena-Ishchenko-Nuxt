@@ -6,8 +6,8 @@
     <div class="footer-container-thq-section-separator-elm"></div>
     <div class="footer-container-thq-footer-elm">
       <div class="footer-container-thq-social-links-elm">
-        <nuxt-link :to="link_text">{{ text }}</nuxt-link>
-        <nuxt-link :to="link_text1">{{ text1 }}</nuxt-link>
+        <a>{{ text }}</a>
+        <a>{{ text1 }}</a>
       </div>
     </div>
   </div>

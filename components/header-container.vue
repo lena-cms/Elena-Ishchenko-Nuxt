@@ -86,6 +86,10 @@
 export default {
   name: 'HeaderContainer',
   props: {
+    link81: {
+      type: String,
+      default: 'League of Tenders',
+    },
     link8: {
       type: String,
       default: 'Portfolio',
@@ -122,10 +126,6 @@ export default {
     link4: {
       type: String,
       default: 'About',
-    },
-    link81: {
-      type: String,
-      default: 'League of Tenders',
     },
   },
 }
