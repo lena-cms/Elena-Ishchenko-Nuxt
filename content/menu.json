@@ -1,7 +1,34 @@
 [
-  { "id": "about", "label": "About", "type": "page", "page": "about" },
-  { "id": "portfolio", "label": "Portfolio", "type": "url", "url": "https://drive.google.com/file/d/1_aSRIGrll7yNgGEZa8vFuoSRXppAWNMY/view?usp=sharing", "newTab": true },
-  { "id": "league-of-tenders", "label": "League of Tenders", "type": "url", "url": "https://drive.google.com/file/d/1aNZ99Q35lpou5sBUMCEKTs3VGyHyre08/view?usp=sharing", "newTab": true },
-  { "id": "cv", "label": "CV", "type": "page", "page": "cv" },
-  { "id": "contact", "label": "Contact", "type": "page", "page": "contact" }
+  {
+    "id": "about",
+    "label": "About",
+    "type": "page",
+    "page": "about"
+  },
+  {
+    "id": "portfolio",
+    "label": "Portfolio",
+    "type": "url",
+    "url": "https://drive.google.com/file/d/1_aSRIGrll7yNgGEZa8vFuoSRXppAWNMY/view?usp=sharing",
+    "newTab": true
+  },
+  {
+    "id": "league-of-tenders",
+    "label": "League of Tenders",
+    "type": "url",
+    "url": "https://drive.google.com/file/d/1aNZ99Q35lpou5sBUMCEKTs3VGyHyre08/view?usp=sharing",
+    "newTab": true
+  },
+  {
+    "id": "cv",
+    "label": "CV",
+    "type": "page",
+    "page": "cv"
+  },
+  {
+    "id": "contact",
+    "label": "Contact",
+    "type": "page",
+    "page": "contact"
+  }
 ]

@@ -2,7 +2,7 @@
 title: CV
 ---
 
-|   |   |   |
+|  |  |  |
 | --- | --- | --- |
 | **Upcoming & Recent** | 2026 | My Song Resounds Over Ruins, book<br>*Vleeshal Center for Contemporary Art & Tselinny Center of Contemporary Culture (Kazakhstan)* |
 |  | 2027 | Healing Through Making: Decolonial Aesthesis Against Colonial Wounds<br>*Chapter in "The Weaponisation of History: Visual Manifestation of Power and Resistance in Contemporary Russia and Beyond" (Routledge, 2026)* |
