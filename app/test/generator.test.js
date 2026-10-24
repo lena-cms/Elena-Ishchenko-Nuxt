@@ -71,6 +71,13 @@ test('writes CNAME and uses root paths for a custom domain', async () => {
   assert.match(await fs.readFile(path.join(out, '404.html'), 'utf8'), /href="\/style\.css"/)
 })
 
+test('keeps a CNAME written by GitHub when site.json has no domain', async () => {
+  const dir = await fixture({ ...basic, 'docs/CNAME': 'example.net\n' })
+  const out = path.join(dir, 'docs')
+  await buildSite({ contentDir: path.join(dir, 'content'), outDir: out })
+  assert.equal(await fs.readFile(path.join(out, 'CNAME'), 'utf8'), 'example.net\n')
+})
+
 test('removes stale output', async () => {
   const dir = await fixture({ ...basic, 'docs/old/index.html': 'old' })
   await buildSite({ contentDir: path.join(dir, 'content'), outDir: path.join(dir, 'docs') })

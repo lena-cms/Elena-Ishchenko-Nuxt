@@ -159,8 +159,9 @@ async function loadLists () {
   ;[pages.value, site.value] = await Promise.all([window.cms.listPages(), window.cms.getSite()])
 }
 
-async function enter (result) {
+async function enter ({ warning, ...result }) {
   info.value = result
+  error.value = warning || ''
   await loadLists()
   if (!view.value.slug || !pages.value.some(p => p.slug === view.value.slug)) {
     const home = pages.value.find(p => p.slug === site.value.homePage) || pages.value[0]

@@ -52,7 +52,16 @@ async function openRepo (credentials) {
   await next.open()
   repo = next
   store = new ContentStore(next.contentDir)
-  return state()
+  // An existing copy may be behind GitHub (edited elsewhere, or downloaded
+  // before the last publish). Still open the app when this fails.
+  let warning = ''
+  try {
+    progress('Fetching changes from GitHub…')
+    await next.sync()
+  } catch (err) {
+    warning = `Could not get the latest version from GitHub: ${err.message}`
+  }
+  return { ...await state(), warning }
 }
 
 async function state () {

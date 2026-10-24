@@ -50,8 +50,8 @@
       </li>
     </ul>
 
-    <form v-if="linkDialog.open" class="link-dialog" :style="{ top: linkDialog.top + 'px', left: linkDialog.left + 'px' }" @submit.prevent="applyLink">
-      <input ref="linkInput" v-model="linkDialog.href" placeholder="https://… or /page-address" @keydown.esc="linkDialog.open = false">
+    <form v-if="linkDialog.open" ref="linkForm" class="link-dialog" :style="{ top: linkDialog.top + 'px', left: linkDialog.left + 'px' }" @submit.prevent="applyLink">
+      <input ref="linkInput" v-model="linkDialog.href" placeholder="https://… or /page-address" @keydown.esc="cancelLink">
       <button type="submit" class="primary">Apply</button>
       <button type="button" @click="removeLink">Remove</button>
     </form>
@@ -79,6 +79,7 @@ const slugDraft = ref(props.slug)
 const editor = ref(null)
 const fileInput = ref(null)
 const linkInput = ref(null)
+const linkForm = ref(null)
 let saveTimer = null
 
 const slash = reactive({ open: false, query: '', from: 0, top: 0, left: 0, index: 0 })
@@ -180,6 +181,18 @@ function applyLink () {
   cmd(c => c.extendMarkRange('link').setLink({ href }))
 }
 
+function cancelLink () {
+  linkDialog.open = false
+  editor.value.commands.focus()
+}
+
+// Clicking anywhere outside the dialog (including selecting other text) dismisses it.
+function onDocumentMousedown (event) {
+  if (linkDialog.open && !linkForm.value?.contains(event.target)) {
+    linkDialog.open = false
+  }
+}
+
 function removeLink () {
   linkDialog.open = false
   cmd(c => c.extendMarkRange('link').unsetLink())
@@ -261,6 +274,7 @@ async function remove () {
 }
 
 onMounted(async () => {
+  document.addEventListener('mousedown', onDocumentMousedown, true)
   try {
     page.value = await window.cms.getPage(props.slug)
   } catch (err) {
@@ -312,6 +326,7 @@ onMounted(async () => {
 })
 
 onBeforeUnmount(() => {
+  document.removeEventListener('mousedown', onDocumentMousedown, true)
   if (saveTimer) {
     save()
   }

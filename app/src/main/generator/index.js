@@ -33,6 +33,10 @@ export async function buildSite ({ contentDir, outDir }) {
     throw new Error(`Home page "${site.homePage}" does not exist in content/pages`)
   }
 
+  // GitHub writes CNAME into the published folder when a custom domain is set
+  // in the repository settings; keep it unless site.json names a domain.
+  const existingCname = await fs.readFile(path.join(outDir, 'CNAME'), 'utf8').catch(() => '')
+
   await fs.rm(outDir, { recursive: true, force: true })
   await fs.mkdir(outDir, { recursive: true })
 
@@ -77,6 +81,8 @@ export async function buildSite ({ contentDir, outDir }) {
   await write('.nojekyll', '')
   if (site.customDomain) {
     await write('CNAME', site.customDomain.trim() + '\n')
+  } else if (existingCname.trim()) {
+    await write('CNAME', existingCname)
   }
 
   const siteUrl = site.customDomain

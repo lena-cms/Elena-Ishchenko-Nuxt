@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lena-cms.github.io/Elena-Ishchenko-Nuxt/sitemap.xml
+Sitemap: https://elenaishchenko.com/sitemap.xml
