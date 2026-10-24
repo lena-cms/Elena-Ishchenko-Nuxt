@@ -1,0 +1,116 @@
+/* Global site styles. Edited from the "Styles" section of the Lena CMS app. */
+
+:root {
+  --color-text: #000000;
+  --color-background: #ffffff;
+  --color-muted: #595959;
+  --color-border: #d9d9d9;
+  --font-body: Arial, sans-serif;
+  --font-heading: Overpass, Arial, sans-serif;
+  --max-width: 1414px;
+  --text-width: 751px;
+  --gutter: 24px;
+}
+
+/* Reset */
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
+html { font-family: var(--font-body); font-size: 16px; scroll-behavior: smooth; }
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.55;
+  color: var(--color-text);
+  background: var(--color-background);
+}
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; }
+
+/* Header */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--color-background);
+  margin-bottom: 8px;
+}
+.site-header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--gutter);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.site-title {
+  font-family: var(--font-heading);
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.site-menu { display: flex; gap: var(--gutter); list-style: none; }
+.site-menu a {
+  font-family: var(--font-heading);
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.menu-toggle, .menu-checkbox { display: none; }
+
+/* Page content */
+.page {
+  flex: 1;
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--gutter);
+}
+.page > * { max-width: var(--text-width); }
+.page > * + * { margin-top: 1.55em; }
+.page a { text-decoration: underline; }
+.page h1, .page h2, .page h3 { font-family: var(--font-heading); line-height: 1.22; }
+.page h1 { font-size: 35px; }
+.page h2 { font-size: 24px; }
+.page h3 { font-size: 18px; }
+.page ul, .page ol { padding-left: 1.5rem; }
+.page blockquote { padding-left: 1rem; border-left: 2px solid var(--color-border); }
+.page hr { border: 0; border-top: 1px solid var(--color-border); }
+
+/* Tables (the CV is one table: section | years | entry) */
+.page table { max-width: none; border-collapse: collapse; }
+.page th, .page td { padding: 4px 12px 4px 0; text-align: left; vertical-align: top; }
+.page th { font-weight: 700; }
+.page-cv table { margin-top: 0; }
+.page-cv td { padding-bottom: 4px; }
+.page-cv td:nth-child(1) { width: 232px; padding-right: 24px; }
+.page-cv td:nth-child(2) { width: 174px; padding-right: 24px; text-align: right; white-space: nowrap; }
+.page-cv tr:has(td:first-child strong) td { padding-top: 32px; }
+.page-cv tr:first-child td { padding-top: 4px; }
+
+/* Footer */
+.site-footer { margin-top: 80px; border-top: 1px solid var(--color-border); }
+.site-footer-inner { max-width: var(--max-width); margin: 0 auto; padding: var(--gutter); }
+
+@media (max-width: 991px) {
+  .page-cv table, .page-cv tbody, .page-cv tr, .page-cv td { display: block; width: auto !important; }
+  .page-cv td { text-align: left !important; padding: 0 !important; }
+  .page-cv tr { padding: 8px 0; }
+  .page-cv tr:has(td:first-child strong) { padding-top: 32px; }
+  .page-cv td:empty { display: none; }
+}
+
+@media (max-width: 767px) {
+  .site-header-inner { flex-wrap: wrap; }
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+    list-style: none;
+    padding: 4px 8px;
+    color: var(--color-background);
+    background: var(--color-text);
+    border-radius: 4px;
+    font-weight: 700;
+  }
+  .menu-checkbox:not(:checked) ~ .site-menu { display: none; }
+  .site-menu { flex-basis: 100%; flex-direction: column; gap: 16px; padding-top: 16px; }
+}
