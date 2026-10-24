@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "electron-vite dev",
     "build": "electron-vite build",
-    "test": "node --test test/",
+    "test": "node --test \"test/*.test.js\"",
     "build-site": "node scripts/build-site.js",
     "dist": "electron-vite build && electron-builder --mac --publish never"
   },
