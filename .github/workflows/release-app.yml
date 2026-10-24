@@ -1,0 +1,60 @@
+# Builds the Lena CMS desktop app and publishes it as a GitHub release
+# whenever the app's source or this workflow changes. Content edits made with
+# the app (content/, docs/) do not trigger it.
+name: Release desktop app
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "app/**"
+      - ".github/workflows/release-app.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-app
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: macos-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+
+      - run: npm ci
+
+      - run: npm test
+
+      - name: Build app
+        run: npm run dist
+
+      - name: Determine version
+        id: version
+        run: echo "tag=app-v$(node -p "require('./package.json').version")-${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: Lena CMS ${{ steps.version.outputs.tag }}
+          target_commitish: ${{ github.sha }}
+          body: |
+            Desktop editor built from ${{ github.sha }}.
+
+            The app is not notarized by Apple. After the first launch attempt, open
+            System Settings → Privacy & Security and click "Open Anyway" next to "Lena CMS".
+          files: |
+            app/dist/*.dmg
+            app/dist/*.zip
