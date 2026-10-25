@@ -6,7 +6,7 @@ title: CV
 | --- | --- | --- |
 | **Upcoming & Recent** | 2026 | My Song Resounds Over Ruins, book<br>*Vleeshal Center for Contemporary Art & Tselinny Center of Contemporary Culture (Kazakhstan)* |
 |  | 2027 | Healing Through Making: Decolonial Aesthesis Against Colonial Wounds<br>*Chapter in "The Weaponisation of History: Visual Manifestation of Power and Resistance in Contemporary Russia and Beyond" (Routledge, 2026)* |
-|  | 2027 | The Shine of Our Eyes<br>*Residency program organized with Typography Collective in Yerevan, Armenia* |
+|  | 2027 | [The Shine of Our Eyes](https://typography-worldwide.org/en/2026/08/13/the-shine-of-our-eyes-open-call/)<br>*Residency program organized with Typography Collective in Yerevan, Armenia* |
 |  | 2023–ongoing | Archive of Repressions Against Cultural Workers in Russia, non-public |
 | **Education** | 2024–2026 | Lumbung Practice, de Appel & Sandberg, Amsterdam, the Netherlands |
 |  | 2014 | Moscow State University, MA Journalism |
